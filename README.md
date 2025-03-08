@@ -1,2 +1,3 @@
-# website_vaiiya.ca
-The source for vaiiya.ca's website
+# VAIIYA WEBSITE SOURCE AND HOSTING
+current hosting location: new.vaiiya.ca 
+
