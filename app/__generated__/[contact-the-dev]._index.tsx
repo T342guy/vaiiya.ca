@@ -312,7 +312,7 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Box>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 cs10lxh czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn`}>
 <Box
@@ -321,11 +321,11 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex cy1haag c32myit cwrra4i c4rpps8 c1d23h5a cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c40zsbj c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu c1dhz37v c1xzir7e`}>
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c4rpps8 c1arpfby cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c40zsbj c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c1allln7 c1dhz37v c1xzir7e`}>
 {"Need to contact the developer?"}
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x`}>
+className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i`}>
 {"Contact the developer here!"}
 {""}
 <br />
@@ -337,9 +337,9 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x`}>
 className={`w-box cry9bxc ce1qmkg`}>
 <Link
 target={"_blank"}
-href={"https://github.com/T342guy/website_vaiiya.ca"}
+href={"https://github.com/T342guy/vaiiya.ca/tree/WEBSITE_V3_SOURCE"}
 className={`w-link crwvary cel3d5i c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17jsneg c1szyaw7 c93at1n c1mz5ev9 cf189jz c57idyp chjyh7x c10jxkhw ckzqjx9 c1e72s5c ck3af4j csru8nn ct02u4h cuccfz7 c1frpvgv`}>
-{"Website's REPO and issue tracker  (NOTCURRENTSOURCE)"}
+{"Website's REPO and issue tracker"}
 </Link>
 </Box>
 <Box
@@ -406,14 +406,6 @@ className={`w-list-item`}>
 href={"/"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"FAQ"}
-</Link>
-</ListItem>
-<ListItem
-className={`w-list-item`}>
-<Link
-href={"/"}
-className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Pricing"}
 </Link>
 </ListItem>
 </List>
