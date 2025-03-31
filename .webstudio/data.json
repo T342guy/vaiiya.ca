@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "e703db26-f58b-4408-be15-20405cda52c7",
+    "id": "4572788d-9202-4b5b-90c0-327846ce7898",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 618,
-    "createdAt": "2025-03-30T22:18:40.905+00:00",
-    "updatedAt": "2025-03-30T22:18:40.905+00:00",
+    "version": 623,
+    "createdAt": "2025-03-31T04:10:10.978+00:00",
+    "updatedAt": "2025-03-31T04:10:10.978+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -26866,160 +26866,6 @@
         }
       ],
       [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:fontFamily:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Saira"
-            ]
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:fontWeight:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "fontWeight",
-          "value": {
-            "type": "keyword",
-            "value": "800"
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:fontStyle:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "fontStyle",
-          "value": {
-            "type": "keyword",
-            "value": "italic"
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:backgroundColor:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "backgroundColor",
-          "value": {
-            "type": "rgb",
-            "r": 250,
-            "g": 248,
-            "b": 51,
-            "alpha": 1
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:objectPosition:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "objectPosition",
-          "value": {
-            "type": "tuple",
-            "value": [
-              {
-                "type": "unit",
-                "value": 50,
-                "unit": "%"
-              },
-              {
-                "type": "unit",
-                "value": 50,
-                "unit": "%"
-              }
-            ]
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:position:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "position",
-          "value": {
-            "type": "keyword",
-            "value": "static"
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:textAlign:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "textAlign",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:color:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "color",
-          "value": {
-            "type": "rgb",
-            "r": 0,
-            "g": 0,
-            "b": 0,
-            "alpha": 1
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:marginTop:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "marginTop",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": 5
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:flexGrow:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "flexGrow",
-          "value": {
-            "type": "unit",
-            "value": 1,
-            "unit": "number"
-          }
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC:jAWQK3_7D18H_5v0pK0z4:flexShrink:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7VKw3YiOQ5sJGeU4o3SVC",
-          "property": "flexShrink",
-          "value": {
-            "type": "unit",
-            "value": 0,
-            "unit": "number"
-          }
-        }
-      ],
-      [
         "oRAbEU1CQdxUrlAv6ajpc:jAWQK3_7D18H_5v0pK0z4:display:",
         {
           "styleSourceId": "oRAbEU1CQdxUrlAv6ajpc",
@@ -31213,13 +31059,6 @@
         {
           "type": "local",
           "id": "vDvAUATIE-VEmqJuyf1ij"
-        }
-      ],
-      [
-        "7VKw3YiOQ5sJGeU4o3SVC",
-        {
-          "type": "local",
-          "id": "7VKw3YiOQ5sJGeU4o3SVC"
         }
       ],
       [
@@ -36262,15 +36101,6 @@
         }
       ],
       [
-        "30yuzr_uogD3k19Xh2SIs",
-        {
-          "instanceId": "30yuzr_uogD3k19Xh2SIs",
-          "values": [
-            "7VKw3YiOQ5sJGeU4o3SVC"
-          ]
-        }
-      ],
-      [
         "CGrNCfEPg0Ty5wOnanUWa",
         {
           "instanceId": "CGrNCfEPg0Ty5wOnanUWa",
@@ -40533,6 +40363,26 @@
           "type": "string",
           "value": "_self"
         }
+      ],
+      [
+        "5Bh6pZG3i6Mhw48l9ljjD",
+        {
+          "id": "5Bh6pZG3i6Mhw48l9ljjD",
+          "instanceId": "vnI5poKUPiQpgDrXkco0e",
+          "name": "href",
+          "type": "page",
+          "value": "o6u64ygKqlzM-lkV4jRqk"
+        }
+      ],
+      [
+        "b65Egpae8hoYIJhk_jPQ5",
+        {
+          "id": "b65Egpae8hoYIJhk_jPQ5",
+          "instanceId": "vnI5poKUPiQpgDrXkco0e",
+          "name": "target",
+          "type": "string",
+          "value": "_self"
+        }
       ]
     ],
     "dataSources": [
@@ -44559,10 +44409,6 @@
           "children": [
             {
               "type": "id",
-              "value": "30yuzr_uogD3k19Xh2SIs"
-            },
-            {
-              "type": "id",
               "value": "YGo3GD6DGyjAFhzmRF-Ml"
             }
           ]
@@ -45491,7 +45337,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Changelog"
+              "value": "Contact the dev!"
             }
           ]
         }
@@ -50830,20 +50676,6 @@
             {
               "type": "text",
               "value": "Learn more!"
-            }
-          ]
-        }
-      ],
-      [
-        "30yuzr_uogD3k19Xh2SIs",
-        {
-          "type": "instance",
-          "id": "30yuzr_uogD3k19Xh2SIs",
-          "component": "Heading",
-          "children": [
-            {
-              "type": "text",
-              "value": "THIS SITE IS UNDER HEAVY CONSTRUCTION"
             }
           ]
         }

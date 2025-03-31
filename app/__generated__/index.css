@@ -2344,24 +2344,6 @@
   .c180fws7 {
     text-decoration-line: underline
   }
-  .ckjkq46 {
-    font-weight: 800
-  }
-  .cfxlzo {
-    background-color: rgba(250, 248, 51, 1)
-  }
-  .c57idyp {
-    object-position: 50% 50%
-  }
-  .ck3af4j {
-    position: static
-  }
-  .c6awm87 {
-    color: rgba(0, 0, 0, 1)
-  }
-  .c1k0o02s {
-    margin-top: 5px
-  }
   .c1w3n4cj {
     background-image: linear-gradient(180deg,rgba(0,0,0,0.8491771708683473) 18%,rgba(0,0,0,0.8547794117647058) 44%,rgba(0,0,0,0.5410539215686274) 70%,rgba(0,0,0,0.5438550420168067) 100%), url("/assets/Untitled_0Sb78cJTz21abRBz7HqQ7.webp")
   }
@@ -2413,6 +2395,9 @@
   .cf189jz {
     border-bottom-right-radius: 5px
   }
+  .c57idyp {
+    object-position: 50% 50%
+  }
   .chjyh7x {
     border-top-width: 1px
   }
@@ -2424,6 +2409,9 @@
   }
   .c1e72s5c {
     border-bottom-width: 1px
+  }
+  .ck3af4j {
+    position: static
   }
   .c1frpvgv {
     padding: 5px

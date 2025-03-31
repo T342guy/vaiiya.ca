@@ -16,7 +16,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf"]
+        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         ["Group_1_3Lze2enBpFNP3rVOtd0Yp.svg","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp","Icons_Zs8GOxaeJO22wgbZCoQDR.svg"]
@@ -914,17 +914,15 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 data-ws-index="4"
 className={`w-menu-item`}>
 <Link
+href={"/contact-the-dev"}
+target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Changelog"}
+{"Contact the dev!"}
 </Link>
 </NavigationMenuItem>
 </NavigationMenuList>
 <Box
 className={`w-box cdwd3jx c1lzcxwg cry9bxc ct02u4h cdtylqg chmjof8 czr2pxy c3xzas1 c1n6cdq4`}>
-<Heading
-className={`w-heading cel3d5i ckjkq46 cnonmc3 cfxlzo c57idyp ck3af4j c1qom380 c6awm87 c1k0o02s c1fhkm63 clv8gve`}>
-{"THIS SITE IS UNDER HEAVY CONSTRUCTION"}
-</Heading>
 <NavigationMenuViewport
 data-ani={"zoom"}
 className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hsfuam cbvt2h6 coapalq cm26ajs cd3iwfe c1yhcvvf cwc6hbl c11r52nx ceu30e1 ce02iuh`} />
@@ -1568,17 +1566,15 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 data-ws-index="4"
 className={`w-menu-item`}>
 <Link
+href={"/contact-the-dev"}
+target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Changelog"}
+{"Contact the dev!"}
 </Link>
 </NavigationMenuItem>
 </NavigationMenuList>
 <Box
 className={`w-box cdwd3jx c1lzcxwg cry9bxc ct02u4h cdtylqg chmjof8 czr2pxy c3xzas1 c1n6cdq4`}>
-<Heading
-className={`w-heading cel3d5i ckjkq46 cnonmc3 cfxlzo c57idyp ck3af4j c1qom380 c6awm87 c1k0o02s c1fhkm63 clv8gve`}>
-{"THIS SITE IS UNDER HEAVY CONSTRUCTION"}
-</Heading>
 <NavigationMenuViewport
 data-ani={"zoom"}
 className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hsfuam cbvt2h6 coapalq cm26ajs cd3iwfe c1yhcvvf cwc6hbl c11r52nx ceu30e1 ce02iuh`} />
