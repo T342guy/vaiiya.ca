@@ -263,6 +263,32 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  b.w-bold-text {
+    font-weight: 700;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px
+  }
+  i.w-italic-text {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    font-style: italic
+  }
+  a.w-rich-text-link {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    display: inline-block
+  }
   ol.w-list {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -292,32 +318,6 @@
     border-bottom-width: 1px;
     border-left-width: 1px;
     outline-width: 1px
-  }
-  b.w-bold-text {
-    font-weight: 700;
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px
-  }
-  i.w-italic-text {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    font-style: italic
-  }
-  a.w-rich-text-link {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    display: inline-block
   }
   code.w-code-text {
     font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
@@ -475,6 +475,18 @@
     border: 1px solid rgba(226, 232, 240, 1);
     margin: 0;
     padding: 0px
+  }
+  sub.w-subscript-text {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    bottom: -0.25em
   }
 }
 @media all {
@@ -2421,6 +2433,37 @@
   }
   .c1fo9lv5 {
     padding-top: 0px
+  }
+  .c139s0bz {
+    color: rgba(226, 213, 213, 1)
+  }
+  .c3lq6r8 {
+    background-image: 
+  }
+  .c1muyosp {
+    background-size: none
+  }
+  .cvw3fbs {
+    background-repeat: none
+  }
+  .cjhfojh {
+    background-attachment: none
+  }
+  .c1cmxm2w {
+    background-origin: none
+  }
+  .c2c7i6t {
+    -webkit-background-clip: none;
+    background-clip: none
+  }
+  .c1vy1xjw {
+    background-position: none
+  }
+  .c12piu0u {
+    max-width: 675px
+  }
+  .cwlbdha {
+    color: rgba(255, 255, 255, 0.6)
   }
 }
 @media all and (max-width: 991px) {

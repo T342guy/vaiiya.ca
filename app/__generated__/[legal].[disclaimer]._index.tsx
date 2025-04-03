@@ -4,9 +4,9 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Image as Image, Paragraph as Paragraph, Slot as Slot, Heading as Heading, List as List, ListItem as ListItem, Separator as Separator } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, List as List, ListItem as ListItem, Subscript as Subscript, Italic as Italic } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
-import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-router";
+import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
 
       export const siteName = "VAIIYAwebsite";
@@ -26,6 +26,14 @@ import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-r
       const Page = (_props: { system: any; }) => {
 return <Body
 className={`w-body`}>
+<Slot>
+<Fragment_1>
+<HtmlEmbed
+code={"<style>\n  /* So we don't need to add a token to every paragraph to remove margin. */\n  p {\n    margin: 0;\n  }\n\n  /* * {\n    /* Make links scroll to their sections smoothly. */\n    scroll-behavior: smooth;\n  } */\n</style>"}
+className={`w-html-embed`} />
+<HtmlEmbed
+code={"<style>\n:root {\n  --ani-duration: var(--duration-default, .2s);\n  --ani-delay: 0s;\n  --ani-slide-offset: 20%;\n  --ani-zoom-in-scale: 1;\n  --ani-zoom-out-scale: .85;\n  --ani-flip-rotate: 30deg;\n  --ani-easing: var(--easing-default, ease);\n  --ani-fill-mode: forwards;\n}\n[data-ani]:not([data-ani-children]),[data-ani-children]:not([data-ani-progress])>*{animation-duration:var(--ani-duration);animation-delay:var(--ani-delay);animation-timing-function:var(--ani-easing);animation-fill-mode:var(--ani-fill-mode);opacity:0}[data-ani-progress]:not([data-ani-children]),[data-ani-children]:not([data-ani])>*{transition-property:opacity,transform;transition-duration:var(--ani-duration);transition-timing-function:var(--ani-easing);opacity:0}\n@keyframes fadeIn{from{opacity:0}\nto{opacity:1}}\n@keyframes fadeOut{from{opacity:1}\nto{opacity:0}}[data-ani-children][data-ani='fade']>.in,[data-ani='fade']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:fadeIn}[data-ani-children][data-ani='fade']>.out,[data-ani='fade']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:fadeOut}\n@keyframes slideIn{from{opacity:0;translate:var(--ani-slide-transform)}\nto{opacity:1;translate:none}}\n@keyframes slideOut{from{opacity:1;translate:none}\nto{opacity:0;translate:var(--ani-slide-transform)}}[data-ani-children][data-ani|='slide']>.in,[data-ani|='slide']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:slideIn}[data-ani-children][data-ani|='slide']>.out,[data-ani|='slide']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:slideOut}[data-ani='slide-up']{--ani-slide-transform:0 var(--ani-slide-offset)}[data-ani='slide-down']{--ani-slide-transform:0 calc(-1*var(--ani-slide-offset))}[data-ani='slide-left']{--ani-slide-transform:var(--ani-slide-offset)}[data-ani='slide-right']{--ani-slide-transform:calc(-1*var(--ani-slide-offset))}\n@keyframes zoomIn{from{opacity:0;scale:var(--ani-zoom-out-scale)}\nto{opacity:1;scale:1}}\n@keyframes zoomOut{from{opacity:1;scale:1}\nto{opacity:0;scale:var(--ani-zoom-in-scale)}}[data-ani-children][data-ani='zoom']>.in,[data-ani|='zoom']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:zoomIn}[data-ani-children][data-ani='zoom']>.out,[data-ani|='zoom']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:zoomOut}[data-ani-children][data-ani-progress='zoom']>*,[data-ani-progress='zoom']:not([data-ani-children]){transform:scale(var(--ani-zoom-out-scale))}\n@keyframes flipInY{from{rotate:y var(--ani-flip-rotate);perspective:2000px;opacity:0}\nto{rotate:y 0;opacity:1}}\n@keyframes flipOutY{from{rotate:y 0;opacity:1}\nto{perspective:2000px;rotate:y var(--ani-flip-rotate);opacity:0}}\n@keyframes flipInX{from{perspective:2000px;rotate:x var(--ani-flip-rotate);opacity:0}\nto{rotate:x 0;opacity:1}}\n@keyframes flipOutX{from{rotate:x 0;opacity:1}\nto{perspective:2000px;rotate:x var(--ani-flip-rotate);opacity:0}}[data-ani-children][data-ani='flip-y']>.in,[data-ani='flip-y']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:flipInY}[data-ani-children][data-ani='flip-x']>.in,[data-ani='flip-x']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:flipInX}[data-ani-children][data-ani='flip-y']>.out,[data-ani='flip-y']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:flipOutY}[data-ani-children][data-ani='flip-x']>.out,[data-ani='flip-x']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:flipOutX}\n@keyframes expandDown{from{height:0}\nto{height:var(--newHeight)}}\n@keyframes expandUp{from{height:var(--newHeight)}\nto{height:0}}[data-ani='expand'],[data-ani='expand'][data-state='open'],[data-ani='expand'].in{--newHeight:var(--custom-height,var(--radix-accordion-content-height,var(--radix-collapsible-content-height,100%)));overflow:hidden;opacity:1}[data-ani-children][data-ani='expand']>.in,[data-ani='expand']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation:expandDown var(--ani-duration)var(--ani-easing)}[data-ani-children][data-ani='expand']>.out,[data-ani='expand']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation:expandUp var(--ani-duration)var(--ani-easing)}\n@media(prefers-reduced-motion:reduce){[data-ani]:not([data-ani-children]),[data-ani-progress]:not([data-ani-children]),[data-ani-children]>*{opacity:1;transform:none;animation:none;rotate:none;scale:none;translate:none}}\n</style>"}
+className={`w-html-embed`} />
 <Box
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
@@ -308,6 +316,8 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Box>
 </Box>
 </Box>
+</Fragment_1>
+</Slot>
 <Box
 tag={"section"}
 className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
@@ -319,26 +329,95 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c4rpps8 c1arpfby cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c40zsbj c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c1allln7 c1dhz37v c1xzir7e`}>
-{"Need to contact the developer?"}
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c139s0bz c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c3u045t c1dhz37v c1vy1xjw`}>
+{"WEBSITE DISCLAIMERS!"}
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i`}>
-{"Contact the developer here!"}
+className={`w-paragraph c16xpvrq c1qom380 c12piu0u c1357293 c9jnjeu cwlbdha cel3d5i cy1haag`}>
+{"DISCLAIMERS!"}
 {""}
 <br />
 {""}
-{"Use these links OR send a email to t342@vaiiya.ca"}
-</Paragraph>
-</Box>
-<Box
-className={`w-box cry9bxc ce1qmkg`}>
-<Link
+{""}
+<br />
+{""}
+{"The VAIIYA website project is a unofficial project with ZERO contact between me(T342) and Embark studios. "}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"This project's code and self-made assets are OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342."}
+{""}
+<br />
+{""}
+{"Go to the "}
+<RichTextLink
+className={`w-rich-text-link`}>
+{"Github repo"}
+</RichTextLink>
+{" for the source of this website."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"All game content and materials are copyright of Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. Other content is available under "}
+<RichTextLink
+className={`w-rich-text-link`}>
+{"Creative Commons Attribution-ShareAlike 4.0 Unported"}
+</RichTextLink>
+{" unless otherwise noted."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"The VAIIYA website project is protected by fair dealing. "}
+{""}
+<br />
+{""}
+{"\"Fair Dealing\""}
+{""}
+<br />
+{""}
+{" Copyright Act of 1985, section 29. "}
+{""}
+<br />
+{""}
+{"Fair dealing for the purpose of research, private study, education, parody or satire does not infringe copyright."}
+{""}
+<br />
+{""}
+<Subscript
+className={`w-subscript-text`}>
+{"view the HTML doc "}
+</Subscript>
+<RichTextLink
+href={"https://laws-lois.justice.gc.ca/eng/acts/c-42/FullText.html"}
 target={"_blank"}
-href={"https://github.com/T342guy/vaiiya.ca/tree/WEBSITE_V3_SOURCE"}
-className={`w-link crwvary cel3d5i c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17jsneg c1szyaw7 c93at1n c1mz5ev9 cf189jz c57idyp chjyh7x c10jxkhw ckzqjx9 c1e72s5c ck3af4j csru8nn ct02u4h cuccfz7 c1frpvgv`}>
-{"Website's REPO and issue tracker"}
-</Link>
+className={`w-rich-text-link`}>
+<Italic
+className={`w-italic-text`}>
+<Subscript
+className={`w-subscript-text`}>
+{"HERE"}
+</Subscript>
+</Italic>
+</RichTextLink>
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+</Paragraph>
 </Box>
 <Box
 className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
@@ -551,7 +630,7 @@ className={`w-list-item`}>
 <Link
 href={"/home"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Terms"}
+{"Terms[notworking]"}
 </Link>
 </ListItem>
 <ListItem
@@ -559,7 +638,7 @@ className={`w-list-item`}>
 <Link
 href={"/home"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Security"}
+{"Security[notworking]"}
 </Link>
 </ListItem>
 </List>
