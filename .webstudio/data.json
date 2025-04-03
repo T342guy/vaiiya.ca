@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "2bfa4527-dc6e-4997-a91d-e5efad6626c1",
+    "id": "332528f4-71b0-45b6-94cc-2dfa7a4b0401",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 786,
-    "createdAt": "2025-04-03T20:32:21.98+00:00",
-    "updatedAt": "2025-04-03T20:32:21.98+00:00",
+    "version": 797,
+    "createdAt": "2025-04-03T22:32:34.105+00:00",
+    "updatedAt": "2025-04-03T22:32:34.105+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -45047,6 +45047,46 @@
           "type": "string",
           "value": "_self"
         }
+      ],
+      [
+        "OxQU-MawLDCFLxLB3cd39",
+        {
+          "id": "OxQU-MawLDCFLxLB3cd39",
+          "instanceId": "pK3pn1gxDHmIIgOzTiVdZ",
+          "name": "href",
+          "type": "string",
+          "value": "https://repo.vaiiya.ca/"
+        }
+      ],
+      [
+        "TEiKD2VX8BeZxacAUg75t",
+        {
+          "id": "TEiKD2VX8BeZxacAUg75t",
+          "instanceId": "pK3pn1gxDHmIIgOzTiVdZ",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "zW0Qg-69WHJnuT1SDdQis",
+        {
+          "id": "zW0Qg-69WHJnuT1SDdQis",
+          "instanceId": "9CRDaDc_uJuzePo6kdra2",
+          "name": "href",
+          "type": "string",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      [
+        "nr7Ygf4rLqo08cJMKtZwF",
+        {
+          "id": "nr7Ygf4rLqo08cJMKtZwF",
+          "instanceId": "9CRDaDc_uJuzePo6kdra2",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
       ]
     ],
     "dataSources": [
@@ -58188,16 +58228,16 @@
               "value": "\n"
             },
             {
-              "type": "text",
-              "value": "Go to the "
+              "type": "id",
+              "value": "6doTTO4gfT67n3kkp52HS"
             },
             {
               "type": "id",
               "value": "pK3pn1gxDHmIIgOzTiVdZ"
             },
             {
-              "type": "text",
-              "value": " for the source of this website."
+              "type": "id",
+              "value": "djSDuKFy4dVafvu5ly49i"
             },
             {
               "type": "text",
@@ -59328,8 +59368,8 @@
           "component": "RichTextLink",
           "children": [
             {
-              "type": "text",
-              "value": "Github repo"
+              "type": "id",
+              "value": "SZBkg8JD9GNM314x0jGoJ"
             }
           ]
         }
@@ -59428,6 +59468,48 @@
             {
               "type": "text",
               "value": "DISCLAIMERS"
+            }
+          ]
+        }
+      ],
+      [
+        "6doTTO4gfT67n3kkp52HS",
+        {
+          "type": "instance",
+          "id": "6doTTO4gfT67n3kkp52HS",
+          "component": "Subscript",
+          "children": [
+            {
+              "type": "text",
+              "value": "Go to the "
+            }
+          ]
+        }
+      ],
+      [
+        "SZBkg8JD9GNM314x0jGoJ",
+        {
+          "type": "instance",
+          "id": "SZBkg8JD9GNM314x0jGoJ",
+          "component": "Subscript",
+          "children": [
+            {
+              "type": "text",
+              "value": "Github repo"
+            }
+          ]
+        }
+      ],
+      [
+        "djSDuKFy4dVafvu5ly49i",
+        {
+          "type": "instance",
+          "id": "djSDuKFy4dVafvu5ly49i",
+          "component": "Subscript",
+          "children": [
+            {
+              "type": "text",
+              "value": " for the source of this website."
             }
           ]
         }

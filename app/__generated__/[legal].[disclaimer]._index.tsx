@@ -352,12 +352,23 @@ className={`w-paragraph c16xpvrq c1qom380 c12piu0u c1357293 c9jnjeu cwlbdha cel3
 {""}
 <br />
 {""}
+<Subscript
+className={`w-subscript-text`}>
 {"Go to the "}
+</Subscript>
 <RichTextLink
+href={"https://repo.vaiiya.ca/"}
+target={"_blank"}
 className={`w-rich-text-link`}>
+<Subscript
+className={`w-subscript-text`}>
 {"Github repo"}
+</Subscript>
 </RichTextLink>
+<Subscript
+className={`w-subscript-text`}>
 {" for the source of this website."}
+</Subscript>
 {""}
 <br />
 {""}
@@ -366,6 +377,8 @@ className={`w-rich-text-link`}>
 {""}
 {"All game content and materials are copyright of Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. Other content is available under "}
 <RichTextLink
+href={"https://creativecommons.org/licenses/by-sa/4.0/"}
+target={"_blank"}
 className={`w-rich-text-link`}>
 {"Creative Commons Attribution-ShareAlike 4.0 Unported"}
 </RichTextLink>

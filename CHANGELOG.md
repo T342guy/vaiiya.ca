@@ -1,6 +1,13 @@
 # CHANGELOG FILE
 ---
 
+-- [APR 3 3:36pm PST]
+
+- FIXED the links on the disclaimer page
+    - the sharealike resource
+    - the github repo link
+    - made the github repo's notice subscript text
+
 -- [APR 3 1:40pm PST]
 
 - ADDED LICENSE 
