@@ -1,6 +1,9 @@
 # CHANGELOG FILE
 ---
 
+-- [APR 3 1:40pm PST]
+
+- ADDED LICENSE 
 
 -- [APR 3 137pm PST]
 
