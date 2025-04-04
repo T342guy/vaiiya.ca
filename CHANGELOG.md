@@ -1,6 +1,11 @@
 # CHANGELOG FILE
 ---
 
+
+-- [APR 4 11:57am PST]
+
+- UPDATED `README.md` to be aligned with latest status(s)
+
 -- [APR 3 3:36pm PST]
 
 - FIXED the links on the disclaimer page
