@@ -1,6 +1,10 @@
 # CHANGELOG FILE
 
 
+-- [APR 4 8:06pm PST]
+
+- ADDED A NEW FAVICON 
+
 -- [APR 4 12:16pm PST]
 
 - UPDATED `README.md` reformatted a lot of text, fixed the deployment locations, and added the entire legal notice from the website with link to the site of the notice.

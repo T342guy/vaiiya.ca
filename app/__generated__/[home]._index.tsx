@@ -12,7 +12,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
       export const siteName = "VAIIYAwebsite";
 
       export const favIconAsset: string | undefined =
-        "logo_r1qaJQiri6sK3rPyq-Sar.svg";
+        "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

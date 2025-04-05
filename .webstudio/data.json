@@ -1,14 +1,14 @@
 {
   "build": {
-    "id": "332528f4-71b0-45b6-94cc-2dfa7a4b0401",
+    "id": "5d6464ac-fc88-4b5a-8b81-f7e161bb57cc",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 797,
-    "createdAt": "2025-04-03T22:32:34.105+00:00",
-    "updatedAt": "2025-04-03T22:32:34.105+00:00",
+    "version": 799,
+    "createdAt": "2025-04-05T03:01:27.87+00:00",
+    "updatedAt": "2025-04-05T03:01:27.87+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
-        "faviconAssetId": "93855c4cc520ed55dbe42dc663eaa7836ce1704f8844f12794ef802e3bd923ee"
+        "faviconAssetId": "41c420ee33da875e8dfacb7cb622d81dd94f37b9949959154cd3801a0239ac53"
       },
       "homePage": {
         "id": "iQp8V5BpzH1qDz0CIiKcA",
@@ -59775,6 +59775,20 @@
       "meta": {
         "width": 155,
         "height": 34
+      }
+    },
+    {
+      "id": "41c420ee33da875e8dfacb7cb622d81dd94f37b9949959154cd3801a0239ac53",
+      "name": "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png",
+      "description": null,
+      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
+      "size": 5896,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2025-04-05T02:52:25.84+00:00",
+      "meta": {
+        "width": 300,
+        "height": 221
       }
     },
     {
