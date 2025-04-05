@@ -1,7 +1,13 @@
 # CHANGELOG FILE
 
+-- [APR 5 4:52pm PST]
+
+ -- PREV --
+- add the import to root.tsx cuz i forgot somehow lmao
+
 -- [APR 5 4:45pm PST]
 
+ -- PREV --
 - add vercel speedinsights to the dependencies list and the root.tsx file
 
 -- [APR 5 2:17pm PST]
