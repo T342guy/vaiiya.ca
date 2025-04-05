@@ -1,5 +1,9 @@
 # CHANGELOG FILE
 
+-- [APR 5 2:17pm PST]
+
+- PULL vercel analytics test to MASTER and PROD! 
+
 -- [APR 5 2:11pm PST]
 
  -- PREVIEW PUSH --
