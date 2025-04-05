@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "5d6464ac-fc88-4b5a-8b81-f7e161bb57cc",
+    "id": "bac81a74-47b0-4f34-9315-d5945e55928d",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 799,
-    "createdAt": "2025-04-05T03:01:27.87+00:00",
-    "updatedAt": "2025-04-05T03:01:27.87+00:00",
+    "version": 813,
+    "createdAt": "2025-04-05T03:44:22.415+00:00",
+    "updatedAt": "2025-04-05T03:44:22.415+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -29207,17 +29207,8 @@
                 ]
               },
               {
-                "type": "tuple",
-                "value": [
-                  {
-                    "type": "keyword",
-                    "value": "auto"
-                  },
-                  {
-                    "type": "keyword",
-                    "value": "auto"
-                  }
-                ]
+                "type": "keyword",
+                "value": "contain"
               }
             ]
           }
@@ -29369,23 +29360,6 @@
         }
       ],
       [
-        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundImage:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
-          "property": "backgroundImage",
-          "value": {
-            "type": "layers",
-            "value": [
-              {
-                "type": "unparsed",
-                "value": "linear-gradient(0deg,rgba(217,38,38,0.9668242296918768) 8%,rgba(0,0,0,0) 47%,rgba(0,0,0,0) 75%)"
-              }
-            ]
-          }
-        }
-      ],
-      [
         "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundColor:",
         {
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
@@ -29396,7 +29370,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "alpha": 1
+            "alpha": 0
           }
         }
       ],
@@ -31087,8 +31061,8 @@
       [
         "zcwNJ7mm4zpcAQZM5W6co:jAWQK3_7D18H_5v0pK0z4:backgroundSize:",
         {
-          "styleSourceId": "zcwNJ7mm4zpcAQZM5W6co",
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "zcwNJ7mm4zpcAQZM5W6co",
           "property": "backgroundSize",
           "value": {
             "type": "layers",
@@ -31107,17 +31081,8 @@
                 ]
               },
               {
-                "type": "tuple",
-                "value": [
-                  {
-                    "type": "keyword",
-                    "value": "auto"
-                  },
-                  {
-                    "type": "keyword",
-                    "value": "auto"
-                  }
-                ]
+                "type": "keyword",
+                "value": "contain"
               }
             ]
           }
@@ -31485,6 +31450,171 @@
             "type": "unit",
             "unit": "px",
             "value": 675
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundImage:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundImage",
+          "value": {
+            "type": "var",
+            "value": "gradient-2",
+            "hidden": true
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundAttachment:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundAttachment",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "keyword",
+                "value": "scroll",
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundClip:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundClip",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "keyword",
+                "value": "text",
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundOrigin:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundOrigin",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "keyword",
+                "value": "padding-box",
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundPositionX:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundPositionX",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "unit",
+                "unit": "%",
+                "value": 0,
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundPositionY:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundPositionY",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "unit",
+                "unit": "%",
+                "value": 0,
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundRepeat:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundRepeat",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "keyword",
+                "value": "repeat",
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:backgroundSize:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "backgroundSize",
+          "value": {
+            "type": "layers",
+            "value": [
+              {
+                "type": "tuple",
+                "value": [
+                  {
+                    "type": "keyword",
+                    "value": "auto"
+                  },
+                  {
+                    "type": "keyword",
+                    "value": "auto"
+                  }
+                ],
+                "hidden": true
+              }
+            ]
+          }
+        }
+      ],
+      [
+        "qR0d4uKrSBfBwiMwJtKhz:jAWQK3_7D18H_5v0pK0z4:color:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "qR0d4uKrSBfBwiMwJtKhz",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 217,
+            "g": 207,
+            "b": 207,
+            "alpha": 1
           }
         }
       ]
@@ -58197,7 +58327,7 @@
           "children": [
             {
               "type": "text",
-              "value": "DISCLAIMERS!"
+              "value": "DISCLAIMERS AND LEGAL!"
             },
             {
               "type": "text",

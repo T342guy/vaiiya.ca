@@ -310,7 +310,7 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Box>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj c1nx4atc c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn`}>
 <Box
@@ -319,7 +319,7 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c4rpps8 c1arpfby cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c40zsbj c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c1allln7 c1dhz37v c1xzir7e`}>
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c11z2oqt c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c19zwsxj c1dhz37v c1vy1xjw`}>
 {"Need to contact the developer?"}
 </Heading>
 <Paragraph

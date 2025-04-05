@@ -1,5 +1,17 @@
 # CHANGELOG FILE
 
+-- [APR 4 8:46pm PST]
+
+- disclaimer page: 
+    - fixed the backround to also be more zoomed out. 
+
+    - changed the 2nd caption to DISCLAIMERS AND LEGAL.
+
+
+- CTD PAGE:
+    - changed the main headingletters to a very very light grey and not the gradient from before. 
+
+    - fixed the backround to be more zoomed out, it look pretty :3
 
 -- [APR 4 8:06pm PST]
 

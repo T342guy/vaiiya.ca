@@ -320,7 +320,7 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Slot>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj c1nx4atc c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn`}>
 <Box
@@ -334,7 +334,7 @@ className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c139s0bz c3lq6r8 c1muyos
 </Heading>
 <Paragraph
 className={`w-paragraph c16xpvrq c1qom380 c12piu0u c1357293 c9jnjeu cwlbdha cel3d5i cy1haag`}>
-{"DISCLAIMERS!"}
+{"DISCLAIMERS AND LEGAL!"}
 {""}
 <br />
 {""}
