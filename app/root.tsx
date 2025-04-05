@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 
+import { Analytics } from '@vercel/analytics/react';
 import { Links, Meta, Outlet, useMatches } from "react-router";
 // @todo think about how to make __generated__ typeable
 // @ts-ignore
@@ -28,6 +29,7 @@ const Root = () => {
         <CustomCode />
       </head>
       <Outlet />
+      <Analytics />
     </html>
   );
 };

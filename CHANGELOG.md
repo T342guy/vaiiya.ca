@@ -1,5 +1,11 @@
 # CHANGELOG FILE
 
+-- [APR 5 2:11pm PST]
+
+ -- PREVIEW PUSH --
+- added the vercel analytics to the dependencies list and added the func to the root.tsx file. 
+ -- PREVIEW PUSH --
+
 -- [APR 4 8:46pm PST]
 
 - disclaimer page: 
