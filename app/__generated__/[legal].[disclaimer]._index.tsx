@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Bold as Bold, Italic as Italic, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, List as List, ListItem as ListItem, Subscript as Subscript, Italic as Italic } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -22,12 +22,6 @@ import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webst
         ["Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
 
       
-            
-
-            export const CustomCode = () => {
-              return (<></>);
-            }
-          
 
       const Page = (_props: { system: any; }) => {
 return <Body
@@ -326,148 +320,126 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Slot>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj czjsrhv c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj c1nx4atc c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
 <Box
-className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn c182tq2r`}>
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}>
 <Separator
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c4rpps8 c1arpfby cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c40zsbj c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c1allln7 c1dhz37v c1xzir7e`}>
-{"HOLD UP!"}
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c139s0bz c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c3u045t c1dhz37v c1vy1xjw`}>
+{"WEBSITE DISCLAIMERS!"}
+</Heading>
+<Paragraph
+className={`w-paragraph c16xpvrq c1qom380 c12piu0u c1357293 c9jnjeu cwlbdha cel3d5i cy1haag`}>
+{"DISCLAIMERS AND LEGAL!"}
 {""}
 <br />
 {""}
-{"WAIT A SECOND THERE!"}
-</Heading>
+{""}
+<br />
+{""}
+{"The VAIIYA website project is a unofficial project with ZERO contact between me(T342) and Embark studios. "}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"This project's code and self-made assets are OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342."}
+{""}
+<br />
+{""}
+<Subscript
+className={`w-subscript-text`}>
+{"Go to the "}
+</Subscript>
+<RichTextLink
+href={"https://repo.vaiiya.ca/"}
+target={"_blank"}
+className={`w-rich-text-link`}>
+<Subscript
+className={`w-subscript-text`}>
+{"Github repo"}
+</Subscript>
+</RichTextLink>
+<Subscript
+className={`w-subscript-text`}>
+{" for the source of this website."}
+</Subscript>
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"All game content and materials are copyright of Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. Other content is available under "}
+<RichTextLink
+href={"https://creativecommons.org/licenses/by-sa/4.0/"}
+target={"_blank"}
+className={`w-rich-text-link`}>
+{"Creative Commons Attribution-ShareAlike 4.0 Unported"}
+</RichTextLink>
+{" unless otherwise noted."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"The VAIIYA website project is protected by fair dealing. "}
+{""}
+<br />
+{""}
+{"\"Fair Dealing\""}
+{""}
+<br />
+{""}
+{" Copyright Act of 1985, section 29. "}
+{""}
+<br />
+{""}
+{"Fair dealing for the purpose of research, private study, education, parody or satire does not infringe copyright."}
+{""}
+<br />
+{""}
+<Subscript
+className={`w-subscript-text`}>
+{"view the HTML doc "}
+</Subscript>
+<RichTextLink
+href={"https://laws-lois.justice.gc.ca/eng/acts/c-42/FullText.html"}
+target={"_blank"}
+className={`w-rich-text-link`}>
+<Italic
+className={`w-italic-text`}>
+<Subscript
+className={`w-subscript-text`}>
+{"HERE"}
+</Subscript>
+</Italic>
+</RichTextLink>
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+</Paragraph>
 </Box>
 <Box
 className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
 </Box>
 <Box
 tag={"footer"}
-className={`w-box c1fo9lv5 c1mzb2kd`}>
+className={`w-box cna0hdz c1mzb2kd`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
-<Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i`}>
-{"Holdup there Scott! "}
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"THIS WEBSITE IS NOT DONE DEVELOPMENT!"}
-</Italic>
-</Bold>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-{"This means a few things, "}
-{""}
-<br />
-{""}
-{"and the following elements are still incomplete!:"}
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-{" "}
-<Bold
-className={`w-bold-text`}>
-{"- Some features and functionality"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"(this includes site links)"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"- Various sections of content"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"- Certain design elements and styling"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"- Parts of the user experience"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"- Numerous optimization improvements"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-{"- AND LOTS OF THIS SITE IS STILL THE DEMO FROM IT BEING BUILT!"}
-</Bold>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-{"you can tell the dev about various bugs/typos/broken stuff on the "}
-<RichTextLink
-href={"/contact-the-dev"}
-target={"_self"}
-className={`w-rich-text-link`}>
-{"Contact the dev page!"}
-</RichTextLink>
-{" "}
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"If you wish to contine, go to the "}
-</Italic>
-</Bold>
-<RichTextLink
-href={"/home"}
-target={"_self"}
-className={`w-rich-text-link`}>
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"Home page!"}
-</Italic>
-</Bold>
-</RichTextLink>
-</Paragraph>
 <Box
 className={`w-box cry9bxc c18v2pa2 c174sw29 cmaksb1 c1i9o1yp`}>
 <Link
@@ -554,6 +526,14 @@ className={`w-list-item`}>
 href={"/home"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"Blog"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/home"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Careers"}
 </Link>
 </ListItem>
 <ListItem
@@ -663,7 +643,7 @@ className={`w-list-item`}>
 <Link
 href={"/home"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Terms"}
+{"Terms[notworking]"}
 </Link>
 </ListItem>
 <ListItem
@@ -671,7 +651,7 @@ className={`w-list-item`}>
 <Link
 href={"/home"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Security"}
+{"Security[notworking]"}
 </Link>
 </ListItem>
 </List>
@@ -708,7 +688,7 @@ className={`w-html-embed`} />
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
 className={`w-text`}>
-{"© 2024 The VAIIYA website project!"}
+{"© 2024 Your Company, Inc."}
 </Text>
 <Link
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
