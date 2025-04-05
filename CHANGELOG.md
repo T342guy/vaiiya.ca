@@ -1,5 +1,9 @@
 # CHANGELOG FILE
 
+-- [APR 5 4:45pm PST]
+
+- add vercel speedinsights to the dependencies list and the root.tsx file
+
 -- [APR 5 2:17pm PST]
 
 - PULL vercel analytics test to MASTER and PROD! 

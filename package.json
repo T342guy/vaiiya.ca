@@ -25,7 +25,8 @@
     "vite": "^5.4.11",
     "@react-router/node": "^7.1.5",
     "@vercel/react-router": "^1.0.2",
-    "@vercel/analytics": "^0.1.0"
+    "@vercel/analytics": "^0.1.0",
+    "@vercel/speed-insights": "^0.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.70",

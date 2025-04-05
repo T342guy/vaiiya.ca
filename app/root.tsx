@@ -30,6 +30,7 @@ const Root = () => {
       </head>
       <Outlet />
       <Analytics />
+      <SpeedInsights />
     </html>
   );
 };
