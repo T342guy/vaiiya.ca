@@ -1,5 +1,24 @@
 # CHANGELOG FILE
 
+-- [APR 5 5:07pm]
+
+- PULL all prev changes below to master and PROD! yeey! 
+
+-- [APR 5 5:02pm PST]
+
+ -- PREV --
+- update the modules both speed and analytics, to 1.5.0 and 1.2.0 respectively 
+
+-- [APR 5 4:52pm PST]
+
+ -- PREV --
+- add the import to root.tsx cuz i forgot somehow lmao
+
+-- [APR 5 4:45pm PST]
+
+ -- PREV --
+- add vercel speedinsights to the dependencies list and the root.tsx file
+
 -- [APR 5 2:17pm PST]
 
 - PULL vercel analytics test to MASTER and PROD! 
