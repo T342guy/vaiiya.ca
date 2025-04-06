@@ -1,5 +1,9 @@
 # CHANGELOG FILE
 
+-- [APR 6 9:41am]
+ -- PREV --
+- add a note in root.tsx
+
 -- [APR 5 5:07pm]
 
 - PULL all prev changes below to master and PROD! yeey! 
