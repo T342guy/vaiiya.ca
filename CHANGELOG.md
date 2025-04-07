@@ -1,5 +1,17 @@
 # CHANGELOG FILE
 
+-- [APR 6 9:40pm]
+
+-- PREV -- 
+
+- WARNhome:
+    - changed the main name in the first sentence name SCOTT to SCOTTY via sinnzy's ask! thanks sinnzy! 
+
+    - made the intro more scotty-like! 
+
+    - also redid the "this is not done dev!" part, and re-wrote it to make fuckin sense. 
+
+
 -- I FORGOT TO PUT THE DATE SORRY [APR 6 5:09pm]
 
 NOTE: those customly exited fonts are for text editors that cannot enable them. USE THEN FOR ASSET AND CONTENT MAKING!!!!!

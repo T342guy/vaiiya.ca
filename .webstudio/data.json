@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "43413746-110f-43cf-8b02-f81e55c2d896",
+    "id": "959768ad-505f-4157-addc-78f684e5473d",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 837,
-    "createdAt": "2025-04-07T00:03:22.546+00:00",
-    "updatedAt": "2025-04-07T00:03:22.546+00:00",
+    "version": 845,
+    "createdAt": "2025-04-07T04:38:08.207+00:00",
+    "updatedAt": "2025-04-07T04:38:08.207+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -31810,6 +31810,54 @@
             "value": -5
           }
         }
+      ],
+      [
+        "6SqgZbHhcElwZtCOWjRGS:jAWQK3_7D18H_5v0pK0z4:textDecorationLine:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "6SqgZbHhcElwZtCOWjRGS",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "none"
+          }
+        }
+      ],
+      [
+        "cZYMz4nLNEg4Pg7aCWDmX:jAWQK3_7D18H_5v0pK0z4:textDecorationLine:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "cZYMz4nLNEg4Pg7aCWDmX",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "underline"
+          }
+        }
+      ],
+      [
+        "C2OHxtPkQ7MiL1Rz4bRnL:jAWQK3_7D18H_5v0pK0z4:textDecorationLine:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "C2OHxtPkQ7MiL1Rz4bRnL",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "underline"
+          }
+        }
+      ],
+      [
+        "ewsubzXxiFChWmb9bG7vc:jAWQK3_7D18H_5v0pK0z4:fontWeight:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "ewsubzXxiFChWmb9bG7vc",
+          "property": "fontWeight",
+          "value": {
+            "type": "keyword",
+            "value": "100"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -34054,6 +34102,27 @@
         {
           "type": "local",
           "id": "w-nyTjqseevNv7niK4zwS"
+        }
+      ],
+      [
+        "cZYMz4nLNEg4Pg7aCWDmX",
+        {
+          "type": "local",
+          "id": "cZYMz4nLNEg4Pg7aCWDmX"
+        }
+      ],
+      [
+        "C2OHxtPkQ7MiL1Rz4bRnL",
+        {
+          "type": "local",
+          "id": "C2OHxtPkQ7MiL1Rz4bRnL"
+        }
+      ],
+      [
+        "ewsubzXxiFChWmb9bG7vc",
+        {
+          "type": "local",
+          "id": "ewsubzXxiFChWmb9bG7vc"
         }
       ]
     ],
@@ -40358,6 +40427,33 @@
           "values": [
             "7puC0Kv9ErUyuv6KSpcaJ",
             "RlRpiySHzzDaIumS5xNOt"
+          ]
+        }
+      ],
+      [
+        "xXYegMGCCFwpPT5UPdoFK",
+        {
+          "instanceId": "xXYegMGCCFwpPT5UPdoFK",
+          "values": [
+            "cZYMz4nLNEg4Pg7aCWDmX"
+          ]
+        }
+      ],
+      [
+        "VRpxLXcUspna4M-Acc1ZB",
+        {
+          "instanceId": "VRpxLXcUspna4M-Acc1ZB",
+          "values": [
+            "C2OHxtPkQ7MiL1Rz4bRnL"
+          ]
+        }
+      ],
+      [
+        "mo9xNpQ066uEtqRDi5NDM",
+        {
+          "instanceId": "mo9xNpQ066uEtqRDi5NDM",
+          "values": [
+            "ewsubzXxiFChWmb9bG7vc"
           ]
         }
       ]
@@ -57135,7 +57231,15 @@
           "children": [
             {
               "type": "text",
-              "value": "Holdup there Scott! "
+              "value": "Wait just a minute scotty! "
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "You'll get your pre-release! "
             },
             {
               "type": "text",
@@ -57150,12 +57254,8 @@
               "value": "\n"
             },
             {
-              "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "This means a few things, "
+              "type": "id",
+              "value": "mo9xNpQ066uEtqRDi5NDM"
             },
             {
               "type": "text",
@@ -57163,11 +57263,15 @@
             },
             {
               "type": "text",
-              "value": "and the following elements are still incomplete!:"
+              "value": "\n"
             },
             {
-              "type": "text",
-              "value": "\n"
+              "type": "id",
+              "value": "xXYegMGCCFwpPT5UPdoFK"
+            },
+            {
+              "type": "id",
+              "value": "nuOXK5wGqGweY4RmmOfAA"
             },
             {
               "type": "text",
@@ -57291,7 +57395,7 @@
           "children": [
             {
               "type": "text",
-              "value": "THIS WEBSITE IS NOT DONE DEVELOPMENT!"
+              "value": "THIS SITE IS NOT DONE DEVELOPMENT!"
             }
           ]
         }
@@ -59833,6 +59937,62 @@
             {
               "type": "text",
               "value": " for the source of this website."
+            }
+          ]
+        }
+      ],
+      [
+        "mo9xNpQ066uEtqRDi5NDM",
+        {
+          "type": "instance",
+          "id": "mo9xNpQ066uEtqRDi5NDM",
+          "component": "Superscript",
+          "children": [
+            {
+              "type": "text",
+              "value": "give us time ok? geez..."
+            }
+          ]
+        }
+      ],
+      [
+        "xXYegMGCCFwpPT5UPdoFK",
+        {
+          "type": "instance",
+          "id": "xXYegMGCCFwpPT5UPdoFK",
+          "component": "Span",
+          "children": [
+            {
+              "type": "text",
+              "value": "This means a few things, "
+            }
+          ]
+        }
+      ],
+      [
+        "nuOXK5wGqGweY4RmmOfAA",
+        {
+          "type": "instance",
+          "id": "nuOXK5wGqGweY4RmmOfAA",
+          "component": "Span",
+          "children": [
+            {
+              "type": "id",
+              "value": "VRpxLXcUspna4M-Acc1ZB"
+            }
+          ]
+        }
+      ],
+      [
+        "VRpxLXcUspna4M-Acc1ZB",
+        {
+          "type": "instance",
+          "id": "VRpxLXcUspna4M-Acc1ZB",
+          "component": "Italic",
+          "children": [
+            {
+              "type": "text",
+              "value": "Including..."
             }
           ]
         }

@@ -319,6 +319,26 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  sup.w-superscript-text {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    top: -0.5em
+  }
+  span.w-text-1 {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
   code.w-code-text {
     font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
     font-size: 1em;
@@ -333,14 +353,6 @@
     background-color: rgba(238, 238, 238, 1);
     white-space: pre-wrap;
     white-space-collapse: preserve
-  }
-  span.w-text-1 {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
   }
   blockquote.w-blockquote {
     margin-top: 0;
@@ -2473,6 +2485,9 @@
   }
   .cwlbdha {
     color: rgba(255, 255, 255, 0.6)
+  }
+  .cegahk1 {
+    font-weight: 100
   }
 }
 @media all and (max-width: 991px) {

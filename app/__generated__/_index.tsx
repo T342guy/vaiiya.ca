@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Bold as Bold, Italic as Italic, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Bold as Bold, Italic as Italic, List as List, ListItem as ListItem, Superscript as Superscript, Span as Span } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -352,8 +352,12 @@ className={`w-box c1fo9lv5 c1mzb2kd`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i`}>
-{"Holdup there Scott! "}
+className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i c135vpv5`}>
+{"Wait just a minute scotty! "}
+{""}
+<br />
+{""}
+{"You'll get your pre-release! "}
 {""}
 <br />
 {""}
@@ -361,23 +365,33 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d
 className={`w-bold-text`}>
 <Italic
 className={`w-italic-text`}>
-{"THIS WEBSITE IS NOT DONE DEVELOPMENT!"}
+{"THIS SITE IS NOT DONE DEVELOPMENT!"}
 </Italic>
 </Bold>
 {""}
 <br />
 {""}
+<Superscript
+className={`w-superscript-text cegahk1`}>
+{"give us time ok? geez..."}
+</Superscript>
 {""}
 <br />
 {""}
+{""}
+<br />
+{""}
+<Span
+className={`w-text-1 c180fws7`}>
 {"This means a few things, "}
-{""}
-<br />
-{""}
-{"and the following elements are still incomplete!:"}
-{""}
-<br />
-{""}
+</Span>
+<Span
+className={`w-text-1`}>
+<Italic
+className={`w-italic-text c180fws7`}>
+{"Including..."}
+</Italic>
+</Span>
 {""}
 <br />
 {""}
