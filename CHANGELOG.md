@@ -1,5 +1,16 @@
 # CHANGELOG FILE
 
+
+-- [APR 7 3:55pm]
+
+-- PRE-TO-PROD IMMEDIATELY -- 
+
+- FIXED the repo link being wrong after i deleted the V3 sourcecode branch ages ago
+
+__ WORK IN PROGRESS BELOW __ 
+
+- added new placeholder page THAT WILL NOT LET ME ADD A DAMN BUTTON
+
 -- [APR 6 10:16pm] 
 
 - PULL all prev changes below to prod and MASTER 
