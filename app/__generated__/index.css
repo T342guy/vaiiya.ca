@@ -2,6 +2,18 @@
   font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf") format("truetype");
 }
 @font-face {
+  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 700; font-display: swap; src: url("/assets/Saira_ExtraCondensed-ExtraBoldItalic_LtA0xSOffHzkNXS9I7nr4.ttf") format("truetype"), url("/assets/Saira_ExtraCondensed-BoldItalic_aHG1kG0GPW9JRgmihhmdR.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 900; font-display: swap; src: url("/assets/Saira_ExtraCondensed-Italic_5pq5n3euHlCp3mHhTob_0.ttf") format("truetype"), url("/assets/Saira_ExtraCondensed-BlackItalic_K9kREAmYGlx8r6HRtTkyy.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 600; font-display: swap; src: url("/assets/Saira_ExtraCondensed-SemiBoldItalic_DGl8t3TCsG1XqTsUElRLi.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Saira ExtraCondensed"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/Saira_ExtraCondensed-Regular_TUjojg8jyUlx2meyLmRFj.ttf") format("truetype");
+}
+@font-face {
   font-family: Saira; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf") format("truetype");
 }@layer presets {
   :root {
@@ -2327,17 +2339,26 @@
   .c12ae6v5 {
     row-gap: 0px
   }
+  .c1cb3y4c {
+    font-weight: 600
+  }
+  .cas8jb9 {
+    color: rgba(241, 242, 244, 1)
+  }
   .ct8vr6u {
     background-image: none
   }
   .ck8kpe {
     box-shadow: rgba(0, 0, 0, 1) 0px 2px 15px 25px, rgba(0, 0, 0, 1) inset 0px 2px 80px 115px
   }
+  .cnonmc3 {
+    font-style: italic
+  }
   .c6dznva {
     background-position: , 0% 0%
   }
-  .cnonmc3 {
-    font-style: italic
+  .c1f4gqnf {
+    font-weight: 900
   }
   .c3fmn7t {
     max-width: var(--size-content-2)
@@ -2376,9 +2397,6 @@
   }
   .c1di64f2 {
     background-repeat: repeat, repeat
-  }
-  .c1cb3y4c {
-    font-weight: 600
   }
   .c11z2oqt {
     color: rgba(217, 207, 207, 1)
@@ -2488,6 +2506,45 @@
   }
   .cegahk1 {
     font-weight: 100
+  }
+  .c10mt0ot {
+    max-width: 100%
+  }
+  .c17falvr {
+    scale: 95% 95% 100%
+  }
+  .cauqto8 {
+    display: block
+  }
+  .crmfta2 {
+    object-fit: inherit
+  }
+  .c1bp9wc6 {
+    margin-bottom: -31px
+  }
+  .c9qjj9t {
+    background-color: rgba(242, 243, 245, 0)
+  }
+  .csyy4cn {
+    font-family: "Saira ExtraCondensed", sans-serif
+  }
+  .c1bf43lu {
+    font-size: 45px
+  }
+  .c1ku71hl {
+    order: 0
+  }
+  .c7owlcj {
+    object-fit: none
+  }
+  .clfdfwi {
+    margin-top: -280px
+  }
+  .c10ylwhf {
+    margin-left: 560px
+  }
+  .c1qidluq {
+    border: 10px none rgba(0, 0, 0, 0)
   }
 }
 @media all and (max-width: 991px) {

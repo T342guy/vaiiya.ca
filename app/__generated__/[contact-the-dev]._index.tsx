@@ -335,7 +335,7 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d
 className={`w-box cry9bxc ce1qmkg`}>
 <Link
 target={"_blank"}
-href={"https://github.com/T342guy/vaiiya.ca/tree/WEBSITE_V3_SOURCE"}
+href={"https://github.com/T342guy/vaiiya.ca"}
 className={`w-link crwvary cel3d5i c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17jsneg c1szyaw7 c93at1n c1mz5ev9 cf189jz c57idyp chjyh7x c10jxkhw ckzqjx9 c1e72s5c ck3af4j csru8nn ct02u4h cuccfz7 c1frpvgv`}>
 {"Website's REPO and issue tracker"}
 </Link>

@@ -332,7 +332,7 @@ className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1
 className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g`}>
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex cn12ej2 c32myit cwrra4i cuccfz7 ct8vr6u cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c5egcmi c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i ck8kpe c1dhz37v c6dznva`}>
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i cas8jb9 ct8vr6u cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c5egcmi c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i ck8kpe cl7jefz cnonmc3 c1dhz37v c6dznva`}>
 {"Impenetrable. "}
 {""}
 <br />
@@ -342,7 +342,7 @@ className={`w-heading c11nr3ex cn12ej2 c32myit cwrra4i cuccfz7 ct8vr6u cnu4kgu c
 <br />
 {""}
 <Bold
-className={`w-bold-text cnonmc3`}>
+className={`w-bold-text cnonmc3 c135vpv5 cl7jefz c1f4gqnf`}>
 {"Unstoppable."}
 </Bold>
 </Heading>
