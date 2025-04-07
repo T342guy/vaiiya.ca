@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
-
+// WHEN COMMITNG THIS FILE, PLEASE DO NOT REMOVE THE SPEES INSIGHTS IMPORTS AND THE ANALYTICS IMPORTS
 import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Analytics } from '@vercel/analytics/react';
 import { Links, Meta, Outlet, useMatches } from "react-router";
