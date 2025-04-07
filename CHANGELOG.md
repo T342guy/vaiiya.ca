@@ -1,5 +1,21 @@
 # CHANGELOG FILE
 
+
+
+NOTE: those customly exited fonts are for text editors that cannot enable them. USE THEN FOR ASSET AND CONTENT MAKING!!!!!
+
+- [FORGOTTEN CHANGE!!] the background of the warnhome seems to be zoomed out like all the others. 
+
+- WARNhome page:
+    - change the WARNhome page's heading from a gradient to a solid color.
+    
+    - changed the background grad to a lighter one, and one that makes the background pop a bit more.
+
+    - changed the main header to italic, 700 BOLD, and the spacing was shortened as directions via the THE FINALS typography guide! thanks embark! 
+
+    - fixed a typo in the warnhome page of the part "if you wish to continue, go to the home page!"  
+
+
 -- [APR 6 9:41am]
  -- PREV --
 - add a note in root.tsx
