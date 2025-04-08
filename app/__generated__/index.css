@@ -2,18 +2,6 @@
   font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf") format("truetype");
 }
 @font-face {
-  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 700; font-display: swap; src: url("/assets/Saira_ExtraCondensed-ExtraBoldItalic_LtA0xSOffHzkNXS9I7nr4.ttf") format("truetype"), url("/assets/Saira_ExtraCondensed-BoldItalic_aHG1kG0GPW9JRgmihhmdR.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 900; font-display: swap; src: url("/assets/Saira_ExtraCondensed-Italic_5pq5n3euHlCp3mHhTob_0.ttf") format("truetype"), url("/assets/Saira_ExtraCondensed-BlackItalic_K9kREAmYGlx8r6HRtTkyy.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Saira ExtraCondensed"; font-style: italic; font-weight: 600; font-display: swap; src: url("/assets/Saira_ExtraCondensed-SemiBoldItalic_DGl8t3TCsG1XqTsUElRLi.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Saira ExtraCondensed"; font-style: normal; font-weight: 400; font-display: swap; src: url("/assets/Saira_ExtraCondensed-Regular_TUjojg8jyUlx2meyLmRFj.ttf") format("truetype");
-}
-@font-face {
   font-family: Saira; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf") format("truetype");
 }@layer presets {
   :root {
@@ -292,6 +280,26 @@
     outline-width: 1px;
     font-style: italic
   }
+  sup.w-superscript-text {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    top: -0.5em
+  }
+  span.w-text-1 {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
   a.w-rich-text-link {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -324,26 +332,6 @@
     padding-left: 40px
   }
   li.w-list-item {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
-  }
-  sup.w-superscript-text {
-    font-size: 75%;
-    line-height: 0;
-    position: relative;
-    vertical-align: baseline;
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    top: -0.5em
-  }
-  span.w-text-1 {
     box-sizing: border-box;
     border-top-width: 1px;
     border-right-width: 1px;
@@ -2492,9 +2480,6 @@
   .cesy16e {
     letter-spacing: -5px
   }
-  .c1fo9lv5 {
-    padding-top: 0px
-  }
   .c139s0bz {
     color: rgba(226, 213, 213, 1)
   }
@@ -2504,47 +2489,32 @@
   .cwlbdha {
     color: rgba(255, 255, 255, 0.6)
   }
-  .cegahk1 {
-    font-weight: 100
-  }
   .c10mt0ot {
     max-width: 100%
-  }
-  .c17falvr {
-    scale: 95% 95% 100%
   }
   .cauqto8 {
     display: block
   }
-  .crmfta2 {
-    object-fit: inherit
-  }
   .c1bp9wc6 {
     margin-bottom: -31px
   }
-  .c9qjj9t {
-    background-color: rgba(242, 243, 245, 0)
+  .cnaccrh {
+    object-fit: scale-down
   }
-  .csyy4cn {
-    font-family: "Saira ExtraCondensed", sans-serif
+  .c150vpwe {
+    overflow-x: visible
   }
-  .c1bf43lu {
-    font-size: 45px
+  .c22g687 {
+    overflow-y: visible
   }
-  .c1ku71hl {
-    order: 0
+  .cz3uemc {
+    z-index: 1
   }
-  .c7owlcj {
-    object-fit: none
+  .c1fo9lv5 {
+    padding-top: 0px
   }
-  .clfdfwi {
-    margin-top: -280px
-  }
-  .c10ylwhf {
-    margin-left: 560px
-  }
-  .c1qidluq {
-    border: 10px none rgba(0, 0, 0, 0)
+  .cegahk1 {
+    font-weight: 100
   }
 }
 @media all and (max-width: 991px) {

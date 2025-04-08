@@ -1,5 +1,34 @@
 # CHANGELOG FILE
 
+-- [APR 7 8:08pm]
+
+--- pre-PROD immidiea push ---
+
+-- NOTE: i saw the footers are NOT set as self-syncing, so i will add a syncing thing now. 
+
+- WARNhome:
+    - set all the non-used footer links to the SOONtm page.
+
+- TRUEhome: 
+    - changed all the footer links to the SOONtm page.
+    - changed all but the "join waitlist" buttons to the SOONtm page. 
+
+- contact the dev page: 
+    - changed all the footer links to the SOONtm page. 
+
+- disclaimers and legal page: 
+    - changed the header text to "DISCLAIMERS AND LEGAL" 
+    - changed all the footer links to the SOONtm page.
+
+- set all the footers to a `FOOTER_SLOT` slot, so they will mirror changes across each other.
+
+- changed the footers to a slot system so that they all reflect changes, named `FOOTER_SLOT` 
+
+- SOONtm placeholder page: 
+    - i just gave up on the button, it was too fkn hard.
+    - changed ALL the links in the nav header/viewport to the SOONtm placeholder
+
+
 
 -- [APR 7 3:55pm]
 
