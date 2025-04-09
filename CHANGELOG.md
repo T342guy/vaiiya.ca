@@ -1,5 +1,16 @@
 # CHANGELOG FILE
 
+-- [APR 9 2:13pm]
+
+---- NON-website change ----
+
+- `.\THE-VAIIYA-WEBSITE-PROJECT-CONTENT`:
+    - added `VIDEOS`
+        - added `VIDEO_FILES`
+        - added `VIDEO_SCRIPTS`
+            - added script with draft `V1draft_T342-introduces_The-VAIIYA-website-project!.md`
+
+
 -- i forgot to add the commit date/time [APR 8 9:27pm]
 
 --- NON-WEBSITE CHANGES! prev-to-prod pull! ---
