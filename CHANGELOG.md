@@ -1,5 +1,10 @@
 # CHANGELOG FILE
 
+--- NON-WEBSITE CHANGES! prev-to-prod pull! ---
+
+- added folder `THE-VAIIYA-WEBSITE-PROJECT-CONTENT`. 
+    - added a README for it, and added all the info with TBD.
+
 -- [APR 7 8:08pm]
 
 --- pre-PROD immidiea push ---
