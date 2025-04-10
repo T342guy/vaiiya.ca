@@ -2,7 +2,13 @@
   font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf") format("truetype");
 }
 @font-face {
+  font-family: "Saira Condensed"; font-style: normal; font-weight: 700; font-display: swap; src: url("/assets/Saira_Condensed-Bold_KdLYt3c0KuMLOmh-Ar_Ju.ttf") format("truetype");
+}
+@font-face {
   font-family: Saira; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Saira Condensed"; font-style: normal; font-weight: 500; font-display: swap; src: url("/assets/Saira_Condensed-Medium_bsaA6GGcAdxbrNBggwo3_.ttf") format("truetype");
 }@layer presets {
   :root {
     display: grid;
@@ -263,6 +269,36 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  ol.w-list {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 40px
+  }
+  ul.w-list {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 40px
+  }
+  li.w-list-item {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
   b.w-bold-text {
     font-weight: 700;
     box-sizing: border-box;
@@ -308,36 +344,6 @@
     border-left-width: 1px;
     outline-width: 1px;
     display: inline-block
-  }
-  ol.w-list {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    margin-top: 0;
-    margin-bottom: 10px;
-    padding-left: 40px
-  }
-  ul.w-list {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    margin-top: 0;
-    margin-bottom: 10px;
-    padding-left: 40px
-  }
-  li.w-list-item {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
   }
   code.w-code-text {
     font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
@@ -2055,11 +2061,23 @@
   .c6d3y84 {
     border: var(--border-size-1, 1px) solid var(--foreground-border, rgba(255, 255, 255, 0.15))
   }
-  .c16xpvrq {
-    font-size: var(--font-size-fluid-1, clamp(1rem,4vw,1.5rem))
+  .c186i34s {
+    max-width: 170px
+  }
+  .c10u26x6 {
+    font-size: 30px
   }
   .c62q3t9 {
     max-width: var(--size-header-3, 35ch)
+  }
+  .c1otv2e9 {
+    font-family: "Saira Condensed", sans-serif
+  }
+  .c1cb3y4c {
+    font-weight: 600
+  }
+  .c682mpb {
+    letter-spacing: 0px
   }
   .cejtdrx {
     grid-template-columns: repeat(3, 1fr)
@@ -2118,6 +2136,9 @@
   .c18knjwi {
     padding: 0px
   }
+  .c16xpvrq {
+    font-size: var(--font-size-fluid-1, clamp(1rem,4vw,1.5rem))
+  }
   .cpo5yh5 {
     font-size: var(--font-size-4, 1.5rem)
   }
@@ -2141,24 +2162,6 @@
   }
   .cxz9xjl {
     background-position: 50% 50%
-  }
-  .c17vqhen {
-    background-image: url("/assets/Pricing_NtpbcNgAxOEKqt33rNA--.svg")
-  }
-  .c17mmneu {
-    background-position: 50% 0%
-  }
-  .c16r2hhi {
-    column-gap: var(--size-fluid-3, clamp(1.5rem,3vw,2rem))
-  }
-  .c1ozwq0i {
-    row-gap: var(--size-fluid-3, clamp(1.5rem,3vw,2rem))
-  }
-  .c1lyhjp7 {
-    margin-top: auto
-  }
-  .c1yis186 {
-    background-image: var(--gradient-11), url("/assets/Pattern_79YdcihVRk2R5H0fuZxz7.svg")
   }
   .c18lgxql {
     max-width: 75%
@@ -2326,9 +2329,6 @@
   }
   .c12ae6v5 {
     row-gap: 0px
-  }
-  .c1cb3y4c {
-    font-weight: 600
   }
   .cas8jb9 {
     color: rgba(241, 242, 244, 1)
@@ -2510,8 +2510,14 @@
   .cz3uemc {
     z-index: 1
   }
+  .c16kgkvs {
+    text-decoration-line: line-through
+  }
   .c1fo9lv5 {
     padding-top: 0px
+  }
+  .cjljt53 {
+    margin-top: 20px
   }
   .cegahk1 {
     font-weight: 100

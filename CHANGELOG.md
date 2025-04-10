@@ -1,5 +1,17 @@
 # CHANGELOG FILE
 
+-- [APR 9 11:00pm]
+
+
+---- PRE-PROD PUSH ---- 
+
+- removed a lot of junk assets
+
+- truehome page:
+    - remade the 2nd "sponsor showoff" to be filled with most of the rival sponsors in THE FINALS.
+
+- fixed the copyright and license notice on all the footers. 
+
 -- [APR 9 2:13pm]
 
 ---- NON-website change ----
