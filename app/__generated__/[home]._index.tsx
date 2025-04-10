@@ -16,7 +16,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Saira_Condensed-Bold_KdLYt3c0KuMLOmh-Ar_Ju.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf","Saira_Condensed-Medium_bsaA6GGcAdxbrNBggwo3_.ttf"]
+        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         ["Group_1_3Lze2enBpFNP3rVOtd0Yp.svg","App_Wide_2x_1_(2)_yiI7phUrEJxtQAVSp0ZeL.png","Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp","Property_1_Desktop_WC1IMy9iiJ9vL4er9JyJM.webp"]
@@ -352,7 +352,7 @@ className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1
 className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g`}>
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i cas8jb9 ct8vr6u cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c5egcmi c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i ck8kpe cl7jefz cnonmc3 c1dhz37v c6dznva`}>
+className={`w-heading c11nr3ex cn12ej2 c32myit cwrra4i cas8jb9 ct8vr6u cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c5egcmi c13cx24t c1my01bv ctw557h c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn ck8kpe cl7jefz cnonmc3 c1dhz37v c6dznva`}>
 {"Impenetrable. "}
 {""}
 <br />
@@ -362,15 +362,15 @@ className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i cas8jb9 ct8vr6u cnu4kgu 
 <br />
 {""}
 <Bold
-className={`w-bold-text cnonmc3 c135vpv5 cl7jefz c1f4gqnf`}>
+className={`w-bold-text cnonmc3 c180fws7 cl7jefz c11dowh9`}>
 {"Unstoppable."}
 </Bold>
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cel3d5i cn12ej2 csyrz7g c1dhz37v`}>
+className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cjfg1nn cn12ej2 csyrz7g c1dhz37v`}>
 {"Think you're safe? "}
 <Italic
-className={`w-italic-text`}>
+className={`w-italic-text c180fws7`}>
 {"Think again."}
 </Italic>
 {" "}
@@ -388,7 +388,7 @@ className={`w-box c76ugon c1va7jp0 c18xibj9 ccn5ruk c8dp7hf c6d3y84 cax3zcx c1le
 <Link
 href={"/placeholders/soontmpagewithnotice"}
 target={"_self"}
-className={`w-link c1plv2ab c13b531o c1my01bv c14z1eqr c1ktl1y1 cr8yqfm c1ufwdzl c5blvcv cml0h3f c180fws7 csru8nn c1qyy4dh ct02u4h c1md20bl c1e892th c1qom380 cn2jcgb cdcs8wy c1m1praz c1mcu1jn c1d7r856 cd3iwfe c1yhcvvf cwc6hbl c11r52nx cblpe2z cel3d5i c11dowh9 cheslu6 cl60rel c1ib9cr2 c82bfcw c1ukphsi`}>
+className={`w-link c1plv2ab c13b531o c1my01bv c14z1eqr c1ktl1y1 cr8yqfm c1ufwdzl c5blvcv cml0h3f c180fws7 csru8nn c1qyy4dh ct02u4h c1md20bl c1e892th c1qom380 cn2jcgb cdcs8wy c1m1praz c1mcu1jn c1d7r856 cd3iwfe c1yhcvvf cwc6hbl c11r52nx cblpe2z cjfg1nn c11dowh9 cheslu6 cl60rel c1ib9cr2 c82bfcw c1ukphsi`}>
 {"Learn more!"}
 </Link>
 </Box>
@@ -400,8 +400,45 @@ tag={"section"}
 className={`w-box cna0hdz c1mzb2kd`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
+<Box
+tag={"article"}
+className={`w-box cry9bxc c1lfjoq7 ca4qjwu c1cdc69r`}>
+<Box
+tag={"header"}
+className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c16xs6ny c1wt8a7g cuj80l1`}>
+<Heading
+tag={"h1"}
+className={`w-heading c11nr3ex cy1haag c32myit cwrra4i cas8jb9 c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn c19zwsxj c1dhz37v c1vy1xjw`}>
+{"Why VAIIYA?"}
+</Heading>
 <Paragraph
-className={`w-paragraph c10u26x6 c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x c1otv2e9 c1cb3y4c c682mpb c135vpv5`}>
+className={`w-paragraph c16xpvrq c1qom380 c1k11adm c1357293 c9jnjeu czt9u4x cjfg1nn`}>
+{"Why VAIIYA? We know a lot, and thats apparent already."}
+</Paragraph>
+<Image
+src={"/assets/COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg"}
+width={3840}
+height={2160}
+loading={"eager"}
+className={`w-image`} />
+</Box>
+<Box
+className={`w-box c1s5r7yb c1ggkywf`}>
+<HtmlEmbed
+code={"<h2>Why VAIIYA?</h2>\n<ul>\n  <p>VAIIYA is the worlds leading innovator in all security sectors. <br> We are your only, best option. </p>\n  <p>Why? because we do things right, ready, prepared and armed. We always get our way.</p>\n\n  <p>VAIIYA sees, and knows about each and every threat, fly, virus, pipebomb, or digital enemy. Will they ever win? Not on VAIIYA's watch.</p>\n<br>\n  <p>Do we ever leave? No. Do we stop at a dead end? Thats just a roadblock. <br>\n  Do we ever rest? Not enough for the enemy to even think. </p>\n  <br>\n  <p>we've made it clear, we do our job. Digital or meatspace. <br> <b>Security, on another level entirely. </b></p>\n  <br>\n  <h2>What do we offer? <br> lets say; <br> \"If everything didnt have an end\". </h2>\n  <br>\n  <p>If you came to us, and said \"What do you have to offer\", <br> We would respond with \"<m><i>does everything have an end? Not for us.</i></m>\"</p>\n  <br>\n  <h3>Find out more SOON™</h3></ul>"}
+className={`w-html-embed cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c17kfd4c cjfg1nn cn12ej2 c14r73oo c1i2qozd cqbvjst c1iy8jlp c1dmsc2 c10dt6tb c1konbo6 c1fhnv6m cthq4g9 co6ecv5 c11gjxke chqvvir cabol8u c1taev7 ccsjqot cxu216m c1sragja ck29a19 c19txxxy cxma1ez cusbz4o cuwio2x c1hoh0xq choe4qz cbo4rfj cfksyzv cjlsrd7 czdkczf c1wqs0p5 cktz43h c4idyg2 c1eqam6u c1lgwnvp c1yf18ib c165jfmr c14p8iaf ceir1l1 c1gqvzyp c1nhlvyv cpey06m c1eeexcj c1cph9m2 c9acz7k cb28ixs c1b3xbwr c1xsrmss cjf4s43 c1a66dcn ce038li c1ddeah2 c1fz4nrl cv8pxho c1rpv80a cslote8 cqyei7c ced96my c1sfkmp2 c49axyp cgi77sr ck6yw4p c1sooig2 c9lb5kw c17fqupn c1bltfa9 c1xuact2 cnyz0uj c1kgx2h0 c16ev36s c1fmybnf cxfx604 cnqi06o cubb9sa c3qhcxd c1g876an c11g2ak9 cdf8zv cnvyaip c77e89k c17ii2ds c1jj7z6 c15kkr5m cvj5six czokp33 cuk74b4 c1fnfazq cerqyr0 cob80h7 cy6fknl c1r7mbpg cso4wwi c1o3cgff cegqawo c18rxnrr c1r7s364 cmg0y6y`}>
+</HtmlEmbed>
+</Box>
+</Box>
+</Box>
+</Box>
+<Box
+tag={"section"}
+className={`w-box cna0hdz c1mzb2kd`}>
+<Box
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
+<Paragraph
+className={`w-paragraph c10u26x6 c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cjfg1nn cy1haag c682mpb c135vpv5`}>
 {"VAIIYA has been trusted by the many "}
 <Span
 className={`w-text-1 c16kgkvs`}>

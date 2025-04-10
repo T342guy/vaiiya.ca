@@ -1,5 +1,17 @@
 # CHANGELOG FILE
 
+-- [APR 10 2:25pm]
+
+- changed most of the truehome text to the tomorrow font
+
+- added more text to the article module
+
+-- [APR 10 12:45am]
+
+- add a article to the truehome and add a vaiiyaguard as the main pic
+
+- add font TOMORROW to the fonts folder 
+
 -- [APR 9 11:00pm]
 
 
