@@ -1,6 +1,6 @@
 # CHANGELOG FILE
 
--- [APR 10 2:]
+-- [APR 10 2:25pm]
 
 - changed most of the truehome text to the tomorrow font
 
