@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Bold as Bold, Italic as Italic, Superscript as Superscript, Span as Span, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Superscript as Superscript, Span as Span } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -363,16 +363,6 @@ className={`w-heading c11nr3ex c11dowh9 c32myit cwrra4i cooiwtu ct8vr6u c1muyosp
 {"WAIT A SECOND THERE!"}
 </Heading>
 </Box>
-<Box
-className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
-</Box>
-<Slot>
-<Fragment_1>
-<Box
-tag={"footer"}
-className={`w-box c1fo9lv5 c1mzb2kd`}>
-<Box
-className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
 <Paragraph
 className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i c135vpv5`}>
 {"Wait just a minute scotty! "}
@@ -505,7 +495,16 @@ className={`w-italic-text`}>
 </RichTextLink>
 </Paragraph>
 <Box
-className={`w-box cry9bxc c18v2pa2 c174sw29 cmaksb1 c1i9o1yp`}>
+className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
+</Box>
+</Box>
+<Box
+tag={"footer"}
+className={`w-box c1fo9lv5 c1mzb2kd`}>
+<Box
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
+<Box
+className={`w-box cry9bxc c18v2pa2 cjljt53 c174sw29 cmaksb1 c1i9o1yp`}>
 <Link
 href={"/home"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1x4yn0w cl60rel c1ib9cr2 c1d7u282`}>
@@ -759,7 +758,7 @@ className={`w-html-embed`} />
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
 className={`w-text`}>
-{"© 2024 The VAIIYA website project!"}
+{"© 2025 T342, under the GNU GPLv3."}
 </Text>
 <Link
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
@@ -768,9 +767,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
-</Box>
-</Fragment_1>
-</Slot>
 </Box>
 </Body>
 }

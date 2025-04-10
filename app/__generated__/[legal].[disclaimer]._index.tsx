@@ -382,7 +382,7 @@ target={"_blank"}
 className={`w-rich-text-link`}>
 <Subscript
 className={`w-subscript-text`}>
-{"Github repo"}
+{"Github-repo"}
 </Subscript>
 </RichTextLink>
 <Subscript
@@ -455,8 +455,7 @@ className={`w-subscript-text`}>
 <Box
 className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
 </Box>
-<Slot>
-<Fragment_1>
+</Box>
 <Box
 tag={"footer"}
 className={`w-box cna0hdz c1mzb2kd`}>
@@ -726,7 +725,7 @@ className={`w-html-embed`} />
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
 className={`w-text`}>
-{"© 2024 Your Company, Inc."}
+{"© 2025 T342, under the GNU GPLv3."}
 </Text>
 <Link
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
@@ -735,9 +734,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
-</Box>
-</Fragment_1>
-</Slot>
 </Box>
 </Body>
 }
