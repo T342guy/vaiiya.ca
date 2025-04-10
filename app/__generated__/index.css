@@ -26,9 +26,6 @@
   font-family: Tomorrow; font-style: normal; font-weight: 300; font-display: swap; src: url("/assets/Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf") format("truetype");
 }
 @font-face {
-  font-family: "Saira Condensed"; font-style: normal; font-weight: 700; font-display: swap; src: url("/assets/Saira_Condensed-Bold_KdLYt3c0KuMLOmh-Ar_Ju.ttf") format("truetype");
-}
-@font-face {
   font-family: Tomorrow; font-style: italic; font-weight: 900; font-display: swap; src: url("/assets/Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf") format("truetype"), url("/assets/Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf") format("truetype");
 }
 @font-face {
@@ -42,9 +39,6 @@
 }
 @font-face {
   font-family: Saira; font-style: normal; font-weight: 100 900; font-display: swap; src: url("/assets/Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Saira Condensed"; font-style: normal; font-weight: 500; font-display: swap; src: url("/assets/Saira_Condensed-Medium_bsaA6GGcAdxbrNBggwo3_.ttf") format("truetype");
 }
 @font-face {
   font-family: Tomorrow; font-style: normal; font-weight: 500; font-display: swap; src: url("/assets/Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf") format("truetype");
@@ -538,14 +532,6 @@
     border: 1px solid rgba(226, 232, 240, 1);
     margin: 0;
     padding: 0px
-  }
-  time.w-time {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px
   }
   sub.w-subscript-text {
     font-size: 75%;
@@ -2123,11 +2109,8 @@
   .c62q3t9 {
     max-width: var(--size-header-3, 35ch)
   }
-  .c1otv2e9 {
-    font-family: "Saira Condensed", sans-serif
-  }
-  .c1cb3y4c {
-    font-weight: 600
+  .cjfg1nn {
+    font-family: Tomorrow, sans-serif
   }
   .c682mpb {
     letter-spacing: 0px
@@ -2389,6 +2372,9 @@
   .ct8vr6u {
     background-image: none
   }
+  .ctw557h {
+    letter-spacing: -1px
+  }
   .ck8kpe {
     box-shadow: rgba(0, 0, 0, 1) 0px 2px 15px 25px, rgba(0, 0, 0, 1) inset 0px 2px 80px 115px
   }
@@ -2398,8 +2384,8 @@
   .c6dznva {
     background-position: , 0% 0%
   }
-  .c1f4gqnf {
-    font-weight: 900
+  .c180fws7 {
+    text-decoration-line: underline
   }
   .c3fmn7t {
     max-width: var(--size-content-2)
@@ -2427,9 +2413,6 @@
     -webkit-backdrop-filter: blur(1px);
     backdrop-filter: blur(1px)
   }
-  .c180fws7 {
-    text-decoration-line: underline
-  }
   .c1w3n4cj {
     background-image: linear-gradient(180deg,rgba(0,0,0,0.8491771708683473) 18%,rgba(0,0,0,0.8547794117647058) 44%,rgba(0,0,0,0.5410539215686274) 70%,rgba(0,0,0,0.5438550420168067) 100%), url("/assets/Untitled_0Sb78cJTz21abRBz7HqQ7.webp")
   }
@@ -2438,6 +2421,9 @@
   }
   .c1di64f2 {
     background-repeat: repeat, repeat
+  }
+  .c1cb3y4c {
+    font-weight: 600
   }
   .c11z2oqt {
     color: rgba(217, 207, 207, 1)
@@ -2580,9 +2566,6 @@
   }
   .c1cdc69r {
     row-gap: var(--gap-m, clamp(2rem,4vw,3rem))
-  }
-  .cjfg1nn {
-    font-family: Tomorrow, sans-serif
   }
   .c1k11adm {
     max-width: 615px
@@ -2875,30 +2858,6 @@
   }
   .cmg0y6y hr {
     margin-bottom: 0
-  }
-  .c1pmcxsb {
-    border-top-left-radius: var(--radius-round)
-  }
-  .ck312uk {
-    border-top-right-radius: var(--radius-round)
-  }
-  .c1it126x {
-    border-bottom-left-radius: var(--radius-round)
-  }
-  .c13mpy3e {
-    border-bottom-right-radius: var(--radius-round)
-  }
-  .cc0cely {
-    aspect-ratio: var(--ratio-square)
-  }
-  .c1gxuxwl {
-    object-fit: cover
-  }
-  .c14ubqu {
-    width: var(--size-11)
-  }
-  .cq59k3f {
-    height: var(--size-11)
   }
 }
 @media all and (max-width: 991px) {

@@ -1,5 +1,10 @@
 # CHANGELOG FILE
 
+-- [APR 10 2:]
+
+- changed most of the truehome text to the tomorrow font
+
+- added more text to the article module
 
 -- [APR 10 12:45am]
 

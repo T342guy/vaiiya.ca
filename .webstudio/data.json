@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "7de56b4b-8f90-4e5f-b4bd-ebb4d95d2c22",
+    "id": "aadc37be-41c6-4f27-9cca-9c7f8beedd04",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 1794,
-    "createdAt": "2025-04-10T07:42:06.5+00:00",
-    "updatedAt": "2025-04-10T07:42:06.5+00:00",
+    "version": 1939,
+    "createdAt": "2025-04-10T08:56:45.88+00:00",
+    "updatedAt": "2025-04-10T08:56:45.88+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -26230,7 +26230,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira"
+              "Tomorrow"
             ]
           }
         }
@@ -26244,7 +26244,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira"
+              "Tomorrow"
             ]
           }
         }
@@ -26270,7 +26270,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira"
+              "Tomorrow"
             ]
           }
         }
@@ -26295,7 +26295,7 @@
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "600"
+            "value": "400"
           }
         }
       ],
@@ -29869,7 +29869,7 @@
           "property": "textDecorationLine",
           "value": {
             "type": "keyword",
-            "value": "none"
+            "value": "underline"
           }
         }
       ],
@@ -29917,7 +29917,7 @@
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "900"
+            "value": "700"
           }
         }
       ],
@@ -30065,7 +30065,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira Condensed"
+              "Tomorrow"
             ]
           }
         }
@@ -30078,7 +30078,7 @@
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "600"
+            "value": "500"
           }
         }
       ],
@@ -32295,306 +32295,6 @@
         }
       ],
       [
-        "F441_rZ07DK0kBcM0-0SW:jAWQK3_7D18H_5v0pK0z4:display:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "F441_rZ07DK0kBcM0-0SW",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "flex"
-          }
-        }
-      ],
-      [
-        "F441_rZ07DK0kBcM0-0SW:jAWQK3_7D18H_5v0pK0z4:alignItems:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "F441_rZ07DK0kBcM0-0SW",
-          "property": "alignItems",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "F441_rZ07DK0kBcM0-0SW:jAWQK3_7D18H_5v0pK0z4:justifyContent:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "F441_rZ07DK0kBcM0-0SW",
-          "property": "justifyContent",
-          "value": {
-            "type": "keyword",
-            "value": "start"
-          }
-        }
-      ],
-      [
-        "F441_rZ07DK0kBcM0-0SW:jAWQK3_7D18H_5v0pK0z4:columnGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "F441_rZ07DK0kBcM0-0SW",
-          "property": "columnGap",
-          "value": {
-            "type": "var",
-            "value": "gap-xs"
-          }
-        }
-      ],
-      [
-        "F441_rZ07DK0kBcM0-0SW:jAWQK3_7D18H_5v0pK0z4:rowGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "F441_rZ07DK0kBcM0-0SW",
-          "property": "rowGap",
-          "value": {
-            "type": "var",
-            "value": "gap-xs"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:borderTopLeftRadius:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "borderTopLeftRadius",
-          "value": {
-            "type": "var",
-            "value": "radius-round"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:borderTopRightRadius:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "borderTopRightRadius",
-          "value": {
-            "type": "var",
-            "value": "radius-round"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:borderBottomLeftRadius:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "borderBottomLeftRadius",
-          "value": {
-            "type": "var",
-            "value": "radius-round"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:borderBottomRightRadius:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "borderBottomRightRadius",
-          "value": {
-            "type": "var",
-            "value": "radius-round"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:aspectRatio:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "aspectRatio",
-          "value": {
-            "type": "var",
-            "value": "ratio-square"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:objectFit:",
-        {
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "property": "objectFit",
-          "value": {
-            "type": "keyword",
-            "value": "cover"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:width:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "property": "width",
-          "value": {
-            "type": "var",
-            "value": "size-11"
-          }
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn:jAWQK3_7D18H_5v0pK0z4:height:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7gpAsybvEUUNVCYVnoIpn",
-          "property": "height",
-          "value": {
-            "type": "var",
-            "value": "size-11"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:display:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "flex"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:alignItems:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "alignItems",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:justifyContent:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "justifyContent",
-          "value": {
-            "type": "keyword",
-            "value": "start"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:columnGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "columnGap",
-          "value": {
-            "type": "var",
-            "value": "gap-s"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:rowGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "rowGap",
-          "value": {
-            "type": "var",
-            "value": "gap-s"
-          }
-        }
-      ],
-      [
-        "IM8LU74B0BfQ49_JH_ofJ:jAWQK3_7D18H_5v0pK0z4:display:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "IM8LU74B0BfQ49_JH_ofJ",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "flex"
-          }
-        }
-      ],
-      [
-        "IM8LU74B0BfQ49_JH_ofJ:jAWQK3_7D18H_5v0pK0z4:flexDirection:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "IM8LU74B0BfQ49_JH_ofJ",
-          "property": "flexDirection",
-          "value": {
-            "type": "keyword",
-            "value": "column"
-          }
-        }
-      ],
-      [
-        "IM8LU74B0BfQ49_JH_ofJ:jAWQK3_7D18H_5v0pK0z4:columnGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "IM8LU74B0BfQ49_JH_ofJ",
-          "property": "columnGap",
-          "value": {
-            "type": "var",
-            "value": "gap-xs"
-          }
-        }
-      ],
-      [
-        "IM8LU74B0BfQ49_JH_ofJ:jAWQK3_7D18H_5v0pK0z4:rowGap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "IM8LU74B0BfQ49_JH_ofJ",
-          "property": "rowGap",
-          "value": {
-            "type": "var",
-            "value": "gap-xs"
-          }
-        }
-      ],
-      [
-        "IU78BIQYxF-1OwOU_tqu3:jAWQK3_7D18H_5v0pK0z4:maxWidth:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "IU78BIQYxF-1OwOU_tqu3",
-          "property": "maxWidth",
-          "value": {
-            "type": "var",
-            "value": "size-content-2"
-          }
-        }
-      ],
-      [
-        "ArpZge_ljhkCPXUlmlPTX:jAWQK3_7D18H_5v0pK0z4:alignSelf:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "ArpZge_ljhkCPXUlmlPTX",
-          "property": "alignSelf",
-          "value": {
-            "type": "keyword",
-            "value": "flex-start"
-          }
-        }
-      ],
-      [
-        "7F_IUOGYpE75p3GGV0hVi:jAWQK3_7D18H_5v0pK0z4:flexWrap:",
-        {
-          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
-          "styleSourceId": "7F_IUOGYpE75p3GGV0hVi",
-          "property": "flexWrap",
-          "value": {
-            "type": "keyword",
-            "value": "wrap"
-          }
-        }
-      ],
-      [
         "q6hz31lOmXytMoaSyk_5q:jAWQK3_7D18H_5v0pK0z4:fontFamily:",
         {
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
@@ -32923,6 +32623,31 @@
           "value": {
             "type": "keyword",
             "value": "clip"
+          }
+        }
+      ],
+      [
+        "xXo49cCGqndoHa09BP2pP:jAWQK3_7D18H_5v0pK0z4:letterSpacing:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "xXo49cCGqndoHa09BP2pP",
+          "property": "letterSpacing",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": -1
+          }
+        }
+      ],
+      [
+        "pxZfxSpM4-YBQ3_9LaGCv:jAWQK3_7D18H_5v0pK0z4:textDecorationLine:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "pxZfxSpM4-YBQ3_9LaGCv",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "underline"
           }
         }
       ]
@@ -35215,13 +34940,6 @@
         }
       ],
       [
-        "F441_rZ07DK0kBcM0-0SW",
-        {
-          "type": "local",
-          "id": "F441_rZ07DK0kBcM0-0SW"
-        }
-      ],
-      [
         "UiXWFVXGJs9q0MpWsLQ9p",
         {
           "type": "local",
@@ -35320,41 +35038,6 @@
         }
       ],
       [
-        "7F_IUOGYpE75p3GGV0hVi",
-        {
-          "type": "local",
-          "id": "7F_IUOGYpE75p3GGV0hVi"
-        }
-      ],
-      [
-        "7gpAsybvEUUNVCYVnoIpn",
-        {
-          "type": "local",
-          "id": "7gpAsybvEUUNVCYVnoIpn"
-        }
-      ],
-      [
-        "IM8LU74B0BfQ49_JH_ofJ",
-        {
-          "type": "local",
-          "id": "IM8LU74B0BfQ49_JH_ofJ"
-        }
-      ],
-      [
-        "ArpZge_ljhkCPXUlmlPTX",
-        {
-          "type": "local",
-          "id": "ArpZge_ljhkCPXUlmlPTX"
-        }
-      ],
-      [
-        "IU78BIQYxF-1OwOU_tqu3",
-        {
-          "type": "local",
-          "id": "IU78BIQYxF-1OwOU_tqu3"
-        }
-      ],
-      [
         "q6hz31lOmXytMoaSyk_5q",
         {
           "type": "local",
@@ -35366,6 +35049,13 @@
         {
           "type": "local",
           "id": "fcMnf9VkvWzlhGHihcwv4"
+        }
+      ],
+      [
+        "pxZfxSpM4-YBQ3_9LaGCv",
+        {
+          "type": "local",
+          "id": "pxZfxSpM4-YBQ3_9LaGCv"
         }
       ]
     ],
@@ -41193,22 +40883,6 @@
         }
       ],
       [
-        "XkBefuK2tka1Y1o48QgkT",
-        {
-          "instanceId": "XkBefuK2tka1Y1o48QgkT",
-          "values": [
-            "F441_rZ07DK0kBcM0-0SW"
-          ]
-        }
-      ],
-      [
-        "MOGcPGDuzNbvPtxu1BVaf",
-        {
-          "instanceId": "MOGcPGDuzNbvPtxu1BVaf",
-          "values": []
-        }
-      ],
-      [
         "vfV1PhhA1CWW2K0a3wuC3",
         {
           "instanceId": "vfV1PhhA1CWW2K0a3wuC3",
@@ -41391,49 +41065,11 @@
         }
       ],
       [
-        "RxlkI_OuheaZWJ-_-ZeGI",
+        "0kSIOFADb95EoVnNFjkm_",
         {
-          "instanceId": "RxlkI_OuheaZWJ-_-ZeGI",
+          "instanceId": "0kSIOFADb95EoVnNFjkm_",
           "values": [
-            "7F_IUOGYpE75p3GGV0hVi"
-          ]
-        }
-      ],
-      [
-        "RhccBB8QNAGqQYe3cvmwW",
-        {
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "values": [
-            "7gpAsybvEUUNVCYVnoIpn"
-          ]
-        }
-      ],
-      [
-        "djdV0Y72xll8x0Z0Xby5f",
-        {
-          "instanceId": "djdV0Y72xll8x0Z0Xby5f",
-          "values": [
-            "IM8LU74B0BfQ49_JH_ofJ"
-          ]
-        }
-      ],
-      [
-        "7MqvljBkQoU9UWnvdZI3g",
-        {
-          "instanceId": "7MqvljBkQoU9UWnvdZI3g",
-          "values": [
-            "QuOwEzSGTPKRquAPiVbUO",
-            "7puC0Kv9ErUyuv6KSpcaJ",
-            "ArpZge_ljhkCPXUlmlPTX"
-          ]
-        }
-      ],
-      [
-        "Fcwjk47WEmRLY7gMHn9tb",
-        {
-          "instanceId": "Fcwjk47WEmRLY7gMHn9tb",
-          "values": [
-            "IU78BIQYxF-1OwOU_tqu3"
+            "pxZfxSpM4-YBQ3_9LaGCv"
           ]
         }
       ]
@@ -47164,7 +46800,7 @@
           "instanceId": "zKpJIZusY7zp3dCViSOkC",
           "name": "code",
           "type": "string",
-          "value": "<h2>Why VAIIYA?</h2>\n<ul>\n  <p>VAIIYA is the worlds leading innovator in all security sectors. <br> We are your only, best option. </p>\n  <p>Why? because we do things right, ready, prepared and armed. We always get our way.</p>\n\n  <p>VAIIYA sees, and knows about each and every threat, fly, virus, pipebomb, or digital enemy. Will they ever win? Not on VAIIYA's watch.</p>\n<br>\n  <p>Do we ever leave? No. Do we stop at a dead end? Thats just a roadblock. <br>\n  Do we ever rest? Not enough for the enemy to even think. </p>\n  <br>\n  <p>we've made it clear, we do our job. Digital or meatspace. <br> <b>Security, on another level entirely. </b></p>\n  <li>Every element is shown in the Navigator.</li>\n  <li>Apply styles and Tokens to each element.</li>\n  <li>Adjustments to elements apply universally within this embed, ensuring consistency across your content.</li>\n</ul>\n<hr>\n<h2>This sample text contains all the elements that can be styled.</h2>\n<p>Any elements that were not used above are used below.</p>\n<h3>Heading 3</h3>\n<h4>Heading 4</h4>\n<h5>Heading 5</h5>\n<h6>Heading 6</h6>\n<p><a href=\"#\">Links</a> connect your content to relevant resources.</p>\n<p><strong>Bold text</strong> makes your important points stand out.</p>\n<p><em>Italic text</em> is great for emphasizing terms.</p>\n<ol>\n  <li>First Step</li>\n  <li>Second Step</li>\n</ol>\n\n<blockquote>Capture attention with a powerful quote.</blockquote>\n<p>Using <code>console.log(\"Hello World\");</code> will log to the console.</p>\n<p>Content Embed allows styling of HTML, which primarily comes from external data.</p>"
+          "value": "<h2>Why VAIIYA?</h2>\n<ul>\n  <p>VAIIYA is the worlds leading innovator in all security sectors. <br> We are your only, best option. </p>\n  <p>Why? because we do things right, ready, prepared and armed. We always get our way.</p>\n\n  <p>VAIIYA sees, and knows about each and every threat, fly, virus, pipebomb, or digital enemy. Will they ever win? Not on VAIIYA's watch.</p>\n<br>\n  <p>Do we ever leave? No. Do we stop at a dead end? Thats just a roadblock. <br>\n  Do we ever rest? Not enough for the enemy to even think. </p>\n  <br>\n  <p>we've made it clear, we do our job. Digital or meatspace. <br> <b>Security, on another level entirely. </b></p>\n  <br>\n  <h2>What do we offer? <br> lets say; <br> \"If everything didnt have an end\". </h2>\n  <br>\n  <p>If you came to us, and said \"What do you have to offer\", <br> We would respond with \"<m><i>does everything have an end? Not for us.</i></m>\"</p>\n  <br>\n  <h3>Find out more SOON™</h3></ul>"
         }
       ],
       [
@@ -47348,36 +46984,6 @@
         }
       ],
       [
-        "pD846ayYnmYn6JXjPHPCe",
-        {
-          "id": "pD846ayYnmYn6JXjPHPCe",
-          "instanceId": "XkBefuK2tka1Y1o48QgkT",
-          "name": "data-ws-show",
-          "type": "boolean",
-          "value": true
-        }
-      ],
-      [
-        "UyyyjbbJR0k-ZEQ39o-R9",
-        {
-          "id": "UyyyjbbJR0k-ZEQ39o-R9",
-          "instanceId": "ZXXcbSxUw_QNkTa3lZqT0",
-          "name": "datetime",
-          "type": "string",
-          "value": "1/1/2025"
-        }
-      ],
-      [
-        "3yJSggsGwSTc4YBv9rxX3",
-        {
-          "id": "3yJSggsGwSTc4YBv9rxX3",
-          "instanceId": "ZXXcbSxUw_QNkTa3lZqT0",
-          "name": "country",
-          "type": "string",
-          "value": "US"
-        }
-      ],
-      [
         "V6ZFSeKZbHKBTR0A-PUDb",
         {
           "id": "V6ZFSeKZbHKBTR0A-PUDb",
@@ -47455,76 +47061,6 @@
           "name": "tag",
           "type": "string",
           "value": "header"
-        }
-      ],
-      [
-        "fCcNhmD_BP6KT8ZJZiXFq",
-        {
-          "id": "fCcNhmD_BP6KT8ZJZiXFq",
-          "instanceId": "RxlkI_OuheaZWJ-_-ZeGI",
-          "name": "tag",
-          "type": "string",
-          "value": "footer"
-        }
-      ],
-      [
-        "73feqsi-7JcWBEu_JFLUc",
-        {
-          "id": "73feqsi-7JcWBEu_JFLUc",
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "name": "src",
-          "type": "asset",
-          "value": "874b66c7ad736c46967221c0ab5f031b4293395905aeace6818ddc32a35f7d0e"
-        }
-      ],
-      [
-        "OCXP2aj1BXuKXRhRMSQVh",
-        {
-          "id": "OCXP2aj1BXuKXRhRMSQVh",
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "name": "width",
-          "type": "number",
-          "value": 100
-        }
-      ],
-      [
-        "c5lEq-MGL0A7eLxBwZCGI",
-        {
-          "id": "c5lEq-MGL0A7eLxBwZCGI",
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "name": "height",
-          "type": "number",
-          "value": 100
-        }
-      ],
-      [
-        "vVMrJ4-8H5ZKB37lhAQH0",
-        {
-          "id": "vVMrJ4-8H5ZKB37lhAQH0",
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "name": "alt",
-          "type": "string",
-          "value": "Author"
-        }
-      ],
-      [
-        "Twh8wYXWFv0vN-CFugTBP",
-        {
-          "id": "Twh8wYXWFv0vN-CFugTBP",
-          "instanceId": "RhccBB8QNAGqQYe3cvmwW",
-          "name": "loading",
-          "type": "string",
-          "value": "eager"
-        }
-      ],
-      [
-        "BkDmpE0Q94-EvugYTkD4g",
-        {
-          "id": "BkDmpE0Q94-EvugYTkD4g",
-          "instanceId": "7MqvljBkQoU9UWnvdZI3g",
-          "name": "rel",
-          "type": "string",
-          "value": "author"
         }
       ]
     ],
@@ -61046,10 +60582,6 @@
             {
               "type": "id",
               "value": "ScJyPgvg6gyV6UzfICyQq"
-            },
-            {
-              "type": "id",
-              "value": "RxlkI_OuheaZWJ-_-ZeGI"
             }
           ]
         }
@@ -61064,10 +60596,6 @@
           "children": [
             {
               "type": "id",
-              "value": "XkBefuK2tka1Y1o48QgkT"
-            },
-            {
-              "type": "id",
               "value": "vfV1PhhA1CWW2K0a3wuC3"
             },
             {
@@ -61077,69 +60605,6 @@
             {
               "type": "id",
               "value": "3I27XSahDu_S9wkI786Wp"
-            }
-          ]
-        }
-      ],
-      [
-        "XkBefuK2tka1Y1o48QgkT",
-        {
-          "type": "instance",
-          "id": "XkBefuK2tka1Y1o48QgkT",
-          "component": "Box",
-          "label": "Cite",
-          "children": [
-            {
-              "type": "id",
-              "value": "MOGcPGDuzNbvPtxu1BVaf"
-            }
-          ]
-        }
-      ],
-      [
-        "MOGcPGDuzNbvPtxu1BVaf",
-        {
-          "type": "instance",
-          "id": "MOGcPGDuzNbvPtxu1BVaf",
-          "component": "Box",
-          "label": "Meta",
-          "children": [
-            {
-              "type": "id",
-              "value": "C8UcSTwYfSdG-AVv3sNTg"
-            },
-            {
-              "type": "id",
-              "value": "ZXXcbSxUw_QNkTa3lZqT0"
-            }
-          ]
-        }
-      ],
-      [
-        "C8UcSTwYfSdG-AVv3sNTg",
-        {
-          "type": "instance",
-          "id": "C8UcSTwYfSdG-AVv3sNTg",
-          "component": "Text",
-          "label": "Name",
-          "children": [
-            {
-              "type": "text",
-              "value": "\"Al\" Yankovic"
-            }
-          ]
-        }
-      ],
-      [
-        "ZXXcbSxUw_QNkTa3lZqT0",
-        {
-          "type": "instance",
-          "id": "ZXXcbSxUw_QNkTa3lZqT0",
-          "component": "Time",
-          "children": [
-            {
-              "type": "text",
-              "value": "Dec 2 2120."
             }
           ]
         }
@@ -61432,84 +60897,6 @@
           "component": "ws:descendant",
           "label": "Separator",
           "children": []
-        }
-      ],
-      [
-        "RxlkI_OuheaZWJ-_-ZeGI",
-        {
-          "type": "instance",
-          "id": "RxlkI_OuheaZWJ-_-ZeGI",
-          "component": "Box",
-          "label": "Footer",
-          "children": [
-            {
-              "type": "id",
-              "value": "RhccBB8QNAGqQYe3cvmwW"
-            },
-            {
-              "type": "id",
-              "value": "djdV0Y72xll8x0Z0Xby5f"
-            }
-          ]
-        }
-      ],
-      [
-        "RhccBB8QNAGqQYe3cvmwW",
-        {
-          "type": "instance",
-          "id": "RhccBB8QNAGqQYe3cvmwW",
-          "component": "Image",
-          "label": "Picture",
-          "children": []
-        }
-      ],
-      [
-        "djdV0Y72xll8x0Z0Xby5f",
-        {
-          "type": "instance",
-          "id": "djdV0Y72xll8x0Z0Xby5f",
-          "component": "Box",
-          "label": "Wrapper",
-          "children": [
-            {
-              "type": "id",
-              "value": "7MqvljBkQoU9UWnvdZI3g"
-            },
-            {
-              "type": "id",
-              "value": "Fcwjk47WEmRLY7gMHn9tb"
-            }
-          ]
-        }
-      ],
-      [
-        "7MqvljBkQoU9UWnvdZI3g",
-        {
-          "type": "instance",
-          "id": "7MqvljBkQoU9UWnvdZI3g",
-          "component": "Link",
-          "label": "Author",
-          "children": [
-            {
-              "type": "text",
-              "value": "Emily Doe"
-            }
-          ]
-        }
-      ],
-      [
-        "Fcwjk47WEmRLY7gMHn9tb",
-        {
-          "type": "instance",
-          "id": "Fcwjk47WEmRLY7gMHn9tb",
-          "component": "Paragraph",
-          "label": "Bio",
-          "children": [
-            {
-              "type": "text",
-              "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            }
-          ]
         }
       ],
       [
@@ -62085,21 +61472,6 @@
       }
     },
     {
-      "id": "6d0ccb3b2d45b9d44aca6a8086e9c1aa21987af79f2bdc990b602688011d480d",
-      "name": "Saira_Condensed-Bold_KdLYt3c0KuMLOmh-Ar_Ju.ttf",
-      "description": null,
-      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-      "size": 82752,
-      "type": "font",
-      "createdAt": "2025-03-17T04:46:38.055+00:00",
-      "format": "ttf",
-      "meta": {
-        "family": "Saira Condensed",
-        "style": "normal",
-        "weight": 700
-      }
-    },
-    {
       "id": "71c5a7bd71718d94e26ce9b4424190e7fc327e25faeb6522d36122c45a6a991c",
       "name": "ascend-cover_aPSGjSz0r-u7Gec3vty3n.png",
       "description": null,
@@ -62381,21 +61753,6 @@
         "family": "Tomorrow",
         "style": "normal",
         "weight": 700
-      }
-    },
-    {
-      "id": "d224618d7d93f97145aa33dd4566e9e6eb1cbf974b724f034c93ccb02f7361e3",
-      "name": "Saira_Condensed-Medium_bsaA6GGcAdxbrNBggwo3_.ttf",
-      "description": null,
-      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-      "size": 82732,
-      "type": "font",
-      "createdAt": "2025-03-17T04:46:40.152+00:00",
-      "format": "ttf",
-      "meta": {
-        "family": "Saira Condensed",
-        "style": "normal",
-        "weight": 500
       }
     },
     {
