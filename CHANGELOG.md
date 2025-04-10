@@ -1,5 +1,25 @@
 # CHANGELOG FILE
 
+-- [APR 10 12:45pm]
+
+---- PRE-PROD PUSH ----
+
+- removed ALL the default things, like seo and pricing things.
+
+- added testimonial of iseul-t
+
+- added testimonial of dissun 
+
+- added testimonial of Ichikawa Natsume
+
+- added testimonial of Junior McJohnson.
+
+- added the headshots of Alfa acta, engimo, isult and dissun
+
+- attempted to make the LEARN MORE button move down, it wont work for some reason.
+
+- changed the header names
+
 -- [APR 10 2:25pm]
 
 - changed most of the truehome text to the tomorrow font

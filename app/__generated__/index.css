@@ -1993,6 +1993,9 @@
   .coejy3h {
     max-width: 150px
   }
+  .c33xfh3 {
+    padding-top: var(--size-fluid-5)
+  }
   .c1cn3fw9 {
     margin-bottom: 0px
   }
@@ -2115,101 +2118,11 @@
   .c682mpb {
     letter-spacing: 0px
   }
-  .cejtdrx {
-    grid-template-columns: repeat(3, 1fr)
-  }
-  .c74kosi {
-    max-width: var(--size-header-3)
-  }
-  .c1t3frhm {
-    justify-content: end
-  }
-  .czx9unu {
-    background-image: var(--gradient-4), url("/assets/App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp")
-  }
-  .cn1jd01 {
-    background-size: auto auto, cover
-  }
-  .c12hsjsj {
-    background-repeat: repeat, no-repeat
-  }
-  .c1ru090q {
-    background-attachment: scroll, scroll
-  }
-  .c1syziaj {
-    background-origin: padding-box, padding-box
-  }
-  .cx97dnn {
-    background-blend-mode: screen, normal
-  }
-  .c19wkfj2 {
-    grid-column-start: span 2
-  }
-  .colzpbp {
-    grid-column-end: auto
-  }
-  .cyhujw8 {
-    background-position: 0% 0%, 50% 100%
-  }
-  .c28cf7m {
-    background-image: var(--gradient-4), url("/assets/App_Wide_2x_1_(2)_yiI7phUrEJxtQAVSp0ZeL.png")
-  }
-  .c5zb6ju {
-    background-size: auto auto, auto 100%
-  }
-  .c1axwber {
-    background-position: 0% 0%, 0% 0%
-  }
-  .cblbfaz {
-    background-image: var(--gradient-6)
-  }
-  .c162t7yy {
-    row-gap: var(--size-fluid-4, clamp(2rem,4vw,3rem))
-  }
-  .cr1aip5 {
-    border: var(--border-size-1, 1px) none var(--foreground-border, rgba(73, 80, 87, 1))
-  }
-  .c18knjwi {
-    padding: 0px
-  }
-  .c16xpvrq {
-    font-size: var(--font-size-fluid-1, clamp(1rem,4vw,1.5rem))
-  }
-  .cpo5yh5 {
-    font-size: var(--font-size-4, 1.5rem)
-  }
-  .c6oj68y {
-    max-width: var(--size-content-2, 45ch)
-  }
-  .c23h93x {
-    margin-top: var(--size-000)
-  }
-  .cevxs5e {
-    grid-template-columns: repeat(2, 1fr)
-  }
-  .c9scc {
-    background-image: url("/assets/Property_1_Desktop_WC1IMy9iiJ9vL4er9JyJM.webp")
-  }
-  .c9grybw {
-    background-size: cover
-  }
-  .c3hctjf {
-    height: 400px
-  }
-  .cxz9xjl {
-    background-position: 50% 50%
-  }
   .c18lgxql {
     max-width: 75%
   }
   .cignq8x {
     grid-template-columns: 1fr 5fr 1fr
-  }
-  .ctm7uqk {
-    column-gap: var(--size-1, 0.25rem)
-  }
-  .cdqkcyf {
-    row-gap: var(--size-1, 0.25rem)
   }
   .cwdqmmh {
     max-width: 142.9%
@@ -2275,6 +2188,24 @@
   .c1b7r3cd:hover {
     --link-icon-color: var(--foreground-accent)
   }
+  .c1t3frhm {
+    justify-content: end
+  }
+  .czx9unu {
+    background-image: var(--gradient-4), url("/assets/App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp")
+  }
+  .cn1jd01 {
+    background-size: auto auto, cover
+  }
+  .c12hsjsj {
+    background-repeat: repeat, no-repeat
+  }
+  .c1ru090q {
+    background-attachment: scroll, scroll
+  }
+  .c1syziaj {
+    background-origin: padding-box, padding-box
+  }
   .cnqbj7z {
     background-blend-mode: normal, normal
   }
@@ -2289,6 +2220,9 @@
   }
   .c1h61a8n {
     max-width: var(--size-14)
+  }
+  .c1axwber {
+    background-position: 0% 0%, 0% 0%
   }
   .c9p707e:hover {
     border-top-color: var(--foreground-accent)
@@ -2375,6 +2309,9 @@
   .ctw557h {
     letter-spacing: -1px
   }
+  .c74kosi {
+    max-width: var(--size-header-3)
+  }
   .ck8kpe {
     box-shadow: rgba(0, 0, 0, 1) 0px 2px 15px 25px, rgba(0, 0, 0, 1) inset 0px 2px 80px 115px
   }
@@ -2386,6 +2323,9 @@
   }
   .c180fws7 {
     text-decoration-line: underline
+  }
+  .c16xpvrq {
+    font-size: var(--font-size-fluid-1, clamp(1rem,4vw,1.5rem))
   }
   .c3fmn7t {
     max-width: var(--size-content-2)
@@ -2859,6 +2799,45 @@
   .cmg0y6y hr {
     margin-bottom: 0
   }
+  .c1pa4wt7 {
+    font-size: var(--font-size-4)
+  }
+  .c4j0o1n:hover {
+    box-shadow: none
+  }
+  .c1o3hdx1 {
+    height: var(--size-4)
+  }
+  .c1l1ks7p {
+    font-family: Inter, sans-serif
+  }
+  .cxjshtx {
+    column-gap: var(--gap-l)
+  }
+  .cevxs5e {
+    grid-template-columns: repeat(2, 1fr)
+  }
+  .c1gxuxwl {
+    object-fit: cover
+  }
+  .cc0cely {
+    aspect-ratio: var(--ratio-square)
+  }
+  .c6oj68y {
+    max-width: var(--size-content-2, 45ch)
+  }
+  .c23h93x {
+    margin-top: var(--size-000)
+  }
+  .c18o6g49 {
+    font-weight: 300
+  }
+  .c1cyf9ub {
+    letter-spacing: 0.5px
+  }
+  .c6k8nt0 {
+    text-transform: none
+  }
 }
 @media all and (max-width: 991px) {
   .c1gw84sn {
@@ -3076,26 +3055,32 @@
   .c1qoie81 {
     padding-bottom: var(--size-4)
   }
-  .c1l2ougi {
-    min-height: 400px
+  .c1jjfh4b {
+    flex-wrap: wrap
   }
-  .cowwg1a {
-    background-size: cover
+  .cc3dq2t {
+    display: none
   }
-  .c1noghwu {
-    background-repeat: no-repeat
+  .c1nd8hlk {
+    justify-content: space-between
   }
-  .cmoe9jo {
-    column-gap: 0px
+  .c4rd7b9 {
+    align-self: flex-end
   }
-  .c1obig1w {
-    row-gap: 0px
-  }
-  .cqtg27u {
-    max-width: none
+  .c3v2c40 {
+    font-size: var(--font-size-3)
   }
   .c1rstvfo {
     align-items: center
+  }
+  .c10x096o {
+    justify-content: start
+  }
+  .cyicwm2 {
+    width: var(--size-px-8)
+  }
+  .coxb4hz {
+    --foreground-muted: var(--foreground-primary)
   }
   .c1bulmrh {
     justify-content: center
@@ -3103,8 +3088,11 @@
   .c12f3mdq {
     text-align: center
   }
-  .cqe39x4 {
-    margin-top: 0px
+  .c2ogfof {
+    font-size: var(--font-size-4)
+  }
+  .c1l2ougi {
+    min-height: 400px
   }
   .c1dz3al {
     background-image: none
@@ -3125,41 +3113,8 @@
   .cq8dnu3 {
     background-size: none
   }
-  .c17jj8qr {
-    height: auto
-  }
   .cth1c7d {
     background-position: none
-  }
-  .c1jjfh4b {
-    flex-wrap: wrap
-  }
-  .cc3dq2t {
-    display: none
-  }
-  .cf4s3xc {
-    display: block
-  }
-  .c1nd8hlk {
-    justify-content: space-between
-  }
-  .c4rd7b9 {
-    align-self: flex-end
-  }
-  .c3v2c40 {
-    font-size: var(--font-size-3)
-  }
-  .c10x096o {
-    justify-content: start
-  }
-  .cyicwm2 {
-    width: var(--size-px-8)
-  }
-  .coxb4hz {
-    --foreground-muted: var(--foreground-primary)
-  }
-  .c2ogfof {
-    font-size: var(--font-size-4)
   }
   .cciu1th {
     border-top-style: solid
@@ -3175,6 +3130,12 @@
   }
   .ckqzz7r {
     padding: var(--size-1)
+  }
+  .cqe39x4 {
+    margin-top: 0px
+  }
+  .c1mpedrw {
+    flex-direction: row
   }
 }
 @media all and (max-width: 479px) {
