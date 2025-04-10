@@ -1,5 +1,12 @@
 # CHANGELOG FILE
 
+
+-- [APR 10 12:45am]
+
+- add a article to the truehome and add a vaiiyaguard as the main pic
+
+- add font TOMORROW to the fonts folder 
+
 -- [APR 9 11:00pm]
 
 
