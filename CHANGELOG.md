@@ -1,5 +1,24 @@
 # CHANGELOG FILE
 
+-- [APR 11 10:50pm]
+
+---- [0.2.0 prodpush] ----
+
+- add the link to the community backers page on ALL the footers. 
+
+- added Gia and kymocha as community backers! 
+
+- add the main wiki page
+
+- add "what are community backers" to the wiki.
+
+- added the "PROJECT' subfolder for webpages. 
+
+- added the community backers page. 
+
+- changed all the link embed previews to have that VAIIYAguard art.
+
+
 -- [APR 10 12:45pm]
 
 ---- PRE-PROD PUSH ----

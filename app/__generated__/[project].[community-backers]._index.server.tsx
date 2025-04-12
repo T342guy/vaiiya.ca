@@ -21,10 +21,10 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "[HOME] VAIIYA: Security just got better.",
-    description: "Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.",
-    excludePageFromSearch: false,
-    language: undefined,
+    title: "[Community backers] - VAIIYA: Security just got better. ",
+    description: "[All the community backers upholding this project!]\n\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.",
+    excludePageFromSearch: true,
+    language: "",
     socialImageAssetName: "COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg",
     socialImageUrl: undefined,
     status: undefined,

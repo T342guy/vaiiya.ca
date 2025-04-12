@@ -25,8 +25,8 @@ export const getResources = (_props: { system: System }) => {
     description: "[This site has a warning page disclosing the in-dev progress]\n\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.",
     excludePageFromSearch: true,
     language: "",
-    socialImageAssetName: undefined,
-    socialImageUrl: "",
+    socialImageAssetName: "COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg",
+    socialImageUrl: undefined,
     status: undefined,
     redirect: "",
     custom: [
