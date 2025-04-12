@@ -25,8 +25,8 @@ export const getResources = (_props: { system: System }) => {
     description: "contact the developer of vaiiya.ca for reporting bugs, or general contact!",
     excludePageFromSearch: true,
     language: "",
-    socialImageAssetName: undefined,
-    socialImageUrl: "",
+    socialImageAssetName: "COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg",
+    socialImageUrl: undefined,
     status: 200,
     redirect: "",
     custom: [
