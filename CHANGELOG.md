@@ -1,5 +1,15 @@
 # CHANGELOG FILE
 
+--- [APR 13 7:40pm]
+
+--- [0.2.1] --- 
+
+- changed the font on warnhome to tomorrow. 
+
+- completely fixed the warnhome to be more clear, more "PLEASE READ" and added more bold things
+
+- changed the "GO TO HOME" link and text to be bold, and large on warnhome. 
+
 -- [APR 11 10:50pm]
 
 ---- [0.2.0 prodpush] ----
