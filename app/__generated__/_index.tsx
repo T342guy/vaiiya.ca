@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Superscript as Superscript, Span as Span } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Span as Span } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -16,7 +16,7 @@ import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webst
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf"]
+        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         ["Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
@@ -355,21 +355,16 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c11dowh9 c32myit cwrra4i cooiwtu ct8vr6u c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv cesy16e c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c19zwsxj c135vpv5 cnonmc3 c1dhz37v c1vy1xjw`}>
-{"HOLD UP!"}
-{""}
-<br />
-{""}
-{"WAIT A SECOND THERE!"}
+className={`w-heading c11nr3ex c11dowh9 c32myit cwrra4i cooiwtu ct8vr6u c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn c19zwsxj c135vpv5 cnonmc3 c1dhz37v c1vy1xjw`}>
+{"WAIT JUST A SECOND!"}
 </Heading>
 </Box>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i c135vpv5`}>
-{"Wait just a minute scotty! "}
-{""}
-<br />
-{""}
-{"You'll get your pre-release! "}
+className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cjfg1nn c135vpv5 c1cb3y4c`}>
+<Span
+className={`w-text-1 c1dxq9cf cjfg1nn c1cb3y4c c180fws7`}>
+{"PLEASE READ ALL!"}
+</Span>
 {""}
 <br />
 {""}
@@ -380,13 +375,6 @@ className={`w-italic-text`}>
 {"THIS SITE IS NOT DONE DEVELOPMENT!"}
 </Italic>
 </Bold>
-{""}
-<br />
-{""}
-<Superscript
-className={`w-superscript-text cegahk1`}>
-{"give us time ok? geez..."}
-</Superscript>
 {""}
 <br />
 {""}
@@ -409,51 +397,82 @@ className={`w-italic-text c180fws7`}>
 {""}
 {" "}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"- Some features and functionality"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"(this includes site links)"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"- Various sections of content"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"- Certain design elements and styling"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"- Parts of the user experience"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
+className={`w-bold-text c1cb3y4c`}>
 {"- Numerous optimization improvements"}
 </Bold>
 {""}
 <br />
 {""}
 <Bold
-className={`w-bold-text`}>
-{"- AND LOTS OF THIS SITE IS STILL THE DEMO FROM IT BEING BUILT!"}
+className={`w-bold-text c1cb3y4c`}>
+{"- AND SOME OF THIS SITE IS STILL THE TEMPLATE FROM IT BEING BUILT!"}
 </Bold>
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+<Span
+className={`w-text-1`}>
+<Bold
+className={`w-bold-text`}>
+<Italic
+className={`w-italic-text c1dxq9cf`}>
+{"If you wish to continue, go to the "}
+</Italic>
+</Bold>
+</Span>
+<RichTextLink
+href={"/home"}
+target={"_self"}
+className={`w-rich-text-link`}>
+<Span
+className={`w-text-1`}>
+<Bold
+className={`w-bold-text`}>
+<Italic
+className={`w-italic-text c1dxq9cf c1yunxor`}>
+{"Home page!"}
+</Italic>
+</Bold>
+</Span>
+</RichTextLink>
 {""}
 <br />
 {""}
@@ -462,37 +481,10 @@ className={`w-bold-text`}>
 {""}
 {"you can tell the dev about various bugs/typos/broken stuff on the "}
 <RichTextLink
-href={"/contact-the-dev"}
-target={"_self"}
 className={`w-rich-text-link`}>
 {"Contact the dev page!"}
 </RichTextLink>
 {" "}
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"If you wish to continue, go to the "}
-</Italic>
-</Bold>
-<RichTextLink
-href={"/home"}
-target={"_self"}
-className={`w-rich-text-link`}>
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"Home page!"}
-</Italic>
-</Bold>
-</RichTextLink>
 </Paragraph>
 <Box
 className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
