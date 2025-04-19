@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "ff40e278-d714-4928-bcc4-a82c21775dda",
+    "id": "9b530289-09ae-4f94-b2e7-3b43aef5f35d",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 2099,
-    "createdAt": "2025-04-14T02:40:27.793+00:00",
-    "updatedAt": "2025-04-14T02:40:27.793+00:00",
+    "version": 2114,
+    "createdAt": "2025-04-19T02:37:03.311+00:00",
+    "updatedAt": "2025-04-19T02:37:03.311+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -16,7 +16,7 @@
         "title": "\"[WARN Home] VAIIYA: Security just got better. \"",
         "rootInstanceId": "5gz7YnTBGK8uk4sRD-S-b",
         "meta": {
-          "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+          "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
           "excludePageFromSearch": "true",
           "language": "\"\"",
           "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
@@ -98,7 +98,7 @@
           "rootInstanceId": "Nt7qDXIegyunmPsxvC5Vq",
           "systemDataSourceId": "YM1a_TzLRzq5KnAuCvK7G",
           "meta": {
-            "description": "\"Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+            "description": "\"Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
             "excludePageFromSearch": "false",
             "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
             "redirect": "\"\"",
@@ -115,7 +115,7 @@
           "title": "\"[DISCLAIMERS] - VAIIYA: Security just got better.\"",
           "rootInstanceId": "uBjWjeOQMvnlLdRTzTb_N",
           "meta": {
-            "description": "\"[Disclaimers for the site.]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+            "description": "\"[Disclaimers for the site.]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
             "excludePageFromSearch": "true",
             "language": "\"\"",
             "socialImageUrl": "\"\"",
@@ -163,7 +163,7 @@
           "title": "\"[Community backers] - VAIIYA: Security just got better. \"",
           "rootInstanceId": "eWzB6E0pImW3bwWcANpSl",
           "meta": {
-            "description": "\"[All the community backers upholding this project!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+            "description": "\"[All the community backers upholding this project!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
             "excludePageFromSearch": "true",
             "language": "\"\"",
             "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
@@ -180,6 +180,25 @@
             "include": false
           },
           "path": "/community-backers"
+        },
+        {
+          "id": "U5TdBlO44px1xo9aoCaEa",
+          "name": "home",
+          "title": "\"[Blog home] VAIIYA: Security just got better. \"",
+          "rootInstanceId": "aT9LaAS0ZEQrjQ6MGshM4",
+          "meta": {
+            "description": "\"[All of VAIIYA's blogs!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
+            "excludePageFromSearch": "false",
+            "language": "\"\"",
+            "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
+            "redirect": "\"\"",
+            "documentType": "html",
+            "custom": []
+          },
+          "marketplace": {
+            "include": false
+          },
+          "path": "/home"
         }
       ],
       "folders": [
@@ -195,7 +214,8 @@
             "UpkHBjf9IUA8hJRdqW_2Q",
             "MEqbyRQCwxQiPt7Nyva5F",
             "xoFKNu8zHuh3kbXG0BWF2",
-            "J64kORAZJqqL3SFsfXDL4"
+            "J64kORAZJqqL3SFsfXDL4",
+            "vnbOJ5zV5_1n2WjadvaKw"
           ]
         },
         {
@@ -226,6 +246,14 @@
           "slug": "project",
           "children": [
             "QTxWS16ZvF3ZXUQpmfLas"
+          ]
+        },
+        {
+          "id": "vnbOJ5zV5_1n2WjadvaKw",
+          "name": "blog",
+          "slug": "blog",
+          "children": [
+            "U5TdBlO44px1xo9aoCaEa"
           ]
         }
       ]
@@ -66660,6 +66688,15 @@
             }
           ]
         }
+      ],
+      [
+        "aT9LaAS0ZEQrjQ6MGshM4",
+        {
+          "type": "instance",
+          "id": "aT9LaAS0ZEQrjQ6MGshM4",
+          "component": "Body",
+          "children": []
+        }
       ]
     ],
     "deployment": {
@@ -66677,7 +66714,7 @@
     "title": "\"[WARN Home] VAIIYA: Security just got better. \"",
     "rootInstanceId": "5gz7YnTBGK8uk4sRD-S-b",
     "meta": {
-      "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+      "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
       "excludePageFromSearch": "true",
       "language": "\"\"",
       "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
@@ -66697,7 +66734,7 @@
       "title": "\"[WARN Home] VAIIYA: Security just got better. \"",
       "rootInstanceId": "5gz7YnTBGK8uk4sRD-S-b",
       "meta": {
-        "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+        "description": "\"[This site has a warning page disclosing the in-dev progress]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
         "excludePageFromSearch": "true",
         "language": "\"\"",
         "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
@@ -66778,7 +66815,7 @@
       "rootInstanceId": "Nt7qDXIegyunmPsxvC5Vq",
       "systemDataSourceId": "YM1a_TzLRzq5KnAuCvK7G",
       "meta": {
-        "description": "\"Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+        "description": "\"Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
         "excludePageFromSearch": "false",
         "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
         "redirect": "\"\"",
@@ -66795,7 +66832,7 @@
       "title": "\"[DISCLAIMERS] - VAIIYA: Security just got better.\"",
       "rootInstanceId": "uBjWjeOQMvnlLdRTzTb_N",
       "meta": {
-        "description": "\"[Disclaimers for the site.]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+        "description": "\"[Disclaimers for the site.]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
         "excludePageFromSearch": "true",
         "language": "\"\"",
         "socialImageUrl": "\"\"",
@@ -66843,7 +66880,7 @@
       "title": "\"[Community backers] - VAIIYA: Security just got better. \"",
       "rootInstanceId": "eWzB6E0pImW3bwWcANpSl",
       "meta": {
-        "description": "\"[All the community backers upholding this project!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.\"",
+        "description": "\"[All the community backers upholding this project!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
         "excludePageFromSearch": "true",
         "language": "\"\"",
         "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
@@ -66860,6 +66897,25 @@
         "include": false
       },
       "path": "/community-backers"
+    },
+    {
+      "id": "U5TdBlO44px1xo9aoCaEa",
+      "name": "home",
+      "title": "\"[Blog home] VAIIYA: Security just got better. \"",
+      "rootInstanceId": "aT9LaAS0ZEQrjQ6MGshM4",
+      "meta": {
+        "description": "\"[All of VAIIYA's blogs!]\\n\\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.\"",
+        "excludePageFromSearch": "false",
+        "language": "\"\"",
+        "socialImageAssetId": "83679e1f1b3afaf892daa3643ab941fef04e246dba0a2bd66b9b0e5572ce109e",
+        "redirect": "\"\"",
+        "documentType": "html",
+        "custom": []
+      },
+      "marketplace": {
+        "include": false
+      },
+      "path": "/home"
     }
   ],
   "assets": [

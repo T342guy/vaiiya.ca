@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "[DISCLAIMERS] - VAIIYA: Security just got better.",
-    description: "[Disclaimers for the site.]\n\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.",
+    description: "[Disclaimers for the site.]\n\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.",
     excludePageFromSearch: true,
     language: "",
     socialImageAssetName: undefined,

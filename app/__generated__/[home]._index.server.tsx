@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "[HOME] VAIIYA: Security just got better.",
-    description: "Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and evey type of danger.",
+    description: "Think you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.",
     excludePageFromSearch: false,
     language: undefined,
     socialImageAssetName: "COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg",

@@ -1,5 +1,16 @@
 # CHANGELOG FILE
 
+-[APR 18 7:40pm]
+
+---- pre push ----
+
+- added the blogs sitefolder
+
+- added the blog homepage at the slug /blog/home
+    - The Blog home page has NOTHING on it at this moment.
+
+- fixed ALL the typos in the link embed contexts #53 fixed.
+
 --- [APR 13 7:40pm]
 
 --- [0.2.1] --- 
