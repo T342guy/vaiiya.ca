@@ -1,5 +1,23 @@
 # CHANGELOG FILE
 
+-[APR 19 11:40pm]
+
+---- PRE PUSH ----
+
+- changed all the footers's "blog" link to the blogs page! 
+
+- changed the viewport's "blog" link to the blogs page!
+
+- added a blogs template to the blogs page
+
+- changed the background gradient on the main hero, on the blog page
+
+- added the main hero to the blogs page
+
+- added the main viewport and navbar to the blogs page
+
+- added footer to the blogs page
+
 -[APR 18 7:40pm]
 
 ---- pre push ----

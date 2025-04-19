@@ -299,7 +299,7 @@ className={`w-text cy1haag c12y6bqh`}>
 data-ws-index="3"
 className={`w-menu-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/blog/home"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"Blog"}
@@ -492,7 +492,7 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/blog/home"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"Blog"}
