@@ -1,5 +1,19 @@
 # CHANGELOG FILE
 
+-[APR 19 4:54pm]
+
+---- PRE PUSH ----
+
+- blob storage is working great, maybe use that from now on (for larger files)
+
+- removed the "learn more" button on the blog homepage
+
+- changed the image on the blog preview.
+
+- changed the name of one blog part to the VAIIYA X2000 one 
+
+- added blob storage store for high speed asset transfer
+
 -[APR 19 11:40pm]
 
 ---- PRE PUSH ----

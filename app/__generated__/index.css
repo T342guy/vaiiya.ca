@@ -2855,9 +2855,6 @@
   .c1e5okwc {
     transition-timing-function: var(--easing-default), var(--easing-default)
   }
-  .c18knjwi {
-    padding: 0px
-  }
   .cujvo5q:focus {
     outline-offset: var(--focus-offset)
   }
@@ -2870,23 +2867,8 @@
   .cnqrsxi:active {
     scale: var(--active-scale) var(--active-scale) 100%
   }
-  .c1wn9gbn {
-    border-bottom-left-radius: 0px
-  }
-  .ckhl5v6 {
-    border-bottom-right-radius: 0px
-  }
-  .c1myzjic {
-    padding-left: var(--spacing-default)
-  }
-  .ckmmjuv {
-    padding-right: var(--spacing-default)
-  }
   .c1lyhjp7 {
     margin-top: auto
-  }
-  .ckvyl3r {
-    padding-bottom: var(--spacing-default)
   }
 }
 @media all and (max-width: 991px) {

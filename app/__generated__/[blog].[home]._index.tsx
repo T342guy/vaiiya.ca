@@ -352,15 +352,6 @@ className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cjfg1
 {""}
 {"Learn about the series 2000, progress on R&D, or announcements to the open public!"}
 </Paragraph>
-<Box
-className={`w-box c76ugon c1va7jp0 c18xibj9 ccn5ruk c8dp7hf c6d3y84 cax3zcx c1le23sj c40yjke c1kzn7na c17q2jvf csugexd cciu1th co2lzyj cghs7z1 c18xchlu ckqzz7r`}>
-<Link
-href={"/home#menu1Title"}
-target={"_self"}
-className={`w-link c1plv2ab c13b531o c1my01bv c14z1eqr c1ktl1y1 cr8yqfm c1ufwdzl c5blvcv cml0h3f c180fws7 csru8nn c1qyy4dh ct02u4h c1md20bl c1e892th c1qom380 cn2jcgb cdcs8wy c1m1praz c1mcu1jn c1d7r856 cd3iwfe c1yhcvvf cwc6hbl c11r52nx cblpe2z cjfg1nn c11dowh9 cheslu6 cl60rel c1ib9cr2 c82bfcw c1ukphsi`}>
-{"Learn more!"}
-</Link>
-</Box>
 </Box>
 </Box>
 </Box>
@@ -370,38 +361,57 @@ className={`w-box cna0hdz c1mzb2kd`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
 <Box
-className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g`}>
-<Heading
-tag={"h2"}
-className={`w-heading c1dxq9cf cy1haag c32myit cwrra4i c12y6bqh c1mpwk4w c74kosi c1qom380 c1357293 c9jnjeu c1dhz37v`}>
-{"Articles"}
-</Heading>
-<Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x`}>
-{"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
-</Paragraph>
-</Box>
-<Box
 className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174sw29`}>
-{[{"title":"10 Principles of Minimalist Web Design","imageUrl":"https://picsum.photos/700/500?grayscale&random=1","imageAlt":"Clean white workspace with minimal decorative elements","author":"Sarah Chen","datePublished":"2024-02-01","timeToRead":"6 min","excerpt":"Explore the fundamental principles of minimalist design that can transform your website into a clean, focused, and effective user experience. Learn how to implement white space, typography, and visual hierarchy.","slug":"10-principles-minimalist-web-design"},{"title":"Color Theory in Modern UI Design","imageUrl":"https://picsum.photos/700/500?grayscale&random=2","imageAlt":"Color wheel showing primary and secondary color relationships","author":"Michael Rodriguez","datePublished":"2024-01-28","timeToRead":"8 min","excerpt":"Deep dive into how color psychology influences user behavior and brand perception. Discover practical tips for creating harmonious color palettes that enhance your UI design.","slug":"color-theory-modern-ui-design"},{"title":"Typography Trends","imageUrl":"https://picsum.photos/700/500?grayscale&random=3","imageAlt":"Various modern font samples arranged artistically","author":"Emma Wilson","datePublished":"2024-01-25","timeToRead":"5 min","excerpt":"Stay ahead of the curve with our analysis of emerging typography trends. From variable fonts to experimental layouts, learn how typography is evolving in the digital space.","slug":"typography-trends-2024"}]?.map?.((articleItem: any, index: number) =>
+{[
+  {
+    "title": "The VAIIYA X2000: Helping lives, with a piece of silicon.",
+    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/VAIIYA_X2000_cropped_forwebsite-PTVrbsyTukQg6pqAPLAAYC7XRTnMz1.webp",
+    "imageAlt": "The VAIIYA x2000 zoomed in",
+    "author": "AL 'fix it' albert",
+    "datePublished": "2182-02-29",
+    "timeToRead": "tbd",
+    "excerpt": "The VAIIYA X2000, our efforts combined to help the world.",
+    "slug": "the_vaiiya_x2000_article_1"
+  },
+  {
+    "title": "Color Theory in Modern UI Design",
+    "imageUrl": "https://picsum.photos/700/500?grayscale&random=2",
+    "imageAlt": "Color wheel showing primary and secondary color relationships",
+    "author": "Michael Rodriguez",
+    "datePublished": "2024-01-28",
+    "timeToRead": "8 min",
+    "excerpt": "Deep dive into how color psychology influences user behavior and brand perception. Discover practical tips for creating harmonious color palettes that enhance your UI design.",
+    "slug": "color-theory-modern-ui-design"
+  },
+  {
+    "title": "Typography Trends",
+    "imageUrl": "https://picsum.photos/700/500?grayscale&random=3",
+    "imageAlt": "Various modern font samples arranged artistically",
+    "author": "Emma Wilson",
+    "datePublished": "2024-01-25",
+    "timeToRead": "5 min",
+    "excerpt": "Stay ahead of the curve with our analysis of emerging typography trends. From variable fonts to experimental layouts, learn how typography is evolving in the digital space.",
+    "slug": "typography-trends-2024"
+  }
+]?.map?.((articleItem: any, index: number) =>
 <Fragment key={index}>
 <Box
 tag={"article"}
 className={`w-box`}>
 <Link
 href={`/blogs/${articleItem?.slug}`}
-className={`w-link cry9bxc c1lfjoq7 c1wt8a7g c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c135vpv5 c12y6bqh cq9hqvu ci4ohfa c1e5okwc cwc6hbl c11r52nx c1bkqfhr cdtylqg chmjof8 ce02iuh c18knjwi cujvo5q c190jqlf c8ksia9 cnqrsxi`}>
+className={`w-link cry9bxc c1lfjoq7 c1wt8a7g c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c135vpv5 c12y6bqh cq9hqvu ci4ohfa c1e5okwc cwc6hbl c11r52nx c1bkqfhr ce02iuh c15hexcm cujvo5q c190jqlf c8ksia9 cnqrsxi`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1md20bl c1e892th`}>
 <Image
-src={articleItem?.imageUrl}
 alt={articleItem?.imageAlt}
+src={articleItem?.imageUrl}
 width={700}
 height={500}
-className={`w-image czr2pxy cr8yqfm c1ufwdzl c1wn9gbn ckhl5v6`} />
+className={`w-image czr2pxy cr8yqfm c1ufwdzl c5blvcv cml0h3f`} />
 </Box>
 <Box
-className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7 c1myzjic ckmmjuv`}>
+className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
 <Heading
 tag={"h3"}
 className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i c12y6bqh`}>
@@ -409,7 +419,7 @@ className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i c12y6bqh`}>
 </Heading>
 </Box>
 <Box
-className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c16xs6ny c1wt8a7g c1lyhjp7 ckvyl3r c1myzjic ckmmjuv`}>
+className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c16xs6ny c1wt8a7g c1lyhjp7`}>
 <Time
 datetime={articleItem?.datePublished}
 country={"US"}
