@@ -2846,6 +2846,27 @@
   .cejtdrx {
     grid-template-columns: repeat(3, 1fr)
   }
+  .c608rfc {
+    margin-top: 40px
+  }
+  .c1pmcxsb {
+    border-top-left-radius: var(--radius-round)
+  }
+  .ck312uk {
+    border-top-right-radius: var(--radius-round)
+  }
+  .c1it126x {
+    border-bottom-left-radius: var(--radius-round)
+  }
+  .c13mpy3e {
+    border-bottom-right-radius: var(--radius-round)
+  }
+  .c14ubqu {
+    width: var(--size-11)
+  }
+  .cq59k3f {
+    height: var(--size-11)
+  }
   .cq9hqvu {
     transition-property: scale, opacity
   }

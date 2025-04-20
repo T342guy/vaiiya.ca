@@ -1,5 +1,13 @@
 # CHANGELOG FILE
 
+-[APR 19 10:40pm]
+
+---- PRE PUSH ----
+
+- created the article X2000 page and added the default template. 
+
+- set the other article things to SOON and untitled names, and also removed the slugs, and other unneeded stuff
+
 -[APR 19 4:54pm]
 
 ---- PRE PUSH ----
