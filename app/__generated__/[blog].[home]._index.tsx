@@ -4,9 +4,9 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Image as Image, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Span as Span } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Paragraph as Paragraph, Slot as Slot, Heading as Heading, Image as Image, List as List, ListItem as ListItem, Time as Time } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
-import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
+import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-router";
 
 
       export const siteName = "VAIIYAwebsite";
@@ -16,35 +16,21 @@ import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webst
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
+        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
-        ["Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
+        ["Group_1_3Lze2enBpFNP3rVOtd0Yp.svg","Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
 
       
-            
-
-            export const CustomCode = () => {
-              return (<></>);
-            }
-          
 
       const Page = (_props: { system: any; }) => {
 return <Body
 className={`w-body`}>
-<Slot>
-<Fragment_1>
-<HtmlEmbed
-code={"<style>\n  /* So we don't need to add a token to every paragraph to remove margin. */\n  p {\n    margin: 0;\n  }\n\n  /* * {\n    /* Make links scroll to their sections smoothly. */\n    scroll-behavior: smooth;\n  } */\n</style>"}
-className={`w-html-embed`} />
-<HtmlEmbed
-code={"<style>\n:root {\n  --ani-duration: var(--duration-default, .2s);\n  --ani-delay: 0s;\n  --ani-slide-offset: 20%;\n  --ani-zoom-in-scale: 1;\n  --ani-zoom-out-scale: .85;\n  --ani-flip-rotate: 30deg;\n  --ani-easing: var(--easing-default, ease);\n  --ani-fill-mode: forwards;\n}\n[data-ani]:not([data-ani-children]),[data-ani-children]:not([data-ani-progress])>*{animation-duration:var(--ani-duration);animation-delay:var(--ani-delay);animation-timing-function:var(--ani-easing);animation-fill-mode:var(--ani-fill-mode);opacity:0}[data-ani-progress]:not([data-ani-children]),[data-ani-children]:not([data-ani])>*{transition-property:opacity,transform;transition-duration:var(--ani-duration);transition-timing-function:var(--ani-easing);opacity:0}\n@keyframes fadeIn{from{opacity:0}\nto{opacity:1}}\n@keyframes fadeOut{from{opacity:1}\nto{opacity:0}}[data-ani-children][data-ani='fade']>.in,[data-ani='fade']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:fadeIn}[data-ani-children][data-ani='fade']>.out,[data-ani='fade']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:fadeOut}\n@keyframes slideIn{from{opacity:0;translate:var(--ani-slide-transform)}\nto{opacity:1;translate:none}}\n@keyframes slideOut{from{opacity:1;translate:none}\nto{opacity:0;translate:var(--ani-slide-transform)}}[data-ani-children][data-ani|='slide']>.in,[data-ani|='slide']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:slideIn}[data-ani-children][data-ani|='slide']>.out,[data-ani|='slide']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:slideOut}[data-ani='slide-up']{--ani-slide-transform:0 var(--ani-slide-offset)}[data-ani='slide-down']{--ani-slide-transform:0 calc(-1*var(--ani-slide-offset))}[data-ani='slide-left']{--ani-slide-transform:var(--ani-slide-offset)}[data-ani='slide-right']{--ani-slide-transform:calc(-1*var(--ani-slide-offset))}\n@keyframes zoomIn{from{opacity:0;scale:var(--ani-zoom-out-scale)}\nto{opacity:1;scale:1}}\n@keyframes zoomOut{from{opacity:1;scale:1}\nto{opacity:0;scale:var(--ani-zoom-in-scale)}}[data-ani-children][data-ani='zoom']>.in,[data-ani|='zoom']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:zoomIn}[data-ani-children][data-ani='zoom']>.out,[data-ani|='zoom']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:zoomOut}[data-ani-children][data-ani-progress='zoom']>*,[data-ani-progress='zoom']:not([data-ani-children]){transform:scale(var(--ani-zoom-out-scale))}\n@keyframes flipInY{from{rotate:y var(--ani-flip-rotate);perspective:2000px;opacity:0}\nto{rotate:y 0;opacity:1}}\n@keyframes flipOutY{from{rotate:y 0;opacity:1}\nto{perspective:2000px;rotate:y var(--ani-flip-rotate);opacity:0}}\n@keyframes flipInX{from{perspective:2000px;rotate:x var(--ani-flip-rotate);opacity:0}\nto{rotate:x 0;opacity:1}}\n@keyframes flipOutX{from{rotate:x 0;opacity:1}\nto{perspective:2000px;rotate:x var(--ani-flip-rotate);opacity:0}}[data-ani-children][data-ani='flip-y']>.in,[data-ani='flip-y']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:flipInY}[data-ani-children][data-ani='flip-x']>.in,[data-ani='flip-x']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation-name:flipInX}[data-ani-children][data-ani='flip-y']>.out,[data-ani='flip-y']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:flipOutY}[data-ani-children][data-ani='flip-x']>.out,[data-ani='flip-x']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation-name:flipOutX}\n@keyframes expandDown{from{height:0}\nto{height:var(--newHeight)}}\n@keyframes expandUp{from{height:var(--newHeight)}\nto{height:0}}[data-ani='expand'],[data-ani='expand'][data-state='open'],[data-ani='expand'].in{--newHeight:var(--custom-height,var(--radix-accordion-content-height,var(--radix-collapsible-content-height,100%)));overflow:hidden;opacity:1}[data-ani-children][data-ani='expand']>.in,[data-ani='expand']:where(.in:not([data-state]),[data-state$='open'],[data-state='active']){animation:expandDown var(--ani-duration)var(--ani-easing)}[data-ani-children][data-ani='expand']>.out,[data-ani='expand']:where(.out:not([data-state]),[data-state='closed'],[data-state='inactive']){animation:expandUp var(--ani-duration)var(--ani-easing)}\n@media(prefers-reduced-motion:reduce){[data-ani]:not([data-ani-children]),[data-ani-progress]:not([data-ani-children]),[data-ani-children]>*{opacity:1;transform:none;animation:none;rotate:none;scale:none;translate:none}}\n</style>"}
-className={`w-html-embed`} />
 <Box
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
 <Box
-className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c9ylysu c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
 <Slot>
 </Slot>
 <Box
@@ -333,161 +319,117 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Box>
 </Box>
 </Box>
-</Fragment_1>
-</Slot>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 cqcgy71 cn1jd01 c1as2ysv c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box ch3bbj5 c1mzb2kd c1mx4kcs cn1jd01 c1tyhr7e c1ru090q c1lasmlx c19ffyra cnqbj7z cel3d5i c12qszxq c1dz3al c1cl2zap c8qdjaz c1uc2zh c1l8rbde cq8dnu3 cth1c7d`}>
 <Box
-className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn c182tq2r`}>
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g ceu66s9 c12ae6v5 c1fd0kk1 c11gzs80`}>
 <Box
-className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}>
-<Separator
-className={`w-separator`} />
+className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g`}>
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c11dowh9 c32myit cwrra4i cooiwtu ct8vr6u c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn c19zwsxj c135vpv5 cnonmc3 c1dhz37v c1vy1xjw`}>
-{"WAIT JUST A SECOND!"}
+className={`w-heading c11nr3ex cn12ej2 c32myit cwrra4i cas8jb9 ct8vr6u cnu4kgu c1yb3n9o cbrrmm8 cuo9dm5 c5egcmi c13cx24t c1my01bv ctw557h c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn ck8kpe cl7jefz cnonmc3 c1dhz37v c6dznva`}>
+{"BLOGS"}
+</Heading>
+<Paragraph
+className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cjfg1nn cn12ej2 csyrz7g cqbvjst c1iy8jlp c10dt6tb`}>
+{"Welcome to the blogs page!"}
+{""}
+<br />
+{""}
+{"Our many creators, or VAIIYA employees, make blogs here!"}
+{""}
+<br />
+{""}
+{"Learn about the series 2000, progress on R&D, or announcements to the open public!"}
+</Paragraph>
+</Box>
+</Box>
+</Box>
+<Box
+tag={"section"}
+className={`w-box cna0hdz c1mzb2kd`}>
+<Box
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
+<Box
+className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174sw29`}>
+{[
+  {
+    "title": "The VAIIYA X2000: Helping lives, with a piece of silicon.",
+    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/VAIIYA_X2000_cropped_forwebsite-PTVrbsyTukQg6pqAPLAAYC7XRTnMz1.webp",
+    "imageAlt": "The VAIIYA x2000 zoomed in",
+    "author": "AL 'fix it' albert",
+    "datePublished": "2182-02-29",
+    "timeToRead": "1 min",
+    "excerpt": "The VAIIYA X2000, our efforts combined to help the world.",
+    "slug": "the-vaiiya-x2000-helping-lives-with-a-piece-of-silicon"
+  },
+  {
+    "title": "untitled",
+    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png",
+    "imageAlt": "SOON",
+    "author": "untitled",
+    "datePublished": "2020-20-20",
+    "timeToRead": "tbd",
+    "excerpt": "",
+    "slug": ""
+  },
+  {
+    "title": "untitled",
+    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png",
+    "imageAlt": "soon",
+    "author": "untitled",
+    "datePublished": "2024-01-25",
+    "timeToRead": "tbd",
+    "excerpt": "",
+    "slug": ""
+  }
+]?.map?.((articleItem: any, index: number) =>
+<Fragment key={index}>
+<Box
+tag={"article"}
+className={`w-box`}>
+<Link
+href={`/blogs/${articleItem?.slug}`}
+className={`w-link cry9bxc c1lfjoq7 c1wt8a7g c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c135vpv5 c12y6bqh cq9hqvu ci4ohfa c1e5okwc cwc6hbl c11r52nx c1bkqfhr ce02iuh c15hexcm cujvo5q c190jqlf c8ksia9 cnqrsxi`}>
+<Box
+className={`w-box cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1md20bl c1e892th`}>
+<Image
+alt={articleItem?.imageAlt}
+src={articleItem?.imageUrl}
+width={700}
+height={500}
+className={`w-image czr2pxy cr8yqfm c1ufwdzl c5blvcv cml0h3f`} />
+</Box>
+<Box
+className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
+<Heading
+tag={"h3"}
+className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i c12y6bqh`}>
+{articleItem?.title}
 </Heading>
 </Box>
-<Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cjfg1nn c135vpv5 c1cb3y4c`}>
-<Span
-className={`w-text-1 c1dxq9cf cjfg1nn c1cb3y4c c180fws7`}>
-{"PLEASE READ ALL!"}
-</Span>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text`}>
-{"THIS SITE IS NOT DONE DEVELOPMENT!"}
-</Italic>
-</Bold>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-<Span
-className={`w-text-1 c180fws7`}>
-{"This means a few things, "}
-</Span>
-<Span
-className={`w-text-1`}>
-<Italic
-className={`w-italic-text c180fws7`}>
-{"Including..."}
-</Italic>
-</Span>
-{""}
-<br />
-{""}
-{" "}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- Some features and functionality"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"(this includes site links)"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- Various sections of content"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- Certain design elements and styling"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- Parts of the user experience"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- Numerous optimization improvements"}
-</Bold>
-{""}
-<br />
-{""}
-<Bold
-className={`w-bold-text c1cb3y4c`}>
-{"- AND SOME OF THIS SITE IS STILL THE TEMPLATE FROM IT BEING BUILT!"}
-</Bold>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-<Span
-className={`w-text-1`}>
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text c1dxq9cf`}>
-{"If you wish to continue, go to the "}
-</Italic>
-</Bold>
-</Span>
-<RichTextLink
-href={"/home"}
-target={"_self"}
-className={`w-rich-text-link`}>
-<Span
-className={`w-text-1`}>
-<Bold
-className={`w-bold-text`}>
-<Italic
-className={`w-italic-text c1dxq9cf c1yunxor`}>
-{"Home page!"}
-</Italic>
-</Bold>
-</Span>
-</RichTextLink>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
-{"you can tell the dev about various bugs/typos/broken stuff on the "}
-<RichTextLink
-className={`w-rich-text-link`}>
-{"Contact the dev page!"}
-</RichTextLink>
-{" "}
-</Paragraph>
 <Box
-className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
+className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c16xs6ny c1wt8a7g c1lyhjp7`}>
+<Time
+datetime={articleItem?.datePublished}
+country={"US"}
+className={`w-time czt9u4x`} />
+</Box>
+</Link>
+</Box>
+</Fragment>
+)}
+</Box>
 </Box>
 </Box>
 <Box
 tag={"footer"}
-className={`w-box c1fo9lv5 c1mzb2kd`}>
+className={`w-box cna0hdz c1mzb2kd ${"footer"}`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
 <Box
-className={`w-box cry9bxc c18v2pa2 cjljt53 c174sw29 cmaksb1 c1i9o1yp`}>
+className={`w-box cry9bxc c18v2pa2 c174sw29 cmaksb1 c1i9o1yp`}>
 <Link
 href={"/home"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1x4yn0w cl60rel c1ib9cr2 c1d7u282`}>
@@ -548,6 +490,15 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 {"FAQ"}
 </Link>
 </ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Pricing"}
+</Link>
+</ListItem>
 </List>
 </Box>
 <Box
@@ -578,6 +529,15 @@ href={"/blog/home"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"Blog"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Careers"}
 </Link>
 </ListItem>
 <ListItem
@@ -713,30 +673,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 <Box
 className={`w-box cry9bxc ct02u4h c1lfjoq7 c16xs6ny`}>
-<Box
-className={`w-box cry9bxc c1qyy4dh ct02u4h c1z0l37u c1ml0hr7`}>
-<Link
-aria-label={"X"}
-className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
-<HtmlEmbed
-code={"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g opacity=\"0.4\">\n<path d=\"M20.1562 20.6109C20.0917 20.7286 19.9967 20.8267 19.8813 20.8951C19.7659 20.9636 19.6342 20.9998 19.5 21H15C14.8738 21 14.7496 20.9681 14.639 20.9073C14.5284 20.8465 14.4349 20.7587 14.3672 20.6522L10.5712 14.6869L5.055 20.7544C4.92053 20.8988 4.73454 20.9845 4.53735 20.9927C4.34017 21.0009 4.14769 20.9311 4.00163 20.7984C3.85558 20.6657 3.76773 20.4807 3.75713 20.2836C3.74653 20.0866 3.81403 19.8933 3.945 19.7456L9.73594 13.3706L3.86719 4.15313C3.79491 4.03973 3.75444 3.90898 3.75004 3.77458C3.74563 3.64018 3.77744 3.50707 3.84213 3.38918C3.90683 3.27129 4.00203 3.17296 4.11777 3.10449C4.23351 3.03603 4.36552 2.99993 4.5 3H9C9.12622 3.00004 9.2504 3.03194 9.36102 3.09274C9.47164 3.15353 9.56512 3.24127 9.63281 3.34781L13.4287 9.31312L18.945 3.24562C19.0795 3.10117 19.2655 3.01555 19.4626 3.00731C19.6598 2.99907 19.8523 3.06888 19.9984 3.20161C20.1444 3.33435 20.2323 3.51929 20.2429 3.71636C20.2535 3.91343 20.186 4.10674 20.055 4.25438L14.2641 10.6247L20.1328 19.8478C20.2047 19.9613 20.2448 20.0919 20.2489 20.2262C20.253 20.3604 20.221 20.4933 20.1562 20.6109Z\" fill=\"white\"></path>\n</g>\n</svg>\n"}
-className={`w-html-embed`} />
-</Link>
-<Link
-aria-label={"Instagram"}
-className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
-<HtmlEmbed
-code={"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g opacity=\"0.4\">\n<path d=\"M16.5 2.25H7.5C6.10807 2.25149 4.77358 2.80509 3.78933 3.78933C2.80509 4.77358 2.25149 6.10807 2.25 7.5V16.5C2.25149 17.8919 2.80509 19.2264 3.78933 20.2107C4.77358 21.1949 6.10807 21.7485 7.5 21.75H16.5C17.8919 21.7485 19.2264 21.1949 20.2107 20.2107C21.1949 19.2264 21.7485 17.8919 21.75 16.5V7.5C21.7485 6.10807 21.1949 4.77358 20.2107 3.78933C19.2264 2.80509 17.8919 2.25149 16.5 2.25ZM12 16.5C11.11 16.5 10.24 16.2361 9.49993 15.7416C8.75991 15.2471 8.18314 14.5443 7.84254 13.7221C7.50195 12.8998 7.41283 11.995 7.58647 11.1221C7.7601 10.2492 8.18868 9.44736 8.81802 8.81802C9.44736 8.18868 10.2492 7.7601 11.1221 7.58647C11.995 7.41283 12.8998 7.50195 13.7221 7.84254C14.5443 8.18314 15.2471 8.75991 15.7416 9.49993C16.2361 10.24 16.5 11.11 16.5 12C16.4988 13.1931 16.0243 14.337 15.1806 15.1806C14.337 16.0243 13.1931 16.4988 12 16.5ZM17.625 7.5C17.4025 7.5 17.185 7.43402 17 7.3104C16.815 7.18679 16.6708 7.01109 16.5856 6.80552C16.5005 6.59995 16.4782 6.37375 16.5216 6.15552C16.565 5.93729 16.6722 5.73684 16.8295 5.5795C16.9868 5.42217 17.1873 5.31502 17.4055 5.27162C17.6238 5.22821 17.85 5.25049 18.0555 5.33564C18.2611 5.42078 18.4368 5.56498 18.5604 5.74998C18.684 5.93499 18.75 6.1525 18.75 6.375C18.75 6.67337 18.6315 6.95952 18.4205 7.1705C18.2095 7.38147 17.9234 7.5 17.625 7.5ZM15 12C15 12.5933 14.8241 13.1734 14.4944 13.6667C14.1648 14.1601 13.6962 14.5446 13.1481 14.7716C12.5999 14.9987 11.9967 15.0581 11.4147 14.9424C10.8328 14.8266 10.2982 14.5409 9.87868 14.1213C9.45912 13.7018 9.1734 13.1672 9.05764 12.5853C8.94189 12.0033 9.0013 11.4001 9.22836 10.8519C9.45542 10.3038 9.83994 9.83524 10.3333 9.50559C10.8266 9.17595 11.4067 9 12 9C12.7956 9 13.5587 9.31607 14.1213 9.87868C14.6839 10.4413 15 11.2044 15 12Z\" fill=\"white\"></path>\n</g>\n</svg>\n"}
-className={`w-html-embed`} />
-</Link>
-<Link
-aria-label={"YouTube"}
-className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
-<HtmlEmbed
-code={"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g opacity=\"0.4\">\n<path d=\"M21.9684 6.5175C21.8801 6.17189 21.7109 5.85224 21.4747 5.58491C21.2385 5.31758 20.9421 5.11024 20.61 4.98C17.3962 3.73875 12.2812 3.75 12 3.75C11.7188 3.75 6.60375 3.73875 3.39 4.98C3.0579 5.11024 2.76153 5.31758 2.52534 5.58491C2.28915 5.85224 2.1199 6.17189 2.03156 6.5175C1.78875 7.45313 1.5 9.16313 1.5 12C1.5 14.8369 1.78875 16.5469 2.03156 17.4825C2.11977 17.8283 2.28895 18.1481 2.52515 18.4156C2.76136 18.6831 3.0578 18.8906 3.39 19.0209C6.46875 20.2088 11.2875 20.25 11.9381 20.25H12.0619C12.7125 20.25 17.5341 20.2088 20.61 19.0209C20.9422 18.8906 21.2386 18.6831 21.4748 18.4156C21.711 18.1481 21.8802 17.8283 21.9684 17.4825C22.2113 16.545 22.5 14.8369 22.5 12C22.5 9.16313 22.2113 7.45313 21.9684 6.5175ZM15.0553 12.6113L11.3053 15.2363C11.1931 15.3148 11.0616 15.3612 10.9249 15.3703C10.7883 15.3794 10.6517 15.351 10.5301 15.288C10.4085 15.225 10.3064 15.1299 10.235 15.013C10.1636 14.8962 10.1256 14.762 10.125 14.625V9.375C10.125 9.2378 10.1627 9.10324 10.2339 8.98597C10.3051 8.86869 10.4071 8.77319 10.5289 8.70987C10.6506 8.64655 10.7873 8.61783 10.9242 8.62683C11.0611 8.63584 11.1929 8.68222 11.3053 8.76094L15.0553 11.3859C15.154 11.4551 15.2345 11.547 15.2901 11.6539C15.3457 11.7608 15.3747 11.8795 15.3747 12C15.3747 12.1205 15.3457 12.2392 15.2901 12.3461C15.2345 12.453 15.154 12.5449 15.0553 12.6141V12.6113Z\" fill=\"white\"></path>\n</g>\n</svg>\n"}
-className={`w-html-embed`} />
-</Link>
-</Box>
 <Box
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text

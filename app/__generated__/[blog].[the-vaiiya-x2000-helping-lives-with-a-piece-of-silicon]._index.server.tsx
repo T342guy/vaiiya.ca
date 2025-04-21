@@ -21,12 +21,12 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "[Community backers] - VAIIYA: Security just got better. ",
-    description: "[All the community backers upholding this project!]\n\nThink you're safe? Think again. With VAIIYA's impenetrable defenses, You can rest easy. Knowing you are safe from every angle, and every type of danger.",
-    excludePageFromSearch: true,
+    title: "[BLOG] - The VAIIYA X2000: Helping lives, with a piece of silicon.",
+    description: "",
+    excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "COMPRESSED_VAIIYAguard_Tdht6BgAYTutJZjcd0nYE.jpg",
-    socialImageUrl: undefined,
+    socialImageAssetName: undefined,
+    socialImageUrl: "",
     status: undefined,
     redirect: "",
     custom: [

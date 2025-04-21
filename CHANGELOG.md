@@ -1,5 +1,87 @@
 # CHANGELOG FILE
 
+-[APR 20 8:25pm]
+
+---- [0.3.0] ----
+
+- menubar
+    - moved the VAIIYA homelink INTO the menubar, and changed the menubar's left padding from "size-8" to "size-2". this should solve #26
+    - with the change above, the alignment was all messed up. so i added 208.5px padding to the left side of the NAV part of the menubar!
+        - this change could not be mirrored, these pages have been affected: 
+            - warnhome
+            - blog home
+            - community backers
+            - VAIIYA x2000 article
+            - contact the dev
+        - unaffected pages:
+            - disclaimers and legal 
+            - truehome
+
+
+- VAIIYA x2000 article
+    - changed the header to the articles proper title.
+
+- changed the background to COVER and VERTICAL SCROLL to make it look better, and not off. This applies to the pages below:
+    - warnhome
+    - contact the dev
+    - truehome
+    - disclaimers and legal
+    - community backers
+    - blog home
+
+- removed the "contact the dev" link from the menubar, this change was mirrored across all pages.
+
+-[APR 19 10:40pm]
+
+---- PRE PUSH ----
+
+- created the article X2000 page and added the default template. 
+
+- set the other article things to SOON and untitled names, and also removed the slugs, and other unneeded stuff
+
+-[APR 19 4:54pm]
+
+---- PRE PUSH ----
+
+- blob storage is working great, maybe use that from now on (for larger files)
+
+- removed the "learn more" button on the blog homepage
+
+- changed the image on the blog preview.
+
+- changed the name of one blog part to the VAIIYA X2000 one 
+
+- added blob storage store for high speed asset transfer
+
+-[APR 19 11:40pm]
+
+---- PRE PUSH ----
+
+- changed all the footers's "blog" link to the blogs page! 
+
+- changed the viewport's "blog" link to the blogs page!
+
+- added a blogs template to the blogs page
+
+- changed the background gradient on the main hero, on the blog page
+
+- added the main hero to the blogs page
+
+- added the main viewport and navbar to the blogs page
+
+- added footer to the blogs page
+
+-[APR 18 7:40pm]
+
+---- pre push ----
+
+- added the blogs sitefolder
+
+- added the blog homepage at the slug /blog/home
+    - The Blog home page has NOTHING on it at this moment.
+
+- fixed ALL the typos in the link embed contexts #53 fixed.
+
 --- [APR 13 7:40pm]
 
 --- [0.2.1] --- 

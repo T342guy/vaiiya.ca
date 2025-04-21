@@ -217,17 +217,6 @@
     outline-width: 1px;
     display: inline-block
   }
-  img.w-image {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    max-width: 100%;
-    display: block;
-    height: auto
-  }
   p.w-paragraph {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -307,6 +296,17 @@
     border-bottom-width: 1px;
     border-left-width: 1px;
     outline-width: 1px
+  }
+  img.w-image {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    max-width: 100%;
+    display: block;
+    height: auto
   }
   ol.w-list {
     box-sizing: border-box;
@@ -532,6 +532,14 @@
     border-bottom-width: 1px;
     border-left-width: 1px;
     bottom: -0.25em
+  }
+  time.w-time {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
   }
 }
 @media all {
@@ -1867,8 +1875,8 @@
   .ce02iuh {
     border: var(--border-size-1, 1px) solid var(--foreground-border, rgba(73, 80, 87, 1))
   }
-  .cvblku1 {
-    padding-left: var(--size-8)
+  .c7vx2dq {
+    padding-left: var(--size-2)
   }
   .c1xuq60h {
     padding-right: var(--size-8)
@@ -2052,9 +2060,6 @@
   .c341xsy {
     font-size: var(--font-size-00)
   }
-  .c7vx2dq {
-    padding-left: var(--size-2)
-  }
   .c1mgacbo {
     padding-right: var(--size-2)
   }
@@ -2112,8 +2117,11 @@
   .cignq8x {
     grid-template-columns: 1fr 5fr 1fr
   }
-  .cwdqmmh {
-    max-width: 142.9%
+  .c9ylysu {
+    align-self: auto
+  }
+  .c1g50ce {
+    margin-left: 208.5px
   }
   .ci3odkx {
     transition-property: color, border
@@ -2269,8 +2277,8 @@
   .czdqlnu {
     background-image: linear-gradient(180deg,rgba(0,0,0,1) 0%,rgba(0,0,0,1) 65%,rgba(0,0,0,0.20211834733893552) 86%,rgba(0,0,0,0.196516106442577) 100%), url("/assets/Untitled_0Sb78cJTz21abRBz7HqQ7.webp")
   }
-  .c2qgv0b {
-    background-repeat: no-repeat, repeat
+  .c1tyhr7e {
+    background-repeat: no-repeat, repeat-y
   }
   .c1lasmlx {
     background-origin: border-box, padding-box
@@ -2344,11 +2352,8 @@
   .c1w3n4cj {
     background-image: linear-gradient(180deg,rgba(0,0,0,0.8491771708683473) 18%,rgba(0,0,0,0.8547794117647058) 44%,rgba(0,0,0,0.5410539215686274) 70%,rgba(0,0,0,0.5438550420168067) 100%), url("/assets/Untitled_0Sb78cJTz21abRBz7HqQ7.webp")
   }
-  .c1nx4atc {
-    background-size: auto auto, contain
-  }
-  .c1di64f2 {
-    background-repeat: repeat, repeat
+  .c1as2ysv {
+    background-repeat: repeat, repeat-y
   }
   .c1cb3y4c {
     font-weight: 600
@@ -2831,6 +2836,60 @@
   }
   .c1yunxor {
     color: rgba(90, 90, 240, 1)
+  }
+  .c1mx4kcs {
+    background-image: linear-gradient(175deg,rgba(0,0,0,1) 14%,rgba(0,0,0,0.75) 45%,rgba(0,0,0,0.45) 80%), url("/assets/Untitled_0Sb78cJTz21abRBz7HqQ7.webp")
+  }
+  .cejtdrx {
+    grid-template-columns: repeat(3, 1fr)
+  }
+  .c608rfc {
+    margin-top: 40px
+  }
+  .c1pmcxsb {
+    border-top-left-radius: var(--radius-round)
+  }
+  .ck312uk {
+    border-top-right-radius: var(--radius-round)
+  }
+  .c1it126x {
+    border-bottom-left-radius: var(--radius-round)
+  }
+  .c13mpy3e {
+    border-bottom-right-radius: var(--radius-round)
+  }
+  .c14ubqu {
+    width: var(--size-11)
+  }
+  .cq59k3f {
+    height: var(--size-11)
+  }
+  .cq9hqvu {
+    transition-property: scale, opacity
+  }
+  .ci4ohfa {
+    transition-duration: var(--duration-default), var(--duration-default)
+  }
+  .c1e5okwc {
+    transition-timing-function: var(--easing-default), var(--easing-default)
+  }
+  .cujvo5q:focus {
+    outline-offset: var(--focus-offset)
+  }
+  .c190jqlf:focus {
+    outline: var(--focus-width) solid var(--focus-color)
+  }
+  .c8ksia9:active {
+    opacity: var(--active-opacity)
+  }
+  .cnqrsxi:active {
+    scale: var(--active-scale) var(--active-scale) 100%
+  }
+  .c1lyhjp7 {
+    margin-top: auto
+  }
+  .c20huwx {
+    max-width: var(--size-12)
   }
 }
 @media all and (max-width: 991px) {
