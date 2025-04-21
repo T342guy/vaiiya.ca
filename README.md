@@ -30,19 +30,24 @@ PREVIEW - The 2nd deploy branch, this is where all new changes go before they ar
 This project is licensed under GNU GPLv3, with copyright to T342. All changes are documented.\
 View `CHANGELOG.md` for changelog.
 
-## [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE](https://vaiiya.ca/legal/disclaimer)
+## [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE](https://vaiiya.ca/legal/disclaimer-and-legal)
 
-The VAIIYA website project is a unofficial project with ZERO contact between me(T342) and Embark studios. 
+"T342" is the maintainer and owner of this project.
+He will be referred as "T342" in this page.
 
-This project's code and self-made assets are OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342.
-Go to the Github repo for the source of this website.
+The VAIIYA website project is an unofficial project.
+Embark studios has NO affiliations, connections, or influence to this project. 
 
-All game content and materials are copyright of Embark Studios AB.\
-THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB.\
-Other content is available under Creative Commons Attribution-ShareAlike 4.0 Unported unless otherwise noted.
+This project's code is OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342. 
+The GitHub repository can be found [HERE](https://github.com/T342guy/vaiiya.ca)
+Community made content in this project is under the CC BY 4.0 license. 
+The license can be found on the CC website [HERE](https://creativecommons.org/licenses/by/4.0/).
 
+All game content and materials are copyright of Embark Studios AB. 
+THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB.
 
-The VAIIYA website project is protected by fair dealing.\
-"Fair Dealing"\
-Copyright Act of 1985, section 29.\
+The VAIIYA website project is protected by fair dealing.
+"Fair Dealing"
+Copyright Act of 1985, section 29.
 Fair dealing for the purpose of research, private study, education, parody or satire does not infringe copyright.
+view the HTML doc [HERE](https://laws-lois.justice.gc.ca/eng/acts/c-42/FullText.html)

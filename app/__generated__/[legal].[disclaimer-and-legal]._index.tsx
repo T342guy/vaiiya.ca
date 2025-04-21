@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Subscript as Subscript, Italic as Italic, Image as Image, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Image as Image, List as List, ListItem as ListItem, Italic as Italic, Span as Span, Superscript as Superscript } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -16,7 +16,7 @@ import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webst
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf"]
+        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         ["Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
@@ -340,70 +340,103 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c139s0bz c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c3u045t c1dhz37v c1vy1xjw`}>
+className={`w-heading c11nr3ex cy1haag c32myit cwrra4i c139s0bz c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn c3u045t c180fws7 c1dhz37v c1vy1xjw`}>
 {"DISCLAIMERS AND LEGAL"}
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c12piu0u c1357293 c9jnjeu cwlbdha cel3d5i cy1haag`}>
-{"DISCLAIMERS AND LEGAL!"}
+className={`w-paragraph c16xpvrq c1qom380 c1j113cj c1357293 c9jnjeu cwlbdha cjfg1nn cn12ej2 c8dp7hf c1glz8f4 c10dt6tb c1foc3vw`}>
+<Span
+className={`w-text-1`}>
+<Superscript
+className={`w-superscript-text`}>
+{"\"T342\" is the maintainer and owner of this project."}
+</Superscript>
+</Span>
+{""}
+<br />
+{""}
+<Span
+className={`w-text-1`}>
+<Superscript
+className={`w-superscript-text`}>
+{"He will be referred as \"T342\" in this page."}
+</Superscript>
+</Span>
 {""}
 <br />
 {""}
 {""}
 <br />
 {""}
-{"The VAIIYA website project is a unofficial project with ZERO contact between me(T342) and Embark studios. "}
+{"The VAIIYA website project is an unofficial project."}
+{""}
+<br />
+{""}
+{"Embark studios has NO affiliations, connections, or influence to this project. "}
 {""}
 <br />
 {""}
 {""}
 <br />
 {""}
-{"This project's code and self-made assets are OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342."}
+{"This project's code is OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342. "}
 {""}
 <br />
 {""}
-<Subscript
-className={`w-subscript-text`}>
-{"Go to the "}
-</Subscript>
+{"The GitHub repository can be found "}
 <RichTextLink
-href={"https://repo.vaiiya.ca/"}
+href={"https://github.com/T342guy/vaiiya.ca"}
 target={"_blank"}
-className={`w-rich-text-link`}>
-<Subscript
-className={`w-subscript-text`}>
-{"Github-repo"}
-</Subscript>
+prefetch={"intent"}
+className={`w-rich-text-link cas8jb9`}>
+<Italic
+className={`w-italic-text`}>
+{"HERE"}
+</Italic>
 </RichTextLink>
-<Subscript
-className={`w-subscript-text`}>
-{" for the source of this website."}
-</Subscript>
+{"."}
 {""}
 <br />
 {""}
+{"Community made content in this project is under the "}
+<Italic
+className={`w-italic-text`}>
+{"CC BY 4.0"}
+</Italic>
+{" license. "}
 {""}
 <br />
 {""}
-{"All game content and materials are copyright of Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. Other content is available under "}
+{"The license can be found on the CC website "}
 <RichTextLink
-href={"https://creativecommons.org/licenses/by-sa/4.0/"}
+href={"https://creativecommons.org/licenses/by/4.0/"}
 target={"_blank"}
-className={`w-rich-text-link`}>
-{"Creative Commons Attribution-ShareAlike 4.0 Unported"}
+prefetch={"intent"}
+className={`w-rich-text-link cas8jb9`}>
+<Italic
+className={`w-italic-text`}>
+{"HERE"}
+</Italic>
 </RichTextLink>
-{" unless otherwise noted."}
+{"."}
 {""}
 <br />
 {""}
 {""}
 <br />
 {""}
+{"All game content and materials are copyright of Embark Studios AB. "}
 {""}
 <br />
 {""}
-{"The VAIIYA website project is protected by fair dealing. "}
+{"THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB."}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"The VAIIYA website project is protected by fair dealing."}
 {""}
 <br />
 {""}
@@ -411,7 +444,7 @@ className={`w-rich-text-link`}>
 {""}
 <br />
 {""}
-{" Copyright Act of 1985, section 29. "}
+{"Copyright Act of 1985, section 29."}
 {""}
 <br />
 {""}
@@ -419,28 +452,17 @@ className={`w-rich-text-link`}>
 {""}
 <br />
 {""}
-<Subscript
-className={`w-subscript-text`}>
 {"view the HTML doc "}
-</Subscript>
 <RichTextLink
 href={"https://laws-lois.justice.gc.ca/eng/acts/c-42/FullText.html"}
 target={"_blank"}
-className={`w-rich-text-link`}>
+prefetch={"intent"}
+className={`w-rich-text-link cas8jb9`}>
 <Italic
 className={`w-italic-text`}>
-<Subscript
-className={`w-subscript-text`}>
 {"HERE"}
-</Subscript>
 </Italic>
 </RichTextLink>
-{""}
-<br />
-{""}
-{""}
-<br />
-{""}
 </Paragraph>
 </Box>
 <Box
@@ -658,7 +680,7 @@ className={`w-list c34dwh1 c1y6imu0 c1cn3fw9 cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/legal/disclaimer"}
+href={"/legal/disclaimer-and-legal"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"DISCLAIMERS AND LEGAL"}

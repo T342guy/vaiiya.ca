@@ -521,7 +521,7 @@
     margin: 0;
     padding: 0px
   }
-  sub.w-subscript-text {
+  sup.w-superscript-text {
     font-size: 75%;
     line-height: 0;
     position: relative;
@@ -531,7 +531,7 @@
     border-right-width: 1px;
     border-bottom-width: 1px;
     border-left-width: 1px;
-    bottom: -0.25em
+    top: -0.5em
   }
   time.w-time {
     box-sizing: border-box;
@@ -2452,11 +2452,21 @@
   .c139s0bz {
     color: rgba(226, 213, 213, 1)
   }
-  .c12piu0u {
-    max-width: 675px
+  .c1j113cj {
+    max-width: 920px
   }
   .cwlbdha {
     color: rgba(255, 255, 255, 0.6)
+  }
+  .c1glz8f4 {
+    white-space: pre-wrap
+  }
+  .c10dt6tb {
+    text-wrap: pretty
+  }
+  .c1foc3vw {
+    white-space: pre-wrap;
+    white-space-collapse: preserve
   }
   .c10mt0ot {
     max-width: 100%
@@ -2514,9 +2524,6 @@
   }
   .c1dmsc2 {
     white-space: normal
-  }
-  .c10dt6tb {
-    text-wrap: pretty
   }
   .c1konbo6 p {
     max-width: var(--content-embed-text-width)
