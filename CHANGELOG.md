@@ -1,5 +1,36 @@
 # CHANGELOG FILE
 
+-[APR 20 8:25pm]
+
+---- [0.3.0] ----
+
+- menubar
+    - moved the VAIIYA homelink INTO the menubar, and changed the menubar's left padding from "size-8" to "size-2". this should solve #26
+    - with the change above, the alignment was all messed up. so i added 208.5px padding to the left side of the NAV part of the menubar!
+        - this change could not be mirrored, these pages have been affected: 
+            - warnhome
+            - blog home
+            - community backers
+            - VAIIYA x2000 article
+            - contact the dev
+        - unaffected pages:
+            - disclaimers and legal 
+            - truehome
+
+
+- VAIIYA x2000 article
+    - changed the header to the articles proper title.
+
+- changed the background to COVER and VERTICAL SCROLL to make it look better, and not off. This applies to the pages below:
+    - warnhome
+    - contact the dev
+    - truehome
+    - disclaimers and legal
+    - community backers
+    - blog home
+
+- removed the "contact the dev" link from the menubar, this change was mirrored across all pages.
+
 -[APR 19 10:40pm]
 
 ---- PRE PUSH ----

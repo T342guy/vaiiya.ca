@@ -4,7 +4,7 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Subscript as Subscript, Italic as Italic, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, Box as Box, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Paragraph as Paragraph, Separator as Separator, Heading as Heading, Subscript as Subscript, Italic as Italic, Image as Image, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
@@ -38,9 +38,19 @@ className={`w-html-embed`} />
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
 <Box
-className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c9ylysu c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+<Slot>
+</Slot>
+<Box
+tag={"nav"}
+aria-label={"main"}
+className={`w-box c1mcu1jn cry9bxc c1qyy4dh ct02u4h c1lfjoq7 c1g50ce cgtnddv c1le23sj c40yjke c1kzn7na c17q2jvf ct49a6u c102r6kr c4sllhu clmbo8f cc3dq2t`}>
 <Slot>
 <Fragment_1>
+<NavigationMenu
+className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+<Box
+className={`w-box`}>
 <Link
 aria-label={"Home"}
 href={"/home"}
@@ -51,18 +61,9 @@ src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
 width={512}
 height={130}
 alt={"logo"}
-className={`w-image cwdqmmh`} />
+className={`w-image c20huwx`} />
 </Link>
-</Fragment_1>
-</Slot>
-<Box
-tag={"nav"}
-aria-label={"main"}
-className={`w-box c1mcu1jn cry9bxc c1qyy4dh ct02u4h c1lfjoq7 cgtnddv c1le23sj c40yjke c1kzn7na c17q2jvf ct49a6u c102r6kr c4sllhu clmbo8f cc3dq2t`}>
-<Slot>
-<Fragment_1>
-<NavigationMenu
-className={`w-navigation-menu c1cqu2xh cry9bxc cvblku1 c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+</Box>
 <NavigationMenuList
 className={`w-menu-list cry9bxc c1fhkm63 cqeb86t c1admj5d c34dwh1 c1qyy4dh ct02u4h cdq89vd c1tcoltv c3qzgd0 c1y6imu0 c1n13r54 c1le23sj c40yjke c1kzn7na c17q2jvf c1gw84sn cjq768y`}>
 <NavigationMenuItem
@@ -313,16 +314,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 {"Blog"}
 </Link>
 </NavigationMenuItem>
-<NavigationMenuItem
-data-ws-index="4"
-className={`w-menu-item`}>
-<Link
-href={"/contact-the-dev"}
-target={"_self"}
-className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Contact the dev!"}
-</Link>
-</NavigationMenuItem>
 </NavigationMenuList>
 <Box
 className={`w-box cdwd3jx c1lzcxwg cry9bxc ct02u4h cdtylqg chmjof8 czr2pxy c3xzas1 c1n6cdq4`}>
@@ -340,7 +331,7 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 </Slot>
 <Box
 tag={"section"}
-className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj c1nx4atc c1di64f2 c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
+className={`w-box cna0hdz c1mzb2kd cdtylqg chmjof8 c1w3n4cj cn1jd01 c1as2ysv c1ru090q c1syziaj c19ffyra cnqbj7z c1axwber`}>
 <Box
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80 cavd3zn`}>
 <Box
