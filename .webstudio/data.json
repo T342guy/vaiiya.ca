@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "7775b6d5-5870-4ceb-9933-19a25188f00e",
+    "id": "70821b30-41d5-4824-8577-5cc879552fc9",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 2332,
-    "createdAt": "2025-04-21T03:25:06.659+00:00",
-    "updatedAt": "2025-04-21T03:25:06.659+00:00",
+    "version": 2382,
+    "createdAt": "2025-04-21T08:29:03.566+00:00",
+    "updatedAt": "2025-04-21T08:29:03.566+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -114,7 +114,7 @@
         },
         {
           "id": "moGCEpwxKVVxi2lJRFaPk",
-          "name": "disclaimer",
+          "name": "DISCLAIMER AND LEGAL",
           "title": "\"[DISCLAIMERS] - VAIIYA: Security just got better.\"",
           "rootInstanceId": "uBjWjeOQMvnlLdRTzTb_N",
           "meta": {
@@ -134,7 +134,7 @@
           "marketplace": {
             "include": false
           },
-          "path": "/disclaimer"
+          "path": "/disclaimer-and-legal"
         },
         {
           "id": "SX57KGCXuub_YOusUqR0x",
@@ -28055,13 +28055,13 @@
       [
         "M8WV4mff2Et1HLIcm05tb:jAWQK3_7D18H_5v0pK0z4:fontFamily:",
         {
-          "styleSourceId": "M8WV4mff2Et1HLIcm05tb",
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "M8WV4mff2Et1HLIcm05tb",
           "property": "fontFamily",
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira"
+              "Tomorrow"
             ]
           }
         }
@@ -28069,25 +28069,25 @@
       [
         "M8WV4mff2Et1HLIcm05tb:jAWQK3_7D18H_5v0pK0z4:fontWeight:",
         {
-          "styleSourceId": "M8WV4mff2Et1HLIcm05tb",
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "M8WV4mff2Et1HLIcm05tb",
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "600"
+            "value": "500"
           }
         }
       ],
       [
         "4-DsI0gC7zfAgLve4-Ml5:jAWQK3_7D18H_5v0pK0z4:fontFamily:",
         {
-          "styleSourceId": "4-DsI0gC7zfAgLve4-Ml5",
           "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "4-DsI0gC7zfAgLve4-Ml5",
           "property": "fontFamily",
           "value": {
             "type": "fontFamily",
             "value": [
-              "Saira"
+              "Tomorrow"
             ]
           }
         }
@@ -28295,7 +28295,7 @@
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "500"
+            "value": "400"
           }
         }
       ],
@@ -28308,7 +28308,7 @@
           "value": {
             "type": "unit",
             "unit": "px",
-            "value": 675
+            "value": 920
           }
         }
       ],
@@ -41129,6 +41129,114 @@
             "value": 208.5
           }
         }
+      ],
+      [
+        "M8WV4mff2Et1HLIcm05tb:jAWQK3_7D18H_5v0pK0z4:textDecorationLine:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "M8WV4mff2Et1HLIcm05tb",
+          "property": "textDecorationLine",
+          "value": {
+            "type": "keyword",
+            "value": "underline"
+          }
+        }
+      ],
+      [
+        "4-DsI0gC7zfAgLve4-Ml5:jAWQK3_7D18H_5v0pK0z4:whiteSpaceCollapse:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "4-DsI0gC7zfAgLve4-Ml5",
+          "property": "whiteSpaceCollapse",
+          "value": {
+            "type": "keyword",
+            "value": "preserve"
+          }
+        }
+      ],
+      [
+        "4-DsI0gC7zfAgLve4-Ml5:jAWQK3_7D18H_5v0pK0z4:textWrapStyle:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "4-DsI0gC7zfAgLve4-Ml5",
+          "property": "textWrapStyle",
+          "value": {
+            "type": "keyword",
+            "value": "pretty"
+          }
+        }
+      ],
+      [
+        "ti3xWPuYuHnUvVzQJcmBn:jAWQK3_7D18H_5v0pK0z4:color:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "ti3xWPuYuHnUvVzQJcmBn",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 241,
+            "g": 242,
+            "b": 244,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "bjZy1pkX1ZbLRdyMS5jgn:jAWQK3_7D18H_5v0pK0z4:color:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "bjZy1pkX1ZbLRdyMS5jgn",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 241,
+            "g": 242,
+            "b": 244,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "exkXZ7L3yix7PDJccwzcF:jAWQK3_7D18H_5v0pK0z4:color:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "exkXZ7L3yix7PDJccwzcF",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 241,
+            "g": 242,
+            "b": 244,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "4-DsI0gC7zfAgLve4-Ml5:jAWQK3_7D18H_5v0pK0z4:backdropFilter:",
+        {
+          "breakpointId": "jAWQK3_7D18H_5v0pK0z4",
+          "styleSourceId": "4-DsI0gC7zfAgLve4-Ml5",
+          "property": "backdropFilter",
+          "value": {
+            "type": "tuple",
+            "value": [
+              {
+                "type": "function",
+                "args": {
+                  "type": "tuple",
+                  "value": [
+                    {
+                      "type": "unit",
+                      "unit": "px",
+                      "value": 1
+                    }
+                  ]
+                },
+                "name": "blur"
+              }
+            ]
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -44398,6 +44506,27 @@
         {
           "type": "local",
           "id": "08NT5hFHSAcEX-Q__rEAQ"
+        }
+      ],
+      [
+        "ti3xWPuYuHnUvVzQJcmBn",
+        {
+          "type": "local",
+          "id": "ti3xWPuYuHnUvVzQJcmBn"
+        }
+      ],
+      [
+        "bjZy1pkX1ZbLRdyMS5jgn",
+        {
+          "type": "local",
+          "id": "bjZy1pkX1ZbLRdyMS5jgn"
+        }
+      ],
+      [
+        "exkXZ7L3yix7PDJccwzcF",
+        {
+          "type": "local",
+          "id": "exkXZ7L3yix7PDJccwzcF"
         }
       ]
     ],
@@ -51619,6 +51748,33 @@
           "instanceId": "2AgSroxy--I2O5oqoIYIe",
           "values": [
             "08NT5hFHSAcEX-Q__rEAQ"
+          ]
+        }
+      ],
+      [
+        "uDTXI8W9AYNBL9ws2stc_",
+        {
+          "instanceId": "uDTXI8W9AYNBL9ws2stc_",
+          "values": [
+            "ti3xWPuYuHnUvVzQJcmBn"
+          ]
+        }
+      ],
+      [
+        "szThIdNiPY-tZlY-r5Dk0",
+        {
+          "instanceId": "szThIdNiPY-tZlY-r5Dk0",
+          "values": [
+            "bjZy1pkX1ZbLRdyMS5jgn"
+          ]
+        }
+      ],
+      [
+        "HedItGnTPn8X66Sm3dqr8",
+        {
+          "instanceId": "HedItGnTPn8X66Sm3dqr8",
+          "values": [
+            "exkXZ7L3yix7PDJccwzcF"
           ]
         }
       ]
@@ -59473,6 +59629,96 @@
           "name": "alt",
           "type": "string",
           "value": "logo"
+        }
+      ],
+      [
+        "dulocvs_efBhdL8aS56RH",
+        {
+          "id": "dulocvs_efBhdL8aS56RH",
+          "instanceId": "uDTXI8W9AYNBL9ws2stc_",
+          "name": "href",
+          "type": "string",
+          "value": "https://laws-lois.justice.gc.ca/eng/acts/c-42/FullText.html"
+        }
+      ],
+      [
+        "jOZt1BmVfn96MJAtLIjaV",
+        {
+          "id": "jOZt1BmVfn96MJAtLIjaV",
+          "instanceId": "uDTXI8W9AYNBL9ws2stc_",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "N4NeAK2AlG7w6S146wom3",
+        {
+          "id": "N4NeAK2AlG7w6S146wom3",
+          "instanceId": "uDTXI8W9AYNBL9ws2stc_",
+          "name": "prefetch",
+          "type": "string",
+          "value": "intent"
+        }
+      ],
+      [
+        "1bGozTjgzjlfRyafiXkcV",
+        {
+          "id": "1bGozTjgzjlfRyafiXkcV",
+          "instanceId": "szThIdNiPY-tZlY-r5Dk0",
+          "name": "href",
+          "type": "string",
+          "value": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      [
+        "Gba1I3EPpOJF2ZH071pPz",
+        {
+          "id": "Gba1I3EPpOJF2ZH071pPz",
+          "instanceId": "szThIdNiPY-tZlY-r5Dk0",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "iDeTGmwmymfld1M66aAns",
+        {
+          "id": "iDeTGmwmymfld1M66aAns",
+          "instanceId": "szThIdNiPY-tZlY-r5Dk0",
+          "name": "prefetch",
+          "type": "string",
+          "value": "intent"
+        }
+      ],
+      [
+        "3BclpUh13AK0LDG1kiTTU",
+        {
+          "id": "3BclpUh13AK0LDG1kiTTU",
+          "instanceId": "HedItGnTPn8X66Sm3dqr8",
+          "name": "href",
+          "type": "string",
+          "value": "https://github.com/T342guy/vaiiya.ca"
+        }
+      ],
+      [
+        "T-LC0_XY1E96k0uDd09Fp",
+        {
+          "id": "T-LC0_XY1E96k0uDd09Fp",
+          "instanceId": "HedItGnTPn8X66Sm3dqr8",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "UmX6Xd3RsmCpw-TZeJ5Xs",
+        {
+          "id": "UmX6Xd3RsmCpw-TZeJ5Xs",
+          "instanceId": "HedItGnTPn8X66Sm3dqr8",
+          "name": "prefetch",
+          "type": "string",
+          "value": "intent"
         }
       ]
     ],
@@ -67578,32 +67824,8 @@
           "component": "Paragraph",
           "children": [
             {
-              "type": "text",
-              "value": "DISCLAIMERS AND LEGAL!"
-            },
-            {
-              "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "The VAIIYA website project is a unofficial project with ZERO contact between me(T342) and Embark studios. "
-            },
-            {
-              "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "This project's code and self-made assets are OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342."
+              "type": "id",
+              "value": "u4U0Be-2GWVNT_bdqgss7"
             },
             {
               "type": "text",
@@ -67611,15 +67833,71 @@
             },
             {
               "type": "id",
-              "value": "6doTTO4gfT67n3kkp52HS"
+              "value": "7twzAi6AAVY1pMIJLlPmT"
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "The VAIIYA website project is an unofficial project."
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "Embark studios has NO affiliations, connections, or influence to this project. "
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "This project's code is OPEN SOURCE and is licensed under the GNU GPLv3. Copyright T342. "
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "The GitHub repository can be found "
             },
             {
               "type": "id",
-              "value": "pK3pn1gxDHmIIgOzTiVdZ"
+              "value": "HedItGnTPn8X66Sm3dqr8"
+            },
+            {
+              "type": "text",
+              "value": "."
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "Community made content in this project is under the "
             },
             {
               "type": "id",
-              "value": "djSDuKFy4dVafvu5ly49i"
+              "value": "LZr9T9TNh8IAgrfvvOIKj"
+            },
+            {
+              "type": "text",
+              "value": " license. "
             },
             {
               "type": "text",
@@ -67627,23 +67905,15 @@
             },
             {
               "type": "text",
-              "value": "\n"
-            },
-            {
-              "type": "text",
-              "value": "All game content and materials are copyright of Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. Other content is available under "
+              "value": "The license can be found on the CC website "
             },
             {
               "type": "id",
-              "value": "9CRDaDc_uJuzePo6kdra2"
+              "value": "szThIdNiPY-tZlY-r5Dk0"
             },
             {
               "type": "text",
-              "value": " unless otherwise noted."
-            },
-            {
-              "type": "text",
-              "value": "\n"
+              "value": "."
             },
             {
               "type": "text",
@@ -67655,7 +67925,27 @@
             },
             {
               "type": "text",
-              "value": "The VAIIYA website project is protected by fair dealing. "
+              "value": "All game content and materials are copyright of Embark Studios AB. "
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB."
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "type": "text",
+              "value": "The VAIIYA website project is protected by fair dealing."
             },
             {
               "type": "text",
@@ -67671,7 +67961,7 @@
             },
             {
               "type": "text",
-              "value": " Copyright Act of 1985, section 29. "
+              "value": "Copyright Act of 1985, section 29."
             },
             {
               "type": "text",
@@ -67686,20 +67976,12 @@
               "value": "\n"
             },
             {
-              "type": "id",
-              "value": "9GCw-P_Gl7a6Jc79bEbZp"
-            },
-            {
-              "type": "id",
-              "value": "Vw_jpmw4zXJgGYx-B0pKD"
-            },
-            {
               "type": "text",
-              "value": "\n"
+              "value": "view the HTML doc "
             },
             {
-              "type": "text",
-              "value": "\n"
+              "type": "id",
+              "value": "uDTXI8W9AYNBL9ws2stc_"
             }
           ]
         }
@@ -67715,90 +67997,6 @@
         }
       ],
       [
-        "9CRDaDc_uJuzePo6kdra2",
-        {
-          "type": "instance",
-          "id": "9CRDaDc_uJuzePo6kdra2",
-          "component": "RichTextLink",
-          "children": [
-            {
-              "type": "text",
-              "value": "Creative Commons Attribution-ShareAlike 4.0 Unported"
-            }
-          ]
-        }
-      ],
-      [
-        "pK3pn1gxDHmIIgOzTiVdZ",
-        {
-          "type": "instance",
-          "id": "pK3pn1gxDHmIIgOzTiVdZ",
-          "component": "RichTextLink",
-          "children": [
-            {
-              "type": "id",
-              "value": "SZBkg8JD9GNM314x0jGoJ"
-            }
-          ]
-        }
-      ],
-      [
-        "Vw_jpmw4zXJgGYx-B0pKD",
-        {
-          "type": "instance",
-          "id": "Vw_jpmw4zXJgGYx-B0pKD",
-          "component": "RichTextLink",
-          "children": [
-            {
-              "type": "id",
-              "value": "cGoWDDmG7WO4zecZ2GmGi"
-            }
-          ]
-        }
-      ],
-      [
-        "9GCw-P_Gl7a6Jc79bEbZp",
-        {
-          "type": "instance",
-          "id": "9GCw-P_Gl7a6Jc79bEbZp",
-          "component": "Subscript",
-          "children": [
-            {
-              "type": "text",
-              "value": "view the HTML doc "
-            }
-          ]
-        }
-      ],
-      [
-        "EP0m0U_IQlyh1bo__JnKo",
-        {
-          "type": "instance",
-          "id": "EP0m0U_IQlyh1bo__JnKo",
-          "component": "Subscript",
-          "children": [
-            {
-              "type": "text",
-              "value": "HERE"
-            }
-          ]
-        }
-      ],
-      [
-        "cGoWDDmG7WO4zecZ2GmGi",
-        {
-          "type": "instance",
-          "id": "cGoWDDmG7WO4zecZ2GmGi",
-          "component": "Italic",
-          "children": [
-            {
-              "type": "id",
-              "value": "EP0m0U_IQlyh1bo__JnKo"
-            }
-          ]
-        }
-      ],
-      [
         "Vl_cbJHflrDCELhi7P9x2",
         {
           "type": "instance",
@@ -67808,48 +68006,6 @@
             {
               "type": "text",
               "value": "DISCLAIMERS"
-            }
-          ]
-        }
-      ],
-      [
-        "6doTTO4gfT67n3kkp52HS",
-        {
-          "type": "instance",
-          "id": "6doTTO4gfT67n3kkp52HS",
-          "component": "Subscript",
-          "children": [
-            {
-              "type": "text",
-              "value": "Go to the "
-            }
-          ]
-        }
-      ],
-      [
-        "SZBkg8JD9GNM314x0jGoJ",
-        {
-          "type": "instance",
-          "id": "SZBkg8JD9GNM314x0jGoJ",
-          "component": "Subscript",
-          "children": [
-            {
-              "type": "text",
-              "value": "Github-repo"
-            }
-          ]
-        }
-      ],
-      [
-        "djSDuKFy4dVafvu5ly49i",
-        {
-          "type": "instance",
-          "id": "djSDuKFy4dVafvu5ly49i",
-          "component": "Subscript",
-          "children": [
-            {
-              "type": "text",
-              "value": " for the source of this website."
             }
           ]
         }
@@ -75797,6 +75953,160 @@
           "label": "Logo",
           "children": []
         }
+      ],
+      [
+        "LZr9T9TNh8IAgrfvvOIKj",
+        {
+          "type": "instance",
+          "id": "LZr9T9TNh8IAgrfvvOIKj",
+          "component": "Italic",
+          "children": [
+            {
+              "type": "text",
+              "value": "CC BY 4.0"
+            }
+          ]
+        }
+      ],
+      [
+        "AxMf5O1rHLYj_jhpnnTaF",
+        {
+          "type": "instance",
+          "id": "AxMf5O1rHLYj_jhpnnTaF",
+          "component": "Italic",
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        }
+      ],
+      [
+        "u4U0Be-2GWVNT_bdqgss7",
+        {
+          "type": "instance",
+          "id": "u4U0Be-2GWVNT_bdqgss7",
+          "component": "Span",
+          "children": [
+            {
+              "type": "id",
+              "value": "Y1El5Ba4S0Uu8-2NqZWBY"
+            }
+          ]
+        }
+      ],
+      [
+        "Y1El5Ba4S0Uu8-2NqZWBY",
+        {
+          "type": "instance",
+          "id": "Y1El5Ba4S0Uu8-2NqZWBY",
+          "component": "Superscript",
+          "children": [
+            {
+              "type": "text",
+              "value": "\"T342\" is the maintainer and owner of this project."
+            }
+          ]
+        }
+      ],
+      [
+        "7twzAi6AAVY1pMIJLlPmT",
+        {
+          "type": "instance",
+          "id": "7twzAi6AAVY1pMIJLlPmT",
+          "component": "Span",
+          "children": [
+            {
+              "type": "id",
+              "value": "3RXFgnuKaLtfSMynt59u6"
+            }
+          ]
+        }
+      ],
+      [
+        "3RXFgnuKaLtfSMynt59u6",
+        {
+          "type": "instance",
+          "id": "3RXFgnuKaLtfSMynt59u6",
+          "component": "Superscript",
+          "children": [
+            {
+              "type": "text",
+              "value": "He will be referred as \"T342\" in this page."
+            }
+          ]
+        }
+      ],
+      [
+        "uDTXI8W9AYNBL9ws2stc_",
+        {
+          "type": "instance",
+          "id": "uDTXI8W9AYNBL9ws2stc_",
+          "component": "RichTextLink",
+          "children": [
+            {
+              "type": "id",
+              "value": "AxMf5O1rHLYj_jhpnnTaF"
+            }
+          ]
+        }
+      ],
+      [
+        "AxJaQDoEY9N61jF3YjKDr",
+        {
+          "type": "instance",
+          "id": "AxJaQDoEY9N61jF3YjKDr",
+          "component": "Italic",
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        }
+      ],
+      [
+        "szThIdNiPY-tZlY-r5Dk0",
+        {
+          "type": "instance",
+          "id": "szThIdNiPY-tZlY-r5Dk0",
+          "component": "RichTextLink",
+          "children": [
+            {
+              "type": "id",
+              "value": "AxJaQDoEY9N61jF3YjKDr"
+            }
+          ]
+        }
+      ],
+      [
+        "A-ihDx3XrfuZXc3Fk9qox",
+        {
+          "type": "instance",
+          "id": "A-ihDx3XrfuZXc3Fk9qox",
+          "component": "Italic",
+          "children": [
+            {
+              "type": "text",
+              "value": "HERE"
+            }
+          ]
+        }
+      ],
+      [
+        "HedItGnTPn8X66Sm3dqr8",
+        {
+          "type": "instance",
+          "id": "HedItGnTPn8X66Sm3dqr8",
+          "component": "RichTextLink",
+          "children": [
+            {
+              "type": "id",
+              "value": "A-ihDx3XrfuZXc3Fk9qox"
+            }
+          ]
+        }
       ]
     ],
     "deployment": {
@@ -75934,7 +76244,7 @@
     },
     {
       "id": "moGCEpwxKVVxi2lJRFaPk",
-      "name": "disclaimer",
+      "name": "DISCLAIMER AND LEGAL",
       "title": "\"[DISCLAIMERS] - VAIIYA: Security just got better.\"",
       "rootInstanceId": "uBjWjeOQMvnlLdRTzTb_N",
       "meta": {
@@ -75954,7 +76264,7 @@
       "marketplace": {
         "include": false
       },
-      "path": "/disclaimer"
+      "path": "/disclaimer-and-legal"
     },
     {
       "id": "SX57KGCXuub_YOusUqR0x",

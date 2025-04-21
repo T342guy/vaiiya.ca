@@ -27,14 +27,14 @@ import {
   favIconAsset,
   pageFontAssets,
   pageBackgroundImageAssets,
-} from "../__generated__/[legal].[disclaimer]._index";
+} from "../__generated__/[legal].[disclaimer-and-legal]._index";
 import {
   getResources,
   getPageMeta,
   getRemixParams,
   projectId,
   contactEmail,
-} from "../__generated__/[legal].[disclaimer]._index.server";
+} from "../__generated__/[legal].[disclaimer-and-legal]._index.server";
 import { assetBaseUrl, imageLoader } from "../constants.mjs";
 import css from "../__generated__/index.css?url";
 import { sitemap } from "../__generated__/$resources.sitemap.xml";

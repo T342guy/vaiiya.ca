@@ -1,5 +1,20 @@
 # CHANGELOG FILE
 
+-[APR 21 1:30am]
+
+---- [0.3.1] ----
+
+- changed the disclaimers and legal page's slug from "disclaimer" to "disclaimer-and-legal"
+
+- disclaimer and legal page
+    - changed the font to "tomorrow"
+    - changed the max width of the paragraph to 920px
+    - UPDATED the legal and disclaimers to make more sense, and added the CC BY 4.0 to the community made material.
+    - added a blur backdrop filter with a value of 1px
+
+- README
+    - updated the legal part of the disclaimer to match the website.
+
 -[APR 20 8:25pm]
 
 ---- [0.3.0] ----
