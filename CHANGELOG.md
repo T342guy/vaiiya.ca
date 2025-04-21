@@ -1,5 +1,11 @@
 # CHANGELOG FILE
 
+-[APR 21 12:50pm]
+
+---- [0.3.3] ----
+
+- created a 404 page! 
+
 -[APR 21 12:40pm]
 
 ---- [0.3.2] ----
