@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "70821b30-41d5-4824-8577-5cc879552fc9",
+    "id": "8d5d1403-a6a4-4295-8717-5b5f72e98650",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 2382,
-    "createdAt": "2025-04-21T08:29:03.566+00:00",
-    "updatedAt": "2025-04-21T08:29:03.566+00:00",
+    "version": 2386,
+    "createdAt": "2025-04-21T19:38:02.803+00:00",
+    "updatedAt": "2025-04-21T19:38:02.803+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYAwebsite",
@@ -216,6 +216,9 @@
           "id": "89z4aElQ-NMIVFzTq1ZrX",
           "name": "The VAIIYA X2000: Helping lives, with a piece of silicon.",
           "title": "\"[BLOG] - The VAIIYA X2000: Helping lives, with a piece of silicon.\"",
+          "history": [
+            "/the-vaiiya-x2000-helping-lives-with-a-piece-of-silicon"
+          ],
           "rootInstanceId": "C5fP6ghGf8g33cZDZqXrc",
           "meta": {
             "description": "\"\"",
@@ -59522,16 +59525,6 @@
         }
       ],
       [
-        "gF4jH1CUO-fo3tMWURvlE",
-        {
-          "id": "gF4jH1CUO-fo3tMWURvlE",
-          "instanceId": "zOSHteS4_LBvJe9tNGtP7",
-          "name": "href",
-          "type": "expression",
-          "value": "`/blogs/${$ws$dataSource$lqdjW__DASH__Ys44RudLZx7L0Mw.slug}`"
-        }
-      ],
-      [
         "jWilEIbxCZnVqnW-9WbAc",
         {
           "id": "jWilEIbxCZnVqnW-9WbAc",
@@ -59719,6 +59712,16 @@
           "name": "prefetch",
           "type": "string",
           "value": "intent"
+        }
+      ],
+      [
+        "gF4jH1CUO-fo3tMWURvlE",
+        {
+          "id": "gF4jH1CUO-fo3tMWURvlE",
+          "instanceId": "zOSHteS4_LBvJe9tNGtP7",
+          "name": "href",
+          "type": "expression",
+          "value": "`/blog/${$ws$dataSource$lqdjW__DASH__Ys44RudLZx7L0Mw.slug}`"
         }
       ]
     ],
@@ -76346,6 +76349,9 @@
       "id": "89z4aElQ-NMIVFzTq1ZrX",
       "name": "The VAIIYA X2000: Helping lives, with a piece of silicon.",
       "title": "\"[BLOG] - The VAIIYA X2000: Helping lives, with a piece of silicon.\"",
+      "history": [
+        "/the-vaiiya-x2000-helping-lives-with-a-piece-of-silicon"
+      ],
       "rootInstanceId": "C5fP6ghGf8g33cZDZqXrc",
       "meta": {
         "description": "\"\"",

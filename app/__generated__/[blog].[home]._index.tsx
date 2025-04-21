@@ -390,7 +390,7 @@ className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174
 tag={"article"}
 className={`w-box`}>
 <Link
-href={`/blogs/${articleItem?.slug}`}
+href={`/blog/${articleItem?.slug}`}
 className={`w-link cry9bxc c1lfjoq7 c1wt8a7g c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 c135vpv5 c12y6bqh cq9hqvu ci4ohfa c1e5okwc cwc6hbl c11r52nx c1bkqfhr ce02iuh c15hexcm cujvo5q c190jqlf c8ksia9 cnqrsxi`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1md20bl c1e892th`}>
