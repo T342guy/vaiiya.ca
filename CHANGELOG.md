@@ -1,5 +1,11 @@
 # CHANGELOG FILE
 
+-[APR 21 12:40pm]
+
+---- [0.3.2] ----
+
+- fixed the VAIIYA x2000 blog showcase link not working. it was set to the folder slug "blogs" and not "blog"
+
 -[APR 21 1:30am]
 
 ---- [0.3.1] ----
