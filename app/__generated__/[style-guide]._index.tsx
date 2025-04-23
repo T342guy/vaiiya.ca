@@ -5,7 +5,7 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, RichTextLink as RichTextLink, Link as Link, Form as Form } from "@webstudio-is/sdk-components-react-router";
-import { Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, Paragraph as Paragraph, CodeText as CodeText, List as List, ListItem as ListItem, Span as Span, Blockquote as Blockquote, Separator as Separator, HtmlEmbed as HtmlEmbed, Image as Image, Input as Input, Textarea as Textarea, Button as Button, Slot as Slot } from "@webstudio-is/sdk-components-react";
+import { Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, Paragraph as Paragraph, CodeText as CodeText, List as List, ListItem as ListItem, Span as Span, Blockquote as Blockquote, Separator as Separator, HtmlEmbed as HtmlEmbed, Input as Input, Textarea as Textarea, Button as Button, Slot as Slot, Image as Image } from "@webstudio-is/sdk-components-react";
 import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader as AccordionHeader, AccordionTrigger as AccordionTrigger, AccordionContent as AccordionContent, Label as Label, NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport, Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as DialogOverlay, DialogContent as DialogContent, DialogClose as DialogClose } from "@webstudio-is/sdk-components-react-radix";
 
 
@@ -1885,23 +1885,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
-<Link
-href={"https://webstudio.is/"}
-target={"_blank"}
-rel={"nofollow"}
-className={`w-link cx7e777 cn12ej2 c1ngdwug c10yh23j c7f1npl c1sjzfnm c1trj0l7 cjqo3r0 cbuoy5w c393lej csxsvt6 c1oj4qw c183qt6d c1twgu0n c5r7m82 c1fhiulb cifio c1u7hg1c c1qqyhy5 c1mb8swa c1awhn4n c1qyy4dh ct02u4h csru8nn c135vpv5 c119suh8 cujxabw c17xbrdu c1lvufj2 c1oohece co9inq6 c18nx7en c13zjl4p ch9sscy c272dxa`}>
-<Image
-width={20}
-height={20}
-alt={"Webstudio Logo"}
-optimize={false}
-className={`w-image c13fq7lq c1ckxn0n`} />
-<Text
-tag={"span"}
-className={`w-text`}>
-{"Built with Webstudio"}
-</Text>
-</Link>
 </Fragment_1>
 </Slot>
 </Box>

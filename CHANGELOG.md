@@ -1,5 +1,23 @@
 # CHANGELOG FILE
 
+-[APR 23 2:10am]
+
+---- [0.3.4] ----
+
+- truehome
+    - added gradients to the sponsor list
+    - fixed the engimo sponsortext being incorrectly cropped, so it was fixed and replaced with a bloblink
+    - fixed the alfa acta sponsortext being incorrectly cropped, so it was fixed and replaced with a bloblink
+    - changed the ALFA ACTA testimonial to something that makes more sense for a guns company
+    - removed the built with webstudio thing
+
+- community backers page
+    - changed the background gradient to make it easier to read
+
+- created a page called "support the project!" 
+    - added embed info
+    - added all the info and a big "Buy me a coffee" button!
+
 -[APR 21 12:50pm]
 
 ---- [0.3.3] ----

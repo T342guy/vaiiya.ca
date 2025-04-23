@@ -5,7 +5,7 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Box as Box, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Image as Image, Text as Text, Button as Button, Slot as Slot, Paragraph as Paragraph, Heading as Heading, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Span as Span } from "@webstudio-is/sdk-components-react";
+import { Box as Box, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Slot as Slot, Image as Image, Paragraph as Paragraph, Heading as Heading, List as List, ListItem as ListItem, Bold as Bold, Italic as Italic, Span as Span } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
@@ -440,7 +440,7 @@ className={`w-text-1 c16kgkvs`}>
 <Box
 className={`w-box copqmak c10zkoym ct8c5y2 cori9ti cstj0zg c1vrexag cl5hb04 c174sw29 cas7ks9 c155h8oe cw7dtlx czsotsp`}>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c1bp336d c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
 src={"/assets/w_dissun_ico_x_Mk0FTiCNp6Qs6uveGv4.png"}
 width={300}
@@ -449,16 +449,16 @@ alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 </Box>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c206unk c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"/assets/w_engimo_K7m_M6cV4StcA2dXhNj4y.png"}
+src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/Engimo_whitetext-RQ7KQDvMr8dhXJcG7ajjg3bzL8Cjej"}
 width={300}
 height={94}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 </Box>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c1so3856 c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
 src={"/assets/egg2_Al7PtUdIiUy3r0Uc_7aPz.png"}
 width={300}
@@ -467,7 +467,7 @@ alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 </Box>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c1aaw0v0 c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi cjucu4u c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
 src={"/assets/egg1_XHGVVbZEbwhH96WmK0lb2.png"}
 width={100}
@@ -476,16 +476,16 @@ alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 </Box>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cwiudb0 c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"/assets/alfaacta_web_ttmwaQFUJb8Bm_5eM91Kq.png"}
+src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/alfaacta_text-pZijWSDlGbTJeDKkrpf46TzfnzEB4U.webp"}
 width={300}
 height={85}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 </Box>
 <Box
-className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c6d3y84 c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
+className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h ckuly1p c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
 src={"/assets/w_holtow_BB-wE5hzzD_lwJUQXbBon.png"}
 width={300}
@@ -535,7 +535,7 @@ className={`w-html-embed cauqto8 cpp0nin c1o3hdx1 c1x4yn0w`} />
 </Slot>
 <Paragraph
 className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cjfg1nn cqe39x4`}>
-{"\"VAIIYA's top notch security was groundbreaking for our company. It helped us secure our buildings, and already stopped many attacks.\""}
+{"\"In these new days of everything digital, there is always an enemy wanting to take you down. Thanks to VAIIYA, our entire network is secure.\""}
 </Paragraph>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cn6056e c1117wcl c16xs6ny ct02u4h c1rstvfo c10x096o c1mpedrw`}>
@@ -946,23 +946,6 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
-<Link
-href={"https://webstudio.is/"}
-target={"_blank"}
-rel={"nofollow"}
-className={`w-link cx7e777 cn12ej2 c1ngdwug c10yh23j c7f1npl c1sjzfnm c1trj0l7 cjqo3r0 cbuoy5w c393lej csxsvt6 c1oj4qw c183qt6d c1twgu0n c5r7m82 c1fhiulb cifio c1u7hg1c c1qqyhy5 c1mb8swa c1awhn4n c1qyy4dh ct02u4h csru8nn c135vpv5 c119suh8 cujxabw c17xbrdu c1lvufj2 c1oohece co9inq6 c18nx7en c13zjl4p ch9sscy c272dxa`}>
-<Image
-width={20}
-height={20}
-alt={"Webstudio Logo"}
-optimize={false}
-className={`w-image c13fq7lq c1ckxn0n`} />
-<Text
-tag={"span"}
-className={`w-text`}>
-{"Built with Webstudio"}
-</Text>
-</Link>
 </Fragment_1>
 </Slot>
 </Box>
