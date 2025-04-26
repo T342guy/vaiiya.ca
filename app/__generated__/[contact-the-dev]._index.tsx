@@ -4,19 +4,19 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Paragraph as Paragraph, Slot as Slot, Heading as Heading, Separator as Separator, Image as Image, List as List, ListItem as ListItem } from "@webstudio-is/sdk-components-react";
+      import { Box as Box, Fragment as Fragment_1, Button as Button, Text as Text, HtmlEmbed as HtmlEmbed, Image as Image, Heading as Heading, List as List, ListItem as ListItem, Paragraph as Paragraph, Slot as Slot, Separator as Separator } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-router";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
         "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Saira-VariableFont_wdth_wght_6wtG9cmoZoAufXvlOKTfw.ttf"]
+        ["Tomorrow-ExtraBold_Hh5NxcXNNYJ_DNoMc0B-X.ttf","Tomorrow-MediumItalic_tWlScBxsMqceBCk_wMESf.ttf","Tomorrow-BoldItalic_FrgLNr4s6I5zEaNzlS5Ll.ttf","Inter-VariableFont_opsz_wght_5pWJ31-T_iPEwHdXmYt6P.ttf","Tomorrow-Regular_s0Wr57WzsMgyqIi9h8wja.ttf","Tomorrow-Thin_zo6SCReiSDWGdAx13pSzL.ttf","Tomorrow-ExtraLight_QdECQrY8d4spB9PIO0u46.ttf","Tomorrow-Black_47xDJmnedtXo13t6a9Ha7.ttf","Tomorrow-ExtraBoldItalic_rpUFBE_BHYyD04j8cuYUe.ttf","Tomorrow-Light_zCNH-jceZ7pcVv_lFVYD1.ttf","Tomorrow-BlackItalic_j2doUIEC0oWgc-w_Yt5Yx.ttf","Tomorrow-SemiBold_HA3A31iCcdl5rXSejhoNn.ttf","Tomorrow-LightItalic_eBVjmQ_Y4FN3KwPk0lOgi.ttf","Tomorrow-ThinItalic_iPgW8x3haXf20SS44KcjE.ttf","Tomorrow-Bold_AK7kfh61DcQ8st1QIure5.ttf","Tomorrow-Medium_6hc1etsxjooZwwpQuGmJV.ttf","Tomorrow-SemiBoldItalic_OEEbGBnw8QebjPBWgHF8_.ttf","Tomorrow-ExtraLightItalic_hv_S5dZjv_dDAIwnhnh3w.ttf","Tomorrow-Italic_c1rnCDipwYGTZ8qrY5mdH.ttf"]
 
       export const pageBackgroundImageAssets: string[] =
         ["Untitled_0Sb78cJTz21abRBz7HqQ7.webp","Pattern_79YdcihVRk2R5H0fuZxz7.svg","App_Wide_2x_1_(1)_69MShZLi3pDA9oCPN794H.webp"]
@@ -330,11 +330,11 @@ className={`w-box cry9bxc c1lfjoq7 ct8c5y2 c10zkoym c1qyy4dh c1wt8a7g c1qom380`}
 className={`w-separator`} />
 <Heading
 tag={"h1"}
-className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c11z2oqt c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cel3d5i c19zwsxj c1dhz37v c1vy1xjw`}>
+className={`w-heading c11nr3ex c1cb3y4c c32myit cwrra4i c11z2oqt c3lq6r8 c1muyosp cvw3fbs cjhfojh c1cmxm2w c2c7i6t c13cx24t c1my01bv c8itdy4 c74kosi c1qom380 c1357293 c9jnjeu cjfg1nn c19zwsxj c1dhz37v c1vy1xjw`}>
 {"Need to contact the developer?"}
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d5i`}>
+className={`w-paragraph c16xpvrq c1qom380 c1lt48y2 c1357293 c9jnjeu cas8jb9 cjfg1nn`}>
 {"Contact the developer here!"}
 {""}
 <br />
@@ -343,11 +343,11 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cel3d
 </Paragraph>
 </Box>
 <Box
-className={`w-box cry9bxc ce1qmkg`}>
+className={`w-box cry9bxc ce1qmkg cy1haag cjfg1nn`}>
 <Link
 target={"_blank"}
 href={"https://github.com/T342guy/vaiiya.ca"}
-className={`w-link crwvary cel3d5i c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17jsneg c1szyaw7 c93at1n c1mz5ev9 cf189jz c57idyp chjyh7x c10jxkhw ckzqjx9 c1e72s5c ck3af4j csru8nn ct02u4h cuccfz7 c1frpvgv`}>
+className={`w-link crwvary cjfg1nn c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17jsneg c1szyaw7 c93at1n c1mz5ev9 cf189jz c57idyp chjyh7x c10jxkhw ckzqjx9 c1e72s5c ck3af4j csru8nn ct02u4h cuccfz7 c1eyv08h c1frpvgv`}>
 {"Website's REPO and issue tracker"}
 </Link>
 </Box>
@@ -355,6 +355,8 @@ className={`w-link crwvary cel3d5i c1cb3y4c c22q0ht c5msnf9 cn4kbkk c15bdqy3 c17
 className={`w-box czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cdxiycg`} />
 </Box>
 </Box>
+<Slot>
+<Fragment_1>
 <Box
 tag={"footer"}
 className={`w-box cna0hdz c1mzb2kd ${"footer"}`}>
@@ -420,6 +422,15 @@ href={"/placeholders/soontmpagewithnotice"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 {"FAQ"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Pricing"}
 </Link>
 </ListItem>
 </List>
@@ -525,10 +536,10 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/project/support-the-project"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Guides"}
+{"Support the project!"}
 </Link>
 </ListItem>
 <ListItem
@@ -610,6 +621,8 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
+</Fragment_1>
+</Slot>
 </Body>
 }
 

@@ -9,7 +9,7 @@ import { Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, P
 import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader as AccordionHeader, AccordionTrigger as AccordionTrigger, AccordionContent as AccordionContent, Label as Label, NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport, Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as DialogOverlay, DialogContent as DialogContent, DialogClose as DialogClose } from "@webstudio-is/sdk-components-react-radix";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
         "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
@@ -1800,10 +1800,10 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/project/support-the-project"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Guides"}
+{"Support the project!"}
 </Link>
 </ListItem>
 <ListItem

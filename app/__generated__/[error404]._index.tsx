@@ -9,7 +9,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
         "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";

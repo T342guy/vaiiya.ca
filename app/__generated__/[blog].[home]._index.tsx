@@ -4,12 +4,12 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Paragraph as Paragraph, Slot as Slot, Heading as Heading, Image as Image, List as List, ListItem as ListItem, Time as Time } from "@webstudio-is/sdk-components-react";
+      import { Box as Box, Fragment as Fragment_1, Button as Button, Text as Text, HtmlEmbed as HtmlEmbed, Image as Image, Heading as Heading, List as List, ListItem as ListItem, Paragraph as Paragraph, Slot as Slot, Time as Time } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-router";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
         "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
@@ -423,6 +423,8 @@ className={`w-time czt9u4x`} />
 </Box>
 </Box>
 </Box>
+<Slot>
+<Fragment_1>
 <Box
 tag={"footer"}
 className={`w-box cna0hdz c1mzb2kd ${"footer"}`}>
@@ -602,10 +604,10 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/project/support-the-project"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Guides"}
+{"Support the project!"}
 </Link>
 </ListItem>
 <ListItem
@@ -687,6 +689,8 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 </Box>
 </Box>
 </Box>
+</Fragment_1>
+</Slot>
 </Body>
 }
 
