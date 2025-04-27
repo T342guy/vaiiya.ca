@@ -1,5 +1,11 @@
 # CHANGELOG FILE
 
+-[APR 27 11:15am]
+
+---- PRE PUSH ----
+
+- changed the favicon to one with a black backround, and more zoomed in. 
+
 -[APR 26 12:10am]
 
 ---- PRE PUSH ----

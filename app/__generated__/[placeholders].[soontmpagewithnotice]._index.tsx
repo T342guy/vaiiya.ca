@@ -11,7 +11,7 @@ import { Box as Box, Image as Image } from "@webstudio-is/sdk-components-react";
       export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
-        "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
+        "VAIIYA_Logo_ico_blackbackround_jgkPZr1LP3VXkcw7Tby4_.webp";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

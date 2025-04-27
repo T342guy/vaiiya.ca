@@ -1,14 +1,14 @@
 {
   "build": {
-    "id": "a9041b18-256d-4781-8844-748ce276fd42",
+    "id": "02fdf5da-bc70-4813-bbe4-62c315e883db",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 2560,
-    "createdAt": "2025-04-26T07:06:12.162+00:00",
-    "updatedAt": "2025-04-26T07:06:12.162+00:00",
+    "version": 2562,
+    "createdAt": "2025-04-27T18:13:05.618+00:00",
+    "updatedAt": "2025-04-27T18:13:05.618+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYA",
-        "faviconAssetId": "41c420ee33da875e8dfacb7cb622d81dd94f37b9949959154cd3801a0239ac53"
+        "faviconAssetId": "c6b04640ffaec4b8e86bef60e15a36c8add8318695c519eaf31da482a3d99153"
       },
       "homePage": {
         "id": "iQp8V5BpzH1qDz0CIiKcA",
@@ -69074,6 +69074,20 @@
         "family": "Tomorrow",
         "style": "normal",
         "weight": 700
+      }
+    },
+    {
+      "id": "c6b04640ffaec4b8e86bef60e15a36c8add8318695c519eaf31da482a3d99153",
+      "name": "VAIIYA_Logo_ico_blackbackround_jgkPZr1LP3VXkcw7Tby4_.webp",
+      "description": null,
+      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
+      "size": 1902,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2025-04-27T18:12:06.358+00:00",
+      "meta": {
+        "width": 57,
+        "height": 47
       }
     },
     {
