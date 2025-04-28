@@ -6,8 +6,8 @@
 	<p>
 <object>
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/T342guy/vaiiya.ca?display_name=release">
-  <a href="https://discord.gg/jMQqBvKhUE"><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_Developers-Official_partner-D31F3C?logo=thefinals">
-  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvaiiya.ca&up_message=LIVE&down_message=OFFLINE!%20">
+  <a href="https://discord.gg/jMQqBvKhUE",target=blank_><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_Developers-Official_partner-D31F3C?logo=thefinals">
+  <a href="https://vaiiya.ca",target=blank_><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvaiiya.ca&up_message=LIVE&down_message=OFFLINE!%20">
 </object>
 	</p>
 </div>
