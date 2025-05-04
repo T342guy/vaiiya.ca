@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "02fdf5da-bc70-4813-bbe4-62c315e883db",
+    "id": "b3511fa1-bfc3-499e-914a-425a33e0a4ab",
     "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-    "version": 2562,
-    "createdAt": "2025-04-27T18:13:05.618+00:00",
-    "updatedAt": "2025-04-27T18:13:05.618+00:00",
+    "version": 2589,
+    "createdAt": "2025-05-04T10:22:51.387+00:00",
+    "updatedAt": "2025-05-04T10:22:51.387+00:00",
     "pages": {
       "meta": {
         "siteName": "VAIIYA",
@@ -37469,7 +37469,7 @@
           "property": "alignSelf",
           "value": {
             "type": "keyword",
-            "value": "auto"
+            "value": "center"
           }
         }
       ],
@@ -50948,8 +50948,8 @@
           "id": "KJhPRpCJEsu5ldOnZeBhe",
           "instanceId": "Wd-ACLmMNcmbbeNjqtVFs",
           "name": "src",
-          "type": "string",
-          "value": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/Engimo_whitetext-RQ7KQDvMr8dhXJcG7ajjg3bzL8Cjej"
+          "type": "asset",
+          "value": "f4da9a86928aa70ccb69bedbcf9cb29a0c3d4dfa6989a7bae81b7d3188d280f3"
         }
       ],
       [
@@ -50959,7 +50959,7 @@
           "instanceId": "Wd-ACLmMNcmbbeNjqtVFs",
           "name": "width",
           "type": "asset",
-          "value": "88eb0a4f06db271a6c5a6d125bb2fb52328fe822b84925a5d3fcdb280dbfbfe9"
+          "value": "f4da9a86928aa70ccb69bedbcf9cb29a0c3d4dfa6989a7bae81b7d3188d280f3"
         }
       ],
       [
@@ -50969,7 +50969,7 @@
           "instanceId": "Wd-ACLmMNcmbbeNjqtVFs",
           "name": "height",
           "type": "asset",
-          "value": "88eb0a4f06db271a6c5a6d125bb2fb52328fe822b84925a5d3fcdb280dbfbfe9"
+          "value": "f4da9a86928aa70ccb69bedbcf9cb29a0c3d4dfa6989a7bae81b7d3188d280f3"
         }
       ],
       [
@@ -51068,8 +51068,8 @@
           "id": "l-eYAxRa3PIRkpiHsH98S",
           "instanceId": "UWQz7GkjLad3z9hSnipf9",
           "name": "src",
-          "type": "string",
-          "value": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/alfaacta_text-pZijWSDlGbTJeDKkrpf46TzfnzEB4U.webp"
+          "type": "asset",
+          "value": "13932549a658e4802421996821bd724e70e6023d484e8608fe8b773909f286d2"
         }
       ],
       [
@@ -51079,7 +51079,7 @@
           "instanceId": "UWQz7GkjLad3z9hSnipf9",
           "name": "width",
           "type": "asset",
-          "value": "a08258989ac650680e4e266f3893842b15eb1b4512e4e1fa26b06991290c3fd3"
+          "value": "13932549a658e4802421996821bd724e70e6023d484e8608fe8b773909f286d2"
         }
       ],
       [
@@ -51089,7 +51089,7 @@
           "instanceId": "UWQz7GkjLad3z9hSnipf9",
           "name": "height",
           "type": "asset",
-          "value": "a08258989ac650680e4e266f3893842b15eb1b4512e4e1fa26b06991290c3fd3"
+          "value": "13932549a658e4802421996821bd724e70e6023d484e8608fe8b773909f286d2"
         }
       ],
       [
@@ -53751,8 +53751,8 @@
           "id": "ow-kZMG8gdKyiRdnMDcUQ",
           "instanceId": "wMBPDPS43MfWw1zttoksE",
           "name": "src",
-          "type": "string",
-          "value": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png"
+          "type": "asset",
+          "value": "16559f1b20ef45646126a5ab2fb7b41b9afb2545282a3ecb66d11826906fbc1c"
         }
       ],
       [
@@ -53761,8 +53761,8 @@
           "id": "lgVO5vIwpIQC0WnUnOiH4",
           "instanceId": "wMBPDPS43MfWw1zttoksE",
           "name": "width",
-          "type": "number",
-          "value": 1920
+          "type": "asset",
+          "value": "16559f1b20ef45646126a5ab2fb7b41b9afb2545282a3ecb66d11826906fbc1c"
         }
       ],
       [
@@ -53771,8 +53771,8 @@
           "id": "ABq2RE0Nmexp6P-WoKLc8",
           "instanceId": "wMBPDPS43MfWw1zttoksE",
           "name": "height",
-          "type": "number",
-          "value": 1080
+          "type": "asset",
+          "value": "16559f1b20ef45646126a5ab2fb7b41b9afb2545282a3ecb66d11826906fbc1c"
         }
       ],
       [
@@ -53852,7 +53852,7 @@
           "instanceId": "I8TX8-NqOuZfEg_Em0OXq",
           "name": "data",
           "type": "expression",
-          "value": "[\n  {\n    \"title\": \"The VAIIYA X2000: Helping lives, with a piece of silicon.\",\n    \"imageUrl\": \"https://yd7aroplonji0zom.public.blob.vercel-storage.com/VAIIYA_X2000_cropped_forwebsite-PTVrbsyTukQg6pqAPLAAYC7XRTnMz1.webp\",\n    \"imageAlt\": \"The VAIIYA x2000 zoomed in\",\n    \"author\": \"AL 'fix it' albert\",\n    \"datePublished\": \"2182-02-29\",\n    \"timeToRead\": \"1 min\",\n    \"excerpt\": \"The VAIIYA X2000, our efforts combined to help the world.\",\n    \"slug\": \"the-vaiiya-x2000-helping-lives-with-a-piece-of-silicon\"\n  },\n  {\n    \"title\": \"untitled\",\n    \"imageUrl\": \"https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png\",\n    \"imageAlt\": \"SOON\",\n    \"author\": \"untitled\",\n    \"datePublished\": \"2020-20-20\",\n    \"timeToRead\": \"tbd\",\n    \"excerpt\": \"\",\n    \"slug\": \"\"\n  },\n  {\n    \"title\": \"untitled\",\n    \"imageUrl\": \"https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png\",\n    \"imageAlt\": \"soon\",\n    \"author\": \"untitled\",\n    \"datePublished\": \"2024-01-25\",\n    \"timeToRead\": \"tbd\",\n    \"excerpt\": \"\",\n    \"slug\": \"\"\n  }\n]"
+          "value": "[\n  {\n    \"title\": \"The VAIIYA X2000: Helping lives, with a piece of silicon.\",\n    \"imageUrl\": \"VAIIYA_X2000_cropped_forwebsite_Hs7bj3ZRN6Hud-P5LpBg-.webp\",\n    \"imageAlt\": \"The VAIIYA x2000 zoomed in\",\n    \"author\": \"AL 'fix it' albert\",\n    \"datePublished\": \"2182-02-29\",\n    \"timeToRead\": \"1 min\",\n    \"excerpt\": \"The VAIIYA X2000, our efforts combined to help the world.\",\n    \"slug\": \"the-vaiiya-x2000-helping-lives-with-a-piece-of-silicon\"\n  },\n  {\n    \"title\": \"untitled\",\n    \"imageUrl\": \"soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png\",\n    \"imageAlt\": \"SOON\",\n    \"author\": \"untitled\",\n    \"datePublished\": \"2020-20-20\",\n    \"timeToRead\": \"tbd\",\n    \"excerpt\": \"\",\n    \"slug\": \"\"\n  },\n  {\n    \"title\": \"untitled\",\n    \"imageUrl\": \"soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png\",\n    \"imageAlt\": \"soon\",\n    \"author\": \"untitled\",\n    \"datePublished\": \"2024-01-25\",\n    \"timeToRead\": \"tbd\",\n    \"excerpt\": \"\",\n    \"slug\": \"\"\n  }\n]"
         }
       ],
       [
@@ -53913,36 +53913,6 @@
           "name": "country",
           "type": "string",
           "value": "US"
-        }
-      ],
-      [
-        "jWilEIbxCZnVqnW-9WbAc",
-        {
-          "id": "jWilEIbxCZnVqnW-9WbAc",
-          "instanceId": "P3DJcJC942IwhJPgZwfGL",
-          "name": "src",
-          "type": "expression",
-          "value": "$ws$dataSource$lqdjW__DASH__Ys44RudLZx7L0Mw.imageUrl"
-        }
-      ],
-      [
-        "VFgZmN8FczD3u_a1lHEYX",
-        {
-          "id": "VFgZmN8FczD3u_a1lHEYX",
-          "instanceId": "P3DJcJC942IwhJPgZwfGL",
-          "name": "width",
-          "type": "number",
-          "value": 700
-        }
-      ],
-      [
-        "Cca0PepeWcYxttm4Mxk7j",
-        {
-          "id": "Cca0PepeWcYxttm4Mxk7j",
-          "instanceId": "P3DJcJC942IwhJPgZwfGL",
-          "name": "height",
-          "type": "number",
-          "value": 500
         }
       ],
       [
@@ -55103,6 +55073,36 @@
           "name": "prefetch",
           "type": "string",
           "value": "intent"
+        }
+      ],
+      [
+        "jWilEIbxCZnVqnW-9WbAc",
+        {
+          "id": "jWilEIbxCZnVqnW-9WbAc",
+          "instanceId": "P3DJcJC942IwhJPgZwfGL",
+          "name": "src",
+          "type": "expression",
+          "value": "$ws$dataSource$lqdjW__DASH__Ys44RudLZx7L0Mw.imageUrl"
+        }
+      ],
+      [
+        "VFgZmN8FczD3u_a1lHEYX",
+        {
+          "id": "VFgZmN8FczD3u_a1lHEYX",
+          "instanceId": "P3DJcJC942IwhJPgZwfGL",
+          "name": "width",
+          "type": "number",
+          "value": 700
+        }
+      ],
+      [
+        "Cca0PepeWcYxttm4Mxk7j",
+        {
+          "id": "Cca0PepeWcYxttm4Mxk7j",
+          "instanceId": "P3DJcJC942IwhJPgZwfGL",
+          "name": "height",
+          "type": "number",
+          "value": 500
         }
       ]
     ],
@@ -68438,6 +68438,20 @@
       }
     },
     {
+      "id": "13932549a658e4802421996821bd724e70e6023d484e8608fe8b773909f286d2",
+      "name": "alfaacta_text_CORRECTLYCROPPED_uvBo6TR9S5GO8XJNCPhpt.webp",
+      "description": null,
+      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
+      "size": 4922,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2025-05-04T10:19:39.209+00:00",
+      "meta": {
+        "width": 141,
+        "height": 85
+      }
+    },
+    {
       "id": "16559f1b20ef45646126a5ab2fb7b41b9afb2545282a3ecb66d11826906fbc1c",
       "name": "soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png",
       "description": null,
@@ -68893,20 +68907,6 @@
       }
     },
     {
-      "id": "88eb0a4f06db271a6c5a6d125bb2fb52328fe822b84925a5d3fcdb280dbfbfe9",
-      "name": "w_engimo_K7m_M6cV4StcA2dXhNj4y.png",
-      "description": null,
-      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-      "size": 52241,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2025-04-10T05:32:44.947+00:00",
-      "meta": {
-        "width": 300,
-        "height": 94
-      }
-    },
-    {
       "id": "8c957bdc4405ee14fcca6d8991a4c0690f5b65a01eb0f3705673ae2b2300f602",
       "name": "IMG_8467_DstrOs_U8EbNu6fRMjXjK.png",
       "description": null,
@@ -68947,20 +68947,6 @@
       "meta": {
         "width": 1024,
         "height": 1024
-      }
-    },
-    {
-      "id": "a08258989ac650680e4e266f3893842b15eb1b4512e4e1fa26b06991290c3fd3",
-      "name": "alfaacta_web_ttmwaQFUJb8Bm_5eM91Kq.png",
-      "description": null,
-      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
-      "size": 48645,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2025-04-10T05:32:27.785+00:00",
-      "meta": {
-        "width": 300,
-        "height": 85
       }
     },
     {
@@ -69246,6 +69232,20 @@
       "meta": {
         "width": 1500,
         "height": 547
+      }
+    },
+    {
+      "id": "f4da9a86928aa70ccb69bedbcf9cb29a0c3d4dfa6989a7bae81b7d3188d280f3",
+      "name": "w_engimoCORRECTLYCROPPED_i5E8RWrokzVjA2YLsJEA5.webp",
+      "description": null,
+      "projectId": "194e2b25-97be-443f-8441-f7922f347c91",
+      "size": 7290,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2025-05-04T10:21:20.385+00:00",
+      "meta": {
+        "width": 173,
+        "height": 94
       }
     }
   ],

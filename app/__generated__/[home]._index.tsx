@@ -40,7 +40,7 @@ className={`w-html-embed`} />
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
 <Box
-className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c9ylysu c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c12sm2j2 c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
 <Slot>
 </Slot>
 <Box
@@ -451,8 +451,8 @@ className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 <Box
 className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c206unk c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/Engimo_whitetext-RQ7KQDvMr8dhXJcG7ajjg3bzL8Cjej"}
-width={300}
+src={"/assets/w_engimoCORRECTLYCROPPED_i5E8RWrokzVjA2YLsJEA5.webp"}
+width={173}
 height={94}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
@@ -478,8 +478,8 @@ className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 <Box
 className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cwiudb0 c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/alfaacta_text-pZijWSDlGbTJeDKkrpf46TzfnzEB4U.webp"}
-width={300}
+src={"/assets/alfaacta_text_CORRECTLYCROPPED_uvBo6TR9S5GO8XJNCPhpt.webp"}
+width={141}
 height={85}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />

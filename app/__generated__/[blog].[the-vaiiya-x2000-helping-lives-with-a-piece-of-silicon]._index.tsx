@@ -356,9 +356,9 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x`}>
 {"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
 </Paragraph>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png"}
-width={1920}
-height={1080}
+src={"/assets/soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png"}
+width={3840}
+height={2160}
 loading={"eager"}
 className={`w-image`} />
 </Box>

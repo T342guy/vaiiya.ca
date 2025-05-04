@@ -1,5 +1,24 @@
 # CHANGELOG FILE
 
+-[MAY 4 3:30am]
+
+---- PRE PUSH ----
+
+- truehome
+    - changed the ALFA ACTA logo from the bloblink to a local image. 
+    - changed the ENGIMO logo from the bloblink to a local image. 
+
+
+- ASSETS
+    - deleted the old ALFA ACTA logo asset. 
+    - uploaded the last, correctly cropped ALFA ACTA asset. 
+    - deleted the old ENGIMO logo asset.
+    - uploaded the last, correctly cropped ENGIMO asset. 
+
+- the VAIIYA x2000 article AND bloghome
+    - issue #63 BLOBSTORAGE FIX: reset all 3 images with bloblinks to the images, BACK to the local image.
+
+
 -[APR 27 11:15am]
 
 ---- PRE PUSH ----

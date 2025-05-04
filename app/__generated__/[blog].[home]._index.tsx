@@ -356,7 +356,7 @@ className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174
 {[
   {
     "title": "The VAIIYA X2000: Helping lives, with a piece of silicon.",
-    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/VAIIYA_X2000_cropped_forwebsite-PTVrbsyTukQg6pqAPLAAYC7XRTnMz1.webp",
+    "imageUrl": "VAIIYA_X2000_cropped_forwebsite_Hs7bj3ZRN6Hud-P5LpBg-.webp",
     "imageAlt": "The VAIIYA x2000 zoomed in",
     "author": "AL 'fix it' albert",
     "datePublished": "2182-02-29",
@@ -366,7 +366,7 @@ className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174
   },
   {
     "title": "untitled",
-    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png",
+    "imageUrl": "soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png",
     "imageAlt": "SOON",
     "author": "untitled",
     "datePublished": "2020-20-20",
@@ -376,7 +376,7 @@ className={`w-box copqmak c10zkoym ct8c5y2 cejtdrx co2qwzx c1vrexag cx6c9kw c174
   },
   {
     "title": "untitled",
-    "imageUrl": "https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png",
+    "imageUrl": "soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png",
     "imageAlt": "soon",
     "author": "untitled",
     "datePublished": "2024-01-25",
