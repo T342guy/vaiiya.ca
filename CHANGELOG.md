@@ -1,5 +1,66 @@
 # CHANGELOG FILE
 
+-[MAY 4 3:30am]
+
+---- PRE PUSH ----
+
+- truehome
+    - changed the ALFA ACTA logo from the bloblink to a local image. 
+    - changed the ENGIMO logo from the bloblink to a local image. 
+
+
+- ASSETS
+    - deleted the old ALFA ACTA logo asset. 
+    - uploaded the last, correctly cropped ALFA ACTA asset. 
+    - deleted the old ENGIMO logo asset.
+    - uploaded the last, correctly cropped ENGIMO asset. 
+
+- the VAIIYA x2000 article AND bloghome
+    - issue #63 BLOBSTORAGE FIX: reset all 3 images with bloblinks to the images, BACK to the local image.
+
+
+-[APR 27 11:15am]
+
+---- PRE PUSH ----
+
+- changed the favicon to one with a black backround, and more zoomed in. 
+
+-[APR 26 12:10am]
+
+---- PRE PUSH ----
+
+- VAIIYA x2000 article page:
+    - added a missing footer
+
+- footer(s)
+    - changed the "guides" link to a "support the project!" link. this will redirect to the "support the project" page.
+    - replaced the footers on the pages below due to the mirroring tool not working. 
+        - blog home
+        - support the project
+        - community backers
+        - disclaimers and legal 
+        - contact the developer 
+        - warnhome
+
+- contact the developer page
+    - changed the font from saira to tomorrow.
+    - changed the paragraph's max width from "var(--size-header-3)" to "var(--size-header-4)"
+    - changed the text's color from semi-transparent to f1f2f4
+    - changed the size of the "Website's REPO and issue tracker" button from 16px to 20px
+
+- warnhome
+    - changed the text from a semi-transparent text that made it hard to read, to the f1f2f4 HEX color.
+
+- other
+    - changed the "site name" param from "VAIIYAwebsite" to "VAIIYA". this will hopefully make search results better
+
+- truehome
+    - changed caps and punctualization on the "why VAIIYA" main article
+
+- error404 page
+    - changed the page's name from "404" to "error404" as well as the slug.
+    - due to the limits of webstudio, the 404 page in UNEDITABLE without pro or running the builder locally. therefor the custom 404 page cannot be used.
+
 -[APR 23 2:10am]
 
 ---- [0.3.4] ----

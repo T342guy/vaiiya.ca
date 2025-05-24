@@ -9,10 +9,10 @@ import { Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, P
 import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader as AccordionHeader, AccordionTrigger as AccordionTrigger, AccordionContent as AccordionContent, Label as Label, NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport, Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as DialogOverlay, DialogContent as DialogContent, DialogClose as DialogClose } from "@webstudio-is/sdk-components-react-radix";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
-        "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
+        "VAIIYA_Logo_ico_blackbackround_jgkPZr1LP3VXkcw7Tby4_.webp";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -1318,7 +1318,7 @@ className={`w-html-embed`} />
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
 <Box
-className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c9ylysu c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c12sm2j2 c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
 <Slot>
 </Slot>
 <Box
@@ -1800,10 +1800,10 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/project/support-the-project"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Guides"}
+{"Support the project!"}
 </Link>
 </ListItem>
 <ListItem

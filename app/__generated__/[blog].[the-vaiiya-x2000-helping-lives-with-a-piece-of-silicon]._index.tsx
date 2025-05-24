@@ -4,15 +4,15 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, Button as Button, Text as Text, Box as Box, HtmlEmbed as HtmlEmbed, Paragraph as Paragraph, Slot as Slot, Time as Time, Heading as Heading, Image as Image } from "@webstudio-is/sdk-components-react";
+      import { Box as Box, Fragment as Fragment_1, Button as Button, Text as Text, HtmlEmbed as HtmlEmbed, Image as Image, Heading as Heading, List as List, ListItem as ListItem, Paragraph as Paragraph, Slot as Slot, Time as Time } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-router";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
-        "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
+        "VAIIYA_Logo_ico_blackbackround_jgkPZr1LP3VXkcw7Tby4_.webp";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -356,9 +356,9 @@ className={`w-paragraph c16xpvrq c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x`}>
 {"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
 </Paragraph>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/soon_tm_pic-L8BUpa6AC3gvQCpT5hqzpsUGmkVBAy.png"}
-width={1920}
-height={1080}
+src={"/assets/soon_tm_blueprint_Xz-LLyURuT-pUSQfclqKC.png"}
+width={3840}
+height={2160}
 loading={"eager"}
 className={`w-image`} />
 </Box>
@@ -396,6 +396,274 @@ className={`w-paragraph c3fmn7t`}>
 </Box>
 </Box>
 </Box>
+<Slot>
+<Fragment_1>
+<Box
+tag={"footer"}
+className={`w-box cna0hdz c1mzb2kd ${"footer"}`}>
+<Box
+className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1s46o9r cdczzub c1fd0kk1 c11gzs80`}>
+<Box
+className={`w-box cry9bxc c18v2pa2 c174sw29 cmaksb1 c1i9o1yp`}>
+<Link
+href={"/home"}
+className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c1x4yn0w cl60rel c1ib9cr2 c1d7u282`}>
+<Image
+alt={"Logo"}
+src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
+width={512}
+height={130}
+className={`w-image c18lgxql`} />
+</Link>
+<Box
+className={`w-box cry9bxc c1lxiyww c1s46o9r cdczzub c1jjfh4b`}>
+<Box
+tag={"nav"}
+aria-labelledby={"menu1Title"}
+className={`w-box cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<Heading
+tag={"h2"}
+id={"menu1Title"}
+className={`w-heading c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+{"Product"}
+</Heading>
+<List
+className={`w-list c34dwh1 c1y6imu0 c1cn3fw9 cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Features"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Integration"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Updates"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"FAQ"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Pricing"}
+</Link>
+</ListItem>
+</List>
+</Box>
+<Box
+tag={"nav"}
+aria-labelledby={"menu2Title"}
+className={`w-box cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<Heading
+tag={"h2"}
+id={"menu2Title"}
+className={`w-heading c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+{"Company"}
+</Heading>
+<List
+className={`w-list c34dwh1 c1y6imu0 c1cn3fw9 cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"About"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/blog/home"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Blog"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Careers"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Manifesto"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Press"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Contract"}
+</Link>
+</ListItem>
+</List>
+</Box>
+<Box
+tag={"nav"}
+aria-labelledby={"menu3Title"}
+className={`w-box cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<Heading
+tag={"h2"}
+id={"menu3Title"}
+className={`w-heading c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+{"Resources"}
+</Heading>
+<List
+className={`w-list c34dwh1 c1y6imu0 c1cn3fw9 cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/contact-the-dev"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Contact the developer!"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/project/community-backers"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Community backers!"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/project/support-the-project"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Support the project!"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Docs"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Press"}
+</Link>
+</ListItem>
+</List>
+</Box>
+<Box
+tag={"nav"}
+aria-labelledby={"menu4Title"}
+className={`w-box cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<Heading
+tag={"h2"}
+id={"menu4Title"}
+className={`w-heading c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+{"Legal"}
+</Heading>
+<List
+className={`w-list c34dwh1 c1y6imu0 c1cn3fw9 cry9bxc c1z0l37u c1ml0hr7 c1lfjoq7`}>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/legal/disclaimer-and-legal"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"DISCLAIMERS"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Terms"}
+</Link>
+</ListItem>
+<ListItem
+className={`w-list-item`}>
+<Link
+href={"/placeholders/soontmpagewithnotice"}
+target={"_self"}
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Security"}
+</Link>
+</ListItem>
+</List>
+</Box>
+</Box>
+</Box>
+<Box
+className={`w-box cry9bxc ct02u4h c1lfjoq7 c16xs6ny`}>
+<Box
+className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
+<Text
+className={`w-text`}>
+{"© 2025 T342, under the GNU GPLv3."}
+</Text>
+<Link
+className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
+{"Credits"}
+</Link>
+</Box>
+</Box>
+</Box>
+</Box>
+</Fragment_1>
+</Slot>
 </Body>
 }
 

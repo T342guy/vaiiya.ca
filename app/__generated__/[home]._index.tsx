@@ -9,10 +9,10 @@ import { Box as Box, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as B
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
-      export const siteName = "VAIIYAwebsite";
+      export const siteName = "VAIIYA";
 
       export const favIconAsset: string | undefined =
-        "VAIIYA_only_i_s_FAVICON_D7F0CCQXVnLuLHhVjItzf.png";
+        "VAIIYA_Logo_ico_blackbackround_jgkPZr1LP3VXkcw7Tby4_.webp";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -40,7 +40,7 @@ className={`w-html-embed`} />
 tag={"header"}
 className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lxiyww c1qyy4dh ct02u4h c1z0l37u c1ml0hr7 c1fd0kk1 c11gzs80 c1sche0c c1l2989r cjqo3r0 c1cvcmzo c3xzas1 c1n6cdq4 c1a5jpyh c3u045t c1fysxfs c1tuvjqt`}>
 <Box
-className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c9ylysu c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
+className={`w-box czr2pxy copqmak ct8c5y2 c10zkoym cignq8x cavd3zn c12sm2j2 c1tbut6b c1tzxl2z c16n19h8 cwqojdn c7klx50 c1qrxaqp cjkeggx c8pi8fa cow6lkx c1oxjrsz csud216 c1xiy5b1 cq7d8me c1ycnvnd`}>
 <Slot>
 </Slot>
 <Box
@@ -416,7 +416,7 @@ className={`w-image`} />
 <Box
 className={`w-box c1s5r7yb c1ggkywf`}>
 <HtmlEmbed
-code={"<h2>Why VAIIYA?</h2>\n<ul>\n  <p>VAIIYA is the worlds leading innovator in all security sectors. <br> We are your only, best option. </p>\n  <p>Why? because we do things right, ready, prepared and armed. We always get our way.</p>\n\n  <p>VAIIYA sees, and knows about each and every threat, fly, virus, pipebomb, or digital enemy. Will they ever win? Not on VAIIYA's watch.</p>\n<br>\n  <p>Do we ever leave? No. Do we stop at a dead end? Thats just a roadblock. <br>\n  Do we ever rest? Not enough for the enemy to even think. </p>\n  <br>\n  <p>we've made it clear, we do our job. Digital or meatspace. <br> <b>Security, on another level entirely. </b></p>\n  <br>\n  <h2>What do we offer? <br> lets say; <br> \"If everything didnt have an end\". </h2>\n  <br>\n  <p>If you came to us, and said \"What do you have to offer\", <br> We would respond with \"<m><i>does everything have an end? Not for us.</i></m>\"</p>\n  <br>\n  <h3>Find out more SOON™</h3></ul>"}
+code={"<h2>Why VAIIYA?</h2>\n<ul>\n  <p>VAIIYA is the worlds leading innovator in all security sectors. <br> We are your only, best option. </p>\n  <p>Why? because we do things right, ready, prepared and armed. We always get our way.</p>\n\n  <p>VAIIYA sees, and knows about each and every threat, fly, virus, pipebomb, or digital enemy. Will they ever win? Not on VAIIYA's watch.</p>\n<br>\n  <p>Do we ever leave? No. Do we stop at a dead end? Thats just a roadblock. <br>\n  Do we ever rest? Not enough for the enemy to even think. </p>\n  <br>\n  <p>We've made it clear - we do our job. Digital or meatspace. <br> <b>Security on another level entirely. </b></p>\n  <br>\n  <h2>What do we offer? <br> lets say; <br> \"If everything didnt have an end\". </h2>\n  <br>\n  <p>If you came to us, and said \"What do you have to offer\", <br> We would respond with \"<m><i>does everything have an end? Not for us.</i></m>\"</p>\n  <br>\n  <h3>Find out more SOON™</h3></ul>"}
 className={`w-html-embed cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c17kfd4c cjfg1nn cn12ej2 c14r73oo c1i2qozd cqbvjst c1iy8jlp c1dmsc2 c10dt6tb c1konbo6 c1fhnv6m cthq4g9 co6ecv5 c11gjxke chqvvir cabol8u c1taev7 ccsjqot cxu216m c1sragja ck29a19 c19txxxy cxma1ez cusbz4o cuwio2x c1hoh0xq choe4qz cbo4rfj cfksyzv cjlsrd7 czdkczf c1wqs0p5 cktz43h c4idyg2 c1eqam6u c1lgwnvp c1yf18ib c165jfmr c14p8iaf ceir1l1 c1gqvzyp c1nhlvyv cpey06m c1eeexcj c1cph9m2 c9acz7k cb28ixs c1b3xbwr c1xsrmss cjf4s43 c1a66dcn ce038li c1ddeah2 c1fz4nrl cv8pxho c1rpv80a cslote8 cqyei7c ced96my c1sfkmp2 c49axyp cgi77sr ck6yw4p c1sooig2 c9lb5kw c17fqupn c1bltfa9 c1xuact2 cnyz0uj c1kgx2h0 c16ev36s c1fmybnf cxfx604 cnqi06o cubb9sa c3qhcxd c1g876an c11g2ak9 cdf8zv cnvyaip c77e89k c17ii2ds c1jj7z6 c15kkr5m cvj5six czokp33 cuk74b4 c1fnfazq cerqyr0 cob80h7 cy6fknl c1r7mbpg cso4wwi c1o3cgff cegqawo c18rxnrr c1r7s364 cmg0y6y`}>
 </HtmlEmbed>
 </Box>
@@ -451,8 +451,8 @@ className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 <Box
 className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h c206unk c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/Engimo_whitetext-RQ7KQDvMr8dhXJcG7ajjg3bzL8Cjej"}
-width={300}
+src={"/assets/w_engimoCORRECTLYCROPPED_i5E8RWrokzVjA2YLsJEA5.webp"}
+width={173}
 height={94}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
@@ -478,8 +478,8 @@ className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
 <Box
 className={`w-box cc9xhl5 c1nvgabo c1u0yu0y c1i2rq6e c12n5uks csb0ifw cg5j03k c8od1c4 czr2pxy c1bkqfhr cry9bxc c1qyy4dh ct02u4h cwiudb0 c9grybw c1yb3n9o cbrrmm8 cdip4vx c5egcmi c6d3y84 cxz9xjl c1w2ebm1 cscr3j6 c1380t7s c1yvubyx cbxwzfl ckdqtrq c1qpskvc c1qoie81`}>
 <Image
-src={"https://yd7aroplonji0zom.public.blob.vercel-storage.com/alfaacta_text-pZijWSDlGbTJeDKkrpf46TzfnzEB4U.webp"}
-width={300}
+src={"/assets/alfaacta_text_CORRECTLYCROPPED_uvBo6TR9S5GO8XJNCPhpt.webp"}
+width={141}
 height={85}
 alt={"Company logo"}
 className={`w-image c186i34s c1fhiulb c1av00hf cji8cjn`} />
@@ -861,10 +861,10 @@ className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch
 <ListItem
 className={`w-list-item`}>
 <Link
-href={"/placeholders/soontmpagewithnotice"}
+href={"/project/support-the-project"}
 target={"_self"}
 className={`w-link catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
-{"Guides"}
+{"Support the project!"}
 </Link>
 </ListItem>
 <ListItem
