@@ -1,5 +1,10 @@
 # CHANGELOG FILE
 
+-[MAY 23 5:20PM]
+ ---- PULL ALL CHANGES TO MASTER ----
+ ---- [V0.3.5] ----
+
+
 -[MAY 4 3:30am]
 
 ---- PRE PUSH ----
