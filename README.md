@@ -1,5 +1,4 @@
-# The Unofficial VAIIYA website project! 
-
+# The <sub>Unofficial</sub> VAIIYA website project! 
 
 
 <div align="center">
@@ -21,15 +20,17 @@
 	</p>
 </div>
 
-Hello Hello! Fellow VAIIYA Trustees, Contestants of THE FINALS, and/or random people on the internet!
-
+Hello Hello fellow VAIIYA Trustees, Contestants of THE FINALS, or astray viewers!\
 Welcome to: The VAIIYA website project! 
-The VAIIYA website is a website developed, hosted, and paid for by ME!(T342 >;3)
 
-If you want to support me(T342) get in touch via discord, and send me a DM request through servers I am in! 
-(some of them are the offical THE FINALS discord server, and Thiixy's server ;3 and make sure to tell me what you are reaching out for!)
+The VAIIYA website project is a passion project, founded on the idea of community-based development!
+<sub>(letting you all see the website being built, bit by bit!)</sub>\
+This project has NO interaction/influince via Embark studios, please review [the legal section](#LEGAL) of this README. 
 
-Contributions for this website are ENCOURAGED! You can clone this repo, and use webstudio to edit the site! 
+
+### Want to support the project?
+Want to support this project? Buy me a coffee!\
+You can use the support button on the website's github repo, OR you can [visit my Buy me a coffee Page!](https://buymeacoffee.com/t342guy)
 
 
 
