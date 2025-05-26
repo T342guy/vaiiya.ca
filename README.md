@@ -5,9 +5,7 @@
 <div align="center">
 	<p>
 <object>
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/T342guy/vaiiya.ca?display_name=release">
   <a href="https://discord.gg/jMQqBvKhUE",target=blank_><img alt="Static Badge" src="https://img.shields.io/badge/THE_FINALS_Developers-Official_partner-D31F3C?logo=thefinals">
-  <a href="https://vaiiya.ca",target=blank_><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvaiiya.ca&up_message=LIVE&down_message=OFFLINE!%20">
 </object>
 	</p>
 </div>
@@ -15,7 +13,8 @@
 <div align="center">
 	<p>
 <object>
-		<img alt="GitHub License" src="https://img.shields.io/github/license/T342guy/vaiiya.ca">
+	<img alt="GitHub Release" src="https://img.shields.io/github/v/release/T342guy/vaiiya.ca?display_name=release">
+	<img alt="GitHub License" src="https://img.shields.io/github/license/T342guy/vaiiya.ca">
     <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/T342guy/vaiiya.ca">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/T342guy/vaiiya.ca?style=social">
 </object>
