@@ -47,10 +47,16 @@ MASTER - The head deploy for the head domain, https://www.vaiiya.ca/ \
 PREVIEW - The 2nd deploy branch, this is where all new changes go before they are pushed to the main branch. these changes get deployed to https://pre.vaiiya.ca/ \
 (NOTE: preview requires you to be on the same vercel "team" in order to see it.) 
 
+
+## OTHER INFO
+
+All changes in this repo are documented, required via the GNU GPLv3 in this repository.\
+View the license [HERE](LICENSE).
+
 # LEGAL
 
 This project is licensed under GNU GPLv3, with copyright to T342. All changes are documented.\
-View `CHANGELOG.md` for changelog.
+View [`CHANGELOG.md`](CHANGELOG.md) for this repository's changelog.
 
 [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE (Website page)](https://vaiiya.ca/legal/disclaimer-and-legal)\
 [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE (file)](DISCLAIMER_AND_LEGAL_FROM_WEBSITE.md)
