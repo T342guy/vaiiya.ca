@@ -59,7 +59,7 @@ This project is licensed under GNU GPLv3, with copyright to T342. All changes ar
 View [`CHANGELOG.md`](CHANGELOG.md) for this repository's changelog.
 
 
-This project requires a FULL legal notice/disclaimer so that Embark stuios wont/cant nuke me, and this project.\
+This project requires a FULL legal notice/disclaimer so that Embark studios wont/cant nuke me, and this project.\
 You can view the file or website page below:\
 [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE (Website page)](https://vaiiya.ca/legal/disclaimer-and-legal)\
 [DISCLAIMER AND LEGAL NOTICE FROM THE WEBSITE (File)](DISCLAIMER_AND_LEGAL_FROM_WEBSITE.md)
