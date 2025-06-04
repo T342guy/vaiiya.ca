@@ -23,9 +23,12 @@
 Hello Hello fellow VAIIYA Trustees, Contestants of THE FINALS, or astray viewers!\
 Welcome to: The VAIIYA website project! 
 
-The VAIIYA website project is a passion project, founded on the idea of community-based development!
-<sub>(letting you all see the website being built, bit by bit!)</sub>\
-This project has NO interaction/influince via Embark studios, please review [the legal section](#LEGAL) of this README. 
+
+What *is* The VAIIYA website project?\
+The VAIIYA website project is a passion project, founded on the idea of community-based development!\
+<sub>(also said as; letting you all see the website being built, bit by bit!)</sub>\
+\
+<sub>This project has NO interaction/influince via Embark studios, please review [the legal section](#LEGAL) of this README.</sub>\
 
 
 ### Want to support the project?
