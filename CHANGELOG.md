@@ -1,5 +1,23 @@
 # CHANGELOG FILE
 
+
+-[june 11 3:11pm]
+
+---- PRE PUSH ----
+
+- navbar
+    - changed navbar padding on the right from size-8 to size-2
+    - changed the max width on the navbar logo from size-12 to size-fluid-7
+
+- truehome
+    - changed the main opening paragraph's whitespace collapse from preserve to collapse
+    - moved the 2nd part of the 2nd sentence down so it doesn't look so bad
+
+- warnhome
+    - removed the navbar and footer so that this appears lesser of a normal page. 
+    - re-added the "built with webstudio" badge due to it being a new requirement for publishing. 
+
+
 -[MAY 23 5:20PM]
  ---- PULL ALL CHANGES TO MASTER ----
  ---- [V0.3.5] ----

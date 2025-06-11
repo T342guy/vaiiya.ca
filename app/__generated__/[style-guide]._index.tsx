@@ -39,7 +39,7 @@ className={`w-heading c11nr3ex cy1haag c32myit cwrra4i c4rpps8 c1d23h5a cnu4kgu 
 {"Style Guide"}
 </Heading>
 <Text
-className={`w-text c1nkzcyu che9upb`}>
+className={`w-text-1 c1nkzcyu che9upb`}>
 {"Craft Version 1.0"}
 </Text>
 <Paragraph
@@ -77,21 +77,21 @@ className={`w-box copqmak c9sypx0 c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h cna0hdz c1mzb2kd c1vaudkt cci8rp4 c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"section"}
 </Text>
 </Box>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h ch3bbj5 c1mzb2kd c1vaudkt cci8rp4 c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"section"}
 </Text>
 </Box>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1778y6x c1wt8a7g c2keyc8 cnkorcr c1fd0kk1 c11gzs80 c1fhkm63 clv8gve c1lfjoq7 c1s46o9r cdczzub c1357293 c9jnjeu czr2pxy c155uc7w ck4tzbx`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"container"}
 </Text>
 </Box>
@@ -100,7 +100,7 @@ className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 copqmak c1vrexag ct02u4h c1fh
 <Box
 className={`w-box c7rvndl c2w8hv4`}>
 <Text
-className={`w-text c1yehcfp c1umavhe caipwxg cbvffy can94pj cuccfz7 cir85gx c1qom380 cr8yqfm c1ufwdzl c5blvcv cml0h3f c5m8ase clv8gve`}>
+className={`w-text-1 c1yehcfp c1umavhe caipwxg cbvffy can94pj cuccfz7 cir85gx c1qom380 cr8yqfm c1ufwdzl c5blvcv cml0h3f c5m8ase clv8gve`}>
 {"grid"}
 </Text>
 </Box>
@@ -135,12 +135,12 @@ className={`w-heading c1dxq9cf cy1haag c32myit cwrra4i c12y6bqh c1mpwk4w`}>
 className={`w-paragraph che9upb c1rco612`}>
 {"Change these values on the Global Root. It's best practice to map semantic variables such as "}
 <Span
-className={`w-text-1 c2i0393 c19evryj cntnubm c16hrg7f c12vy3a5 cuwcd3w c1qakuu0 cz20ayj`}>
+className={`w-text c2i0393 c19evryj cntnubm c16hrg7f c12vy3a5 cuwcd3w c1qakuu0 cz20ayj`}>
 {"--foreground-primary"}
 </Span>
 {" to another variable such as "}
 <Span
-className={`w-text-1 c2i0393 c19evryj cntnubm c16hrg7f c12vy3a5 cuwcd3w c1qakuu0 cz20ayj`}>
+className={`w-text c2i0393 c19evryj cntnubm c16hrg7f c12vy3a5 cuwcd3w c1qakuu0 cz20ayj`}>
 {"--gray-10"}
 </Span>
 {"."}
@@ -156,7 +156,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--foreground-primary"}
 </Text>
 <Box
@@ -165,7 +165,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--foreground-secondary"}
 </Text>
 <Box
@@ -174,7 +174,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--foreground-accent"}
 </Text>
 <Box
@@ -183,7 +183,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--foreground-muted"}
 </Text>
 <Box
@@ -192,7 +192,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--foreground-border"}
 </Text>
 <Box
@@ -209,7 +209,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--background-primary"}
 </Text>
 <Box
@@ -218,7 +218,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--background-secondary"}
 </Text>
 <Box
@@ -227,7 +227,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--background-accent"}
 </Text>
 <Box
@@ -236,7 +236,7 @@ className={`w-box cagnu3j c1cx42qj c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c1s9lq31 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--background-card"}
 </Text>
 <Box
@@ -253,7 +253,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
+className={`w-text-1 c1cty1eq cbvffy can94pj cdt4mfm c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1 c16x0h2l`}>
 {"--focus-color"}
 </Text>
 <Box
@@ -277,7 +277,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c16xs6ny c1wt8a7g c1fhkm63 clv8gve c1lfjoq7 c133lpx4 c14u5o53 ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"button-group"}
 </Text>
 <Box
@@ -286,7 +286,7 @@ className={`w-box cry9bxc c1qyy4dh c1wt8a7g c10zkoym ct8c5y2 c15cml01`}>
 className={`w-link cnrz8fp c13b531o c1my01bv c14z1eqr c1ktl1y1 cr8yqfm c1ufwdzl c5blvcv cml0h3f c135vpv5 csru8nn c1qyy4dh ct02u4h c1md20bl c1e892th c1qom380 c10ldywu cbm6zv4 c1b1wvmf c1mcu1jn c1d7r856 cd3iwfe c1yhcvvf cwc6hbl c11r52nx czr2pxy cheslu6 cl60rel c1ib9cr2 cr2cdex`}>
 <Text
 tag={"span"}
-className={`w-text`}>
+className={`w-text-1`}>
 {"button"}
 </Text>
 </Link>
@@ -294,7 +294,7 @@ className={`w-text`}>
 className={`w-link cnrz8fp c13b531o c1my01bv c14z1eqr c1ktl1y1 cr8yqfm c1ufwdzl c5blvcv cml0h3f c135vpv5 csru8nn c1qyy4dh ct02u4h c1md20bl c1e892th c1qom380 c10ldywu cbm6zv4 c1b1wvmf c1mcu1jn c1d7r856 cd3iwfe c1yhcvvf cwc6hbl c11r52nx czr2pxy c3pidkv c1kol985 cheslu6 cl60rel c1ib9cr2 cr2cdex`}>
 <Text
 tag={"span"}
-className={`w-text`}>
+className={`w-text-1`}>
 {"is-button-small"}
 </Text>
 </Link>
@@ -313,7 +313,7 @@ code={"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" view
 className={`w-html-embed csru8nn ch2prsz cg4iiql c1qyy4dh ct02u4h`} />
 <Text
 tag={"span"}
-className={`w-text`}>
+className={`w-text-1`}>
 {"button with icon"}
 </Text>
 </Link>
@@ -322,7 +322,7 @@ className={`w-text`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c16xs6ny c1wt8a7g c1fhkm63 clv8gve c1lfjoq7 c133lpx4 c14u5o53 ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"link"}
 </Text>
 <Link
@@ -350,7 +350,7 @@ className={`w-heading c1dxq9cf cy1haag c32myit cwrra4i c12y6bqh c1mpwk4w`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"heading-1|2|3|4|5|6"}
 </Text>
 <Heading
@@ -417,13 +417,13 @@ className={`w-rich-text-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en 
 <Blockquote
 className={`w-blockquote cwrra4i c1kne9qb c1mwdnfw cm42med cptxs8s csdfh58 c15hexcm`}>
 <Span
-className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"blockquote"}
 </Span>
 {" text you can edit"}
 </Blockquote>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"list"}
 </Text>
 <List
@@ -431,7 +431,7 @@ className={`w-list cwrra4i cry9bxc c1lfjoq7 c1md20bl c1e892th`}>
 <ListItem
 className={`w-list-item cnrz8fp`}>
 <Span
-className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"list-item"}
 </Span>
 {" text you can edit"}
@@ -446,13 +446,13 @@ className={`w-list-item cnrz8fp`}>
 </ListItem>
 </List>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"separator"}
 </Text>
 <Separator
 className={`w-separator c57dhyt czr2pxy c32myit cwrra4i`} />
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"code"}
 </Text>
 <CodeText
@@ -477,7 +477,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Form"}
 </Text>
 <Form
@@ -573,7 +573,7 @@ className={`w-box cle73z7`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"my-token"}
 </Text>
 </Box>
@@ -595,7 +595,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Accordion"}
 </Text>
 <Accordion
@@ -629,7 +629,7 @@ className={`w-item-content`}>
 className={`w-box c15ucb9y`}>
 <Text
 tag={"span"}
-className={`w-text`}>
+className={`w-text-1`}>
 {"Yes. It adheres to the WAI-ARIA design pattern."}
 </Text>
 </Box>
@@ -662,7 +662,7 @@ className={`w-item-content`}>
 className={`w-box c15ucb9y`}>
 <Text
 tag={"span"}
-className={`w-text`}>
+className={`w-text-1`}>
 {"Yes. It adheres to the WAI-ARIA design pattern."}
 </Text>
 </Box>
@@ -673,13 +673,13 @@ className={`w-text`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Navigation Menu"}
 </Text>
 <Slot>
 <Fragment_1>
 <NavigationMenu
-className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1mgacbo c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
 <Box
 className={`w-box`}>
 <Link
@@ -692,7 +692,7 @@ src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
 width={512}
 height={130}
 alt={"logo"}
-className={`w-image c20huwx`} />
+className={`w-image c1k1cmo8`} />
 </Link>
 </Box>
 <NavigationMenuList
@@ -705,7 +705,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Features"}
 </Text>
 <Box
@@ -734,7 +734,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"SEO goal setting"}
 </Text>
 <Paragraph
@@ -756,7 +756,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"User-friendly dashboard"}
 </Text>
 <Paragraph
@@ -778,7 +778,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Visual reports"}
 </Text>
 <Paragraph
@@ -800,7 +800,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Smart Keyword Generator"}
 </Text>
 <Paragraph
@@ -815,7 +815,7 @@ className={`w-box`}>
 <Link
 className={`w-link cry9bxc c1lfjoq7 c1t3frhm c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 czx9unu cn1jd01 c12hsjsj c1ru090q c1syziaj c119suh8 cnqbj7z c1semaqr c1kectvc c18nx7en c422x95 c13zjl4p c135vpv5 c1bkqfhr c1h61a8n ci33z0 ce02iuh c15hexcm c1axwber c1l2ougi c9p707e c4rln6h c11nocyb c58h60l ce4uoav c141dmt7`}>
 <Text
-className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+className={`w-text-1 c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 {"One-Click Optimization"}
 </Text>
 <Paragraph
@@ -844,7 +844,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Company"}
 </Text>
 <Box
@@ -873,7 +873,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"About"}
 </Text>
 </Box>
@@ -891,7 +891,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Blog"}
 </Text>
 </Box>
@@ -909,7 +909,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Careers"}
 </Text>
 </Box>
@@ -927,7 +927,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Press"}
 </Text>
 </Box>
@@ -959,7 +959,7 @@ className={`w-menu-viewport cavd3zn cpkqq5o cfugi66 cv2gy63 cxn73lu c5dy17i c1hs
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Sheet"}
 </Text>
 <Slot>
@@ -1071,7 +1071,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"my-token"}
 </Text>
 </Box>
@@ -1093,7 +1093,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"my-slot"}
 </Text>
 </Box>
@@ -1115,7 +1115,7 @@ className={`w-box copqmak c1f64byh c1w3ahi2 c3zdkj3 c1lcvbhc`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Card"}
 </Text>
 <Box
@@ -1147,7 +1147,7 @@ className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p c
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"Featured Logo"}
 </Text>
 <Box
@@ -1159,7 +1159,7 @@ className={`w-image coejy3h c1fhiulb c1av00hf cji8cjn`} />
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"list-icons"}
 </Text>
 <List
@@ -1173,17 +1173,17 @@ className={`w-list-item c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi 
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"badge"}
 </Text>
 <Box
 className={`w-box csru8nn c1md20bl c1e892th c1qyy4dh ct02u4h cxk6kow conc6us c108v1a0 c81fpui coapalq c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c12sm2j2 c1pu3n16 c135vpv5 ca7cv43`}>
 <Text
-className={`w-text cl7jefz c341xsy c11dowh9 c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c7vx2dq c1mgacbo cff1ay0 c14z73t1 ci6yy9q c1plv2ab ckmcr2z`}>
+className={`w-text-1 cl7jefz c341xsy c11dowh9 c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t c7vx2dq c1mgacbo cff1ay0 c14z73t1 ci6yy9q c1plv2ab ckmcr2z`}>
 {"New"}
 </Text>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"The text you can edit"}
 </Text>
 </Box>
@@ -1191,7 +1191,7 @@ className={`w-text`}>
 <Box
 className={`w-box c12n5uks csb0ifw cg5j03k c8od1c4 cry9bxc c1qyy4dh ct02u4h c1fhkm63 clv8gve c1lfjoq7 cll3pt2 c1gy5yet ck4tzbx c1g7fxd7`}>
 <Text
-className={`w-text c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
+className={`w-text-1 c1yehcfp cbvffy can94pj c1p3n7hw c1qom380 c1pn4vw7 cczo11 c1tnvyeo c1pm51o8 c18tatc1`}>
 {"my-token"}
 </Text>
 </Box>
@@ -1328,7 +1328,7 @@ className={`w-box c1mcu1jn cry9bxc c1qyy4dh ct02u4h c1lfjoq7 c1g50ce cgtnddv c1l
 <Slot>
 <Fragment_1>
 <NavigationMenu
-className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1mgacbo c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
 <Box
 className={`w-box`}>
 <Link
@@ -1341,7 +1341,7 @@ src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
 width={512}
 height={130}
 alt={"logo"}
-className={`w-image c20huwx`} />
+className={`w-image c1k1cmo8`} />
 </Link>
 </Box>
 <NavigationMenuList
@@ -1354,7 +1354,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Features"}
 </Text>
 <Box
@@ -1383,7 +1383,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"SEO goal setting"}
 </Text>
 <Paragraph
@@ -1405,7 +1405,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"User-friendly dashboard"}
 </Text>
 <Paragraph
@@ -1427,7 +1427,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Visual reports"}
 </Text>
 <Paragraph
@@ -1449,7 +1449,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Smart Keyword Generator"}
 </Text>
 <Paragraph
@@ -1464,7 +1464,7 @@ className={`w-box`}>
 <Link
 className={`w-link cry9bxc c1lfjoq7 c1t3frhm c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 czx9unu cn1jd01 c12hsjsj c1ru090q c1syziaj c119suh8 cnqbj7z c1semaqr c1kectvc c18nx7en c422x95 c13zjl4p c135vpv5 c1bkqfhr c1h61a8n ci33z0 ce02iuh c15hexcm c1axwber c1l2ougi c9p707e c4rln6h c11nocyb c58h60l ce4uoav c141dmt7`}>
 <Text
-className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+className={`w-text-1 c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 {"One-Click Optimization"}
 </Text>
 <Paragraph
@@ -1493,7 +1493,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Company"}
 </Text>
 <Box
@@ -1522,7 +1522,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"About"}
 </Text>
 </Box>
@@ -1540,7 +1540,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Blog"}
 </Text>
 </Box>
@@ -1558,7 +1558,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Careers"}
 </Text>
 </Box>
@@ -1576,7 +1576,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Press"}
 </Text>
 </Box>
@@ -1874,7 +1874,7 @@ className={`w-box cry9bxc ct02u4h c1lfjoq7 c16xs6ny`}>
 <Box
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"© 2025 T342, under the GNU GPLv3."}
 </Text>
 <Link

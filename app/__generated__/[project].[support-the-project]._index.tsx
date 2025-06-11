@@ -48,7 +48,7 @@ className={`w-box c1mcu1jn cry9bxc c1qyy4dh ct02u4h c1lfjoq7 c1g50ce cgtnddv c1l
 <Slot>
 <Fragment_1>
 <NavigationMenu
-className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1mgacbo c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
 <Box
 className={`w-box`}>
 <Link
@@ -61,7 +61,7 @@ src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
 width={512}
 height={130}
 alt={"logo"}
-className={`w-image c20huwx`} />
+className={`w-image c1k1cmo8`} />
 </Link>
 </Box>
 <NavigationMenuList
@@ -74,7 +74,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Features"}
 </Text>
 <Box
@@ -103,7 +103,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"SEO goal setting"}
 </Text>
 <Paragraph
@@ -125,7 +125,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"User-friendly dashboard"}
 </Text>
 <Paragraph
@@ -147,7 +147,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Visual reports"}
 </Text>
 <Paragraph
@@ -169,7 +169,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Smart Keyword Generator"}
 </Text>
 <Paragraph
@@ -184,7 +184,7 @@ className={`w-box`}>
 <Link
 className={`w-link cry9bxc c1lfjoq7 c1t3frhm c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 czx9unu cn1jd01 c12hsjsj c1ru090q c1syziaj c119suh8 cnqbj7z c1semaqr c1kectvc c18nx7en c422x95 c13zjl4p c135vpv5 c1bkqfhr c1h61a8n ci33z0 ce02iuh c15hexcm c1axwber c1l2ougi c9p707e c4rln6h c11nocyb c58h60l ce4uoav c141dmt7`}>
 <Text
-className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+className={`w-text-1 c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 {"One-Click Optimization"}
 </Text>
 <Paragraph
@@ -213,7 +213,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Company"}
 </Text>
 <Box
@@ -242,7 +242,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"About"}
 </Text>
 </Box>
@@ -260,7 +260,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Blog"}
 </Text>
 </Box>
@@ -278,7 +278,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Careers"}
 </Text>
 </Box>
@@ -296,7 +296,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Press"}
 </Text>
 </Box>
@@ -617,7 +617,7 @@ className={`w-box cry9bxc ct02u4h c1lfjoq7 c16xs6ny`}>
 <Box
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"© 2025 T342, under the GNU GPLv3."}
 </Text>
 <Link

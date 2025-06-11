@@ -50,7 +50,7 @@ className={`w-box c1mcu1jn cry9bxc c1qyy4dh ct02u4h c1lfjoq7 c1g50ce cgtnddv c1l
 <Slot>
 <Fragment_1>
 <NavigationMenu
-className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1xuq60h c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
+className={`w-navigation-menu c1cqu2xh cry9bxc c7vx2dq c1mgacbo c1p217py c193ydh7 crglsme c14ip164 c1bkqfhr c1qyy4dh ct02u4h c13ldpkq c1gw84sn cjq768y c1le23sj c40yjke c1kzn7na c17q2jvf`}>
 <Box
 className={`w-box`}>
 <Link
@@ -63,7 +63,7 @@ src={"/assets/VAIIYA_Logo.svg_bW9proSqkitpZzOPJx7H2.webp"}
 width={512}
 height={130}
 alt={"logo"}
-className={`w-image c20huwx`} />
+className={`w-image c1k1cmo8`} />
 </Link>
 </Box>
 <NavigationMenuList
@@ -76,7 +76,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Features"}
 </Text>
 <Box
@@ -105,7 +105,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"SEO goal setting"}
 </Text>
 <Paragraph
@@ -127,7 +127,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"User-friendly dashboard"}
 </Text>
 <Paragraph
@@ -149,7 +149,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Visual reports"}
 </Text>
 <Paragraph
@@ -171,7 +171,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Smart Keyword Generator"}
 </Text>
 <Paragraph
@@ -186,7 +186,7 @@ className={`w-box`}>
 <Link
 className={`w-link cry9bxc c1lfjoq7 c1t3frhm c1z0l37u c1ml0hr7 cv2gy63 cxn73lu c5dy17i c1hsfuam cg37ob1 czx9unu cn1jd01 c12hsjsj c1ru090q c1syziaj c119suh8 cnqbj7z c1semaqr c1kectvc c18nx7en c422x95 c13zjl4p c135vpv5 c1bkqfhr c1h61a8n ci33z0 ce02iuh c15hexcm c1axwber c1l2ougi c9p707e c4rln6h c11nocyb c58h60l ce4uoav c141dmt7`}>
 <Text
-className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
+className={`w-text-1 c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 {"One-Click Optimization"}
 </Text>
 <Paragraph
@@ -215,7 +215,7 @@ className={`w-menu-item`}>
 type={"button"}
 className={`w-button catu86a csru8nn c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p ch11gwv c1md20bl c1e892th c1qyy4dh ct02u4h c1e7helk c1l0vha7 csyy8v5 c1bc2i7x c17r8x7j c13b531o c1my01bv c135vpv5 c1y6imu0 c3qzgd0 cl60rel c1ib9cr2 c1ukphsi c12mjb61`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"Company"}
 </Text>
 <Box
@@ -244,7 +244,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"About"}
 </Text>
 </Box>
@@ -262,7 +262,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Blog"}
 </Text>
 </Box>
@@ -280,7 +280,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Careers"}
 </Text>
 </Box>
@@ -298,7 +298,7 @@ className={`w-html-embed`} />
 <Box
 className={`w-box cry9bxc c1lfjoq7`}>
 <Text
-className={`w-text cy1haag c12y6bqh`}>
+className={`w-text-1 cy1haag c12y6bqh`}>
 {"Press"}
 </Text>
 </Box>
@@ -358,21 +358,24 @@ className={`w-bold-text cnonmc3 c180fws7 cl7jefz c11dowh9`}>
 </Bold>
 </Heading>
 <Paragraph
-className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cjfg1nn cn12ej2 csyrz7g c1dhz37v`}>
+className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu crlyucb cjfg1nn cn12ej2 csyrz7g c1dmsc2 c1dhz37v ce60n8e`}>
 {"Think you're safe? "}
 <Italic
 className={`w-italic-text c180fws7`}>
 {"Think again."}
 </Italic>
-{" "}
 {""}
 <br />
 {""}
-{"VAIIYA sees the threats you don't. "}
+{"VAIIYA sees the threats you don't."}
 {""}
 <br />
 {""}
-{"We are the ultimate hard line of security, when you have nowhere else to turn."}
+{"We are the ultimate hard line of security, "}
+{""}
+<br />
+{""}
+{"when you have nowhere else to turn."}
 </Paragraph>
 <Box
 className={`w-box c76ugon c1va7jp0 c18xibj9 ccn5ruk c8dp7hf c6d3y84 cax3zcx c1le23sj c40yjke c1kzn7na c17q2jvf csugexd cciu1th co2lzyj cghs7z1 c18xchlu ckqzz7r`}>
@@ -432,7 +435,7 @@ className={`w-box c1357293 c9jnjeu czr2pxy c155uc7w cry9bxc c1lfjoq7 c1778y6x c1
 className={`w-paragraph c10u26x6 c1qom380 c62q3t9 c1357293 c9jnjeu czt9u4x cjfg1nn cy1haag c682mpb c135vpv5`}>
 {"VAIIYA has been trusted by the many "}
 <Span
-className={`w-text-1 c16kgkvs`}>
+className={`w-text c16kgkvs`}>
 {"rival"}
 </Span>
 {" sponsors in THE FINALS"}
@@ -540,14 +543,14 @@ className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cjfg1nn cqe39x4`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cn6056e c1117wcl c16xs6ny ct02u4h c1rstvfo c10x096o c1mpedrw`}>
 <Text
-className={`w-text cnrz8fp cjfg1nn c18o6g49 c1cyf9ub`}>
+className={`w-text-1 cnrz8fp cjfg1nn c18o6g49 c1cyf9ub`}>
 <Bold
 className={`w-bold-text`}>
 {"Junior McJohnson"}
 </Bold>
 </Text>
 <Text
-className={`w-text cjfg1nn`}>
+className={`w-text-1 cjfg1nn`}>
 {"CEO of Alfa Acta"}
 </Text>
 </Box>
@@ -584,14 +587,14 @@ className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cjfg1nn cqe39x4`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cn6056e c1117wcl c16xs6ny ct02u4h c1rstvfo c10x096o c1mpedrw`}>
 <Text
-className={`w-text cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
+className={`w-text-1 cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
 <Bold
 className={`w-bold-text c1cyf9ub c6k8nt0`}>
 {"Ichikawa Natsume"}
 </Bold>
 </Text>
 <Text
-className={`w-text cjfg1nn`}>
+className={`w-text-1 cjfg1nn`}>
 {"CEO of Engimo"}
 </Text>
 </Box>
@@ -624,14 +627,14 @@ className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cjfg1nn cqe39x4`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cn6056e c1117wcl c16xs6ny ct02u4h c1rstvfo c10x096o c1mpedrw`}>
 <Text
-className={`w-text cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
+className={`w-text-1 cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
 <Bold
 className={`w-bold-text`}>
 {"Damien Vossler"}
 </Bold>
 </Text>
 <Text
-className={`w-text cjfg1nn`}>
+className={`w-text-1 cjfg1nn`}>
 {"CEO of Dissun"}
 </Text>
 </Box>
@@ -664,14 +667,14 @@ className={`w-paragraph cuoke4w cnrz8fp c6oj68y c23h93x cjfg1nn cqe39x4`}>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cn6056e c1117wcl c16xs6ny ct02u4h c1rstvfo c10x096o c1mpedrw`}>
 <Text
-className={`w-text cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
+className={`w-text-1 cnrz8fp cjfg1nn c18o6g49 c1cyf9ub cl7jefz`}>
 <Bold
 className={`w-bold-text`}>
 {"Yun Beom-seok"}
 </Bold>
 </Text>
 <Text
-className={`w-text cjfg1nn`}>
+className={`w-text-1 cjfg1nn`}>
 {"CEO of ISEUL-T"}
 </Text>
 </Box>
@@ -935,7 +938,7 @@ className={`w-box cry9bxc ct02u4h c1lfjoq7 c16xs6ny`}>
 <Box
 className={`w-box cry9bxc c1qyy4dh c1wt8a7g c1md20bl c1e892th c1y4fwd4`}>
 <Text
-className={`w-text`}>
+className={`w-text-1`}>
 {"© 2025 T342, under the GNU GPLv3."}
 </Text>
 <Link
